@@ -8,7 +8,7 @@ description: "Randy's blog"
 author: "Randy Ofosu"
 
 url: "https://randyofosu.github.io"
-baseurl: "/randysemicolon"
+baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
 author-bio: "Hier deel ik alles wat ik heb geleerd of wat ik nog aan het leren ben. Dat doe ik doormiddel van uitgewerkte blogposts."
