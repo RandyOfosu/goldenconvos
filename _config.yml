@@ -5,7 +5,7 @@ name: "R;"
 description: "Fluid, responsive blog theme for Jekyll"
 
 # Your name. Will show in your footer + sidebar
-author: "John Doge"
+author: "Randy Ofosu"
 
 url: "https://randyofosu.github.io"
 baseurl: "/randysemicolon"
@@ -15,15 +15,14 @@ author-bio: "I'm a dog. I develop things. This is my blog so why don't you close
 
 # Social Accounts (mine, as placeholders)
 
-twitter: mx3m
-github: m3xm
-dribbble: m3xm
-instagram: m3xm
+twitter: randysemicolon
+github: https://github.com/RandyOfosu
+instagram: randysemicolon
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
-ga_domain: m3xm.github.io
-ga_tracking_id: UA-47727049-1
+ga_domain: 
+ga_tracking_id: 
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
