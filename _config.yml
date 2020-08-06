@@ -7,7 +7,7 @@ description: "Fluid, responsive blog theme for Jekyll"
 # Your name. Will show in your footer + sidebar
 author: "Randy Ofosu"
 
-url: "randyofosu.github.io"
+url: "https://randyofosu.github.io"
 baseurl: "/randysemicolon"
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
