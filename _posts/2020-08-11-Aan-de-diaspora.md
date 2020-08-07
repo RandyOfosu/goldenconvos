@@ -1,5 +1,5 @@
 ---
-layout: post
+# layout: post
 title: "Aan de diaspora"
 date: 2020-08-11 12:30:51
 ---
