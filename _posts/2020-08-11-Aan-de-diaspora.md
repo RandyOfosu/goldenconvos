@@ -6,7 +6,7 @@ date: 2020-08-11 12:30:51
 
 # Introductie
 
-RANDY OFOSU - Dit is een bericht is gericht naar alle die het lezen, ongeacht de titel die deze post draagt.
+**RANDY OFOSU** - Dit is een bericht is gericht naar alle die het lezen, ongeacht de titel die deze post draagt.
 Het doel van dit bericht is om de diaspora te motiveren en inspireren.
 Niet omdat ik denk dat ze zonder dit bericht het anders niet zouden halen maar om een andere invalshoek te geven in de situatie waarin ze zijn geboren.
 
