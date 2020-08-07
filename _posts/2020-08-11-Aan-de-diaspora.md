@@ -10,8 +10,6 @@ Niet omdat ik denk dat ze zonder dit bericht het anders niet zouden halen maar o
 
 # Wat is diaspora?
 
-Het is een [Oudgrieks](<https://nl.wikipedia.org/wiki/Diaspora_(antropologie)>) woord voor verstrooiing of uitzaaiing. In deze context heb je het dan over een verstrooiing van een volk of religie over de wereld. Het is een woord dat de tweede generatie allochtonen beter beschrijft zonder enig vorm van negatieve connotatie.
+Het is een <a href="https://nl.wikipedia.org/wiki/Diaspora_(antropologie)" target="_blank">Oudgrieks</a> woord voor verstrooiing of uitzaaiing. In deze context heb je het dan over een verstrooiing van een volk of religie over de wereld. Het is een woord dat de tweede generatie allochtonen beter beschrijft zonder enig vorm van negatieve connotatie.
 
 etc etc etc etc.
-
-<a href="https://nl.wikipedia.org/wiki/Diaspora_(antropologie)" target="_blank">Oudgrieks</a>
