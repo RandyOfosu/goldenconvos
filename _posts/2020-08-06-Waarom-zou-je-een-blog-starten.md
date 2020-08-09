@@ -22,7 +22,7 @@ Stel je bent klaar met school en wilt aan de bak of stel je werkt al en wilt een
 
 Je kan dus beseffen dat een blog -- een online document is dat jouw kunnen tentoonstelt. Je kan het helemaal aankleden zoals jij dat wilt. Dat kan je doen doormiddel van filmpjes, tekst of audio. Alle communicatieve media zijn gedekt. Het mooiste van een blog is dat het een interactief medium kan zijn. Dat scheelt jouw werkgever constant rondbellen naar referenties. Geloof mij, dat gaat hij/zij erg appreciëren.
 
-## Het helpt bij jouw persoonlijk leerproces.
+## Het helpt bij jouw persoonlijke leerproces.
 
 Er is een blogpost van <a href="https://tomprof.stanford.edu/posting/1495#:~:text=Learning%20is%20a%20social%20process,see%20other%20people%20perform%20them." target="_blank">Stanford University</a> dat het volgende zegt over het leerproces van mensen.
 
