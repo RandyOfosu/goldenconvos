@@ -9,14 +9,27 @@ date: 2020-08-06 18:57:51
 
 **RANDY OFOSU** - Ik ben begonnen met bloggen omdat het de snelste en handigste manier is voor mij om mezelf te expressioneren. Zoals je weet is het gratis en houden wij Nederlanders van gratis. Daarnaast maakt het mij gelukkig als ik mensen kan helpen met een kwestie waarmee ze vastlopen. Tot slot is het herhalen van waardevolle advies en/of technieken het beste wat jij jezelf kan wensen.
 
-Het brein is een ontzettend kostbaar goed. Echter is je brein net zo goed als wat er in zit. Je kan het elke dag verslavende snacks geven of goeie bittere groentes. Daar gaat iedereen zelf over. Zelf neem ik verantwoordelijkheid hiervoor en heb besloten om mijn brein te cleansen van al dat overtollig suiker.
-
-Mijn social media cocktail (Reddit, Twitter, Instagram, Hackernews, YouTube en een beetje Twitch) zal dus ruimte moeten maken voor mijn nieuwe dagelijkse routine. Tijd vergooien doen we niet meer en dit is 1 van de manieren hoe ik mijn tijd nuttig kan besteden!
+- Dit is mijn huidige social media cocktail (Reddit, Twitter, Instagram, Hackernews, YouTube en een beetje Twitch).
 
 ### Wat is het nut van een blog?
 
-- Bewijs van kennis(portfolio).
-- Het structureren van kennis dat je bezit(Teaching).
+(portfolio)
+
+> Nederland is een land van papier.
+
+Dit zijn waardevolle woorden van mijn moeder.
+
+Zonder uitleg is dit makkelijk om uit context te halen. De les wat mijn Mama mij wil meegeven is dat "documentatie bijna niet te betwisten is." Geen bewijs, geen eis. Denk aan diploma's, portfolio's, curricila vitae, certificaten en dergelijke. Dit is onbetwistbaar bewijs van je prestaties en potentie. Er valt dan nog wel te discussiëren hoe waardevol elk document is, maar dat is dan ook een andere discussie. Het gaat hierom dat dit _aantoonbaar_ is.
+
+Stel je bent klaar met school en wilt aan de bak of stel je werkt al en wilt een hogere functie/meer verantwoordelijkheid.
+**Hoe** ga jij dat bewijzen aan jouw (toekomstige) werkgever dat je weet, wat jij weet en dat je kan, wat jij kan.
+
+Als dat allemaal is doorgedrongen kan je dus beseffen dat een blog -- een online document is dat jouw kunnen tentoonstelt. Je kan het helemaal aankleden zoals jij dat wilt. Dat kan je doen doormiddel van filmpjes, tekst of audio. Alle communicatieve media zijn gedekt. Het mooiste van een blog is dat het een interactief medium kan zijn. Dat scheelt jouw werkgever constant rondbellen naar referenties. Geloof mij, dat gaat hij/zij erg appreciëren.
+
+(Teaching)
+
+# Het helpt structureren van de kennis dat je bezit.
+
 - Je kan er altijd naar refereren(Database).
 - Een gezonde manier van het bouwen van een trouwe community(Grass Roots).
 - Als je het niet gebruikt, raak je het kwijt.
