@@ -7,6 +7,14 @@ date: 2020-08-06 18:57:51
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **20 MIN READ**</i>
 
+## Inleiding
+
+RANDY OFOSU - Ik ben begonnen met bloggen omdat het de snelste en handigste manier is voor mij om mezelf te expressioneren. Zoals je weet is het gratis en houden wij Nederlanders van gratis. Daarnaast maakt het mij gelukkig als ik mensen kan helpen met een kwestie waarmee ze vastlopen. Tot slot is het herhalen van waardevolle advies en/of technieken het beste wat jij jezelf kan wensen.
+
+Het brein is een ontzettend kostbaar goed. Echter is je brein net zo goed als wat er in zit. Je kan het elke dag suiker geven of goeie bittere groentes. Daar gaat iedereen zelf over. Ik neem verantwoordelijkheid hierover en heb besloten om mijn brein te `cleansen` van al dat overtollig suiker.
+
+Mijn social media cocktail (Reddit, Twitter, Instagram, Hackernews, YouTube en een beetje Twitch) zal dus ruimte moeten maken voor mijn nieuwe dagelijkse routine. Tijd vergooien doen we niet meer en dit is 1 van de manieren hoe ik mijn tijd nuttig kan besteden!
+
 ### Wat is het nut van een blog?
 
 - Bewijs van kennis(portfolio).
