@@ -9,11 +9,11 @@ date: 2020-08-06 18:57:51
 
 **RANDY OFOSU** - Ik ben begonnen met bloggen omdat het de snelste en handigste manier is voor mij om mezelf te expressioneren. Zoals je weet is het gratis en houden wij Nederlanders van gratis. Daarnaast maakt het mij gelukkig als ik mensen kan helpen met een kwestie waarmee ze vastlopen. Tot slot is het herhalen van waardevolle advies en/of technieken het beste wat jij jezelf kan wensen.
 
-### Wat is het nut van een blog?
-
-> Nederland is een land gebouwd op papier.
+# Wat is het nut van een blog?
 
 Dit zijn waardevolle woorden van mijn moeder.
+
+> Nederland is een land gebouwd op papier.
 
 Zonder uitleg is dit makkelijk om uit context te halen. De les wat mijn Mama mij wil meegeven is dat "documentatie bijna niet te betwisten is." Geen bewijs, geen eis. Denk aan diploma's, portfolio's, curricila vitae, certificaten en dergelijke. Dit is onbetwistbaar bewijs van je prestaties en potentie. Er valt dan nog wel te discussiëren hoe waardevol elk document is, maar dat is dan ook een andere discussie. Het gaat hierom dat dit _aantoonbaar_ is.
 
@@ -22,15 +22,27 @@ Stel je bent klaar met school en wilt aan de bak of stel je werkt al en wilt een
 
 Als dat allemaal is doorgedrongen kan je dus beseffen dat een blog -- een online document is dat jouw kunnen tentoonstelt. Je kan het helemaal aankleden zoals jij dat wilt. Dat kan je doen doormiddel van filmpjes, tekst of audio. Alle communicatieve media zijn gedekt. Het mooiste van een blog is dat het een interactief medium kan zijn. Dat scheelt jouw werkgever constant rondbellen naar referenties. Geloof mij, dat gaat hij/zij erg appreciëren.
 
-(Teaching)
+## Het helpt bij jouw persoonlijk leerproces.
 
-# Het helpt structureren van de kennis dat je bezit.
+Er is een blogpost van <a href="https://tomprof.stanford.edu/posting/1495#:~:text=Learning%20is%20a%20social%20process,see%20other%20people%20perform%20them." target="_blank">Stanford University</a> dat het volgende zegt over het leerproces van mensen.
 
-- Je kan er altijd naar refereren(Database).
+1. Leren is een sociale activiteit, dit kan direct of indirect met andere mensen.
+2. Mensen zullen hun acties herhalen als zij ervoor worden beloond, een beloning kan ook erkenning zijn van je gelijken.
+3. Mensen leren het **meest** wanneer ze worden geconfronteerd met een dilemma of iets wat relevant is voor hen om te leren.
+
+Het is wel duidelijk dat deze punten allemaal kunnen vallen onder het bloggen.
+
+Je merkt het vast niet maar toen ik dit schreef deed ik mijn best om al mijn standpunten te ontkrachten. Het proces van mijn eigen blogpost ontkrachten helpt mij enorm bij mijn leerproces. Want je doet je best om het van verschillende invalshoeken te bekijken. Nu gaat het toevallig over het beginnen van een blog, maar in de toekomst zullen er posts komen die meer onderzoek zullen vereisen dan dit. Natuurlijk zitten er mazen in mijn net en moet ik accepteren dat mijn blogposts nooit perfect zullen zijn.
+
+## Alles wat je niet gebruikt raak je kwijt.
+
+Als je niet blijft schrijven zal je het verleren. Met een blog verleer je het schrijven niet alleen maar zal je het juist versterken. Je wilt niet telkens dezelfde woorden gebruiken dus zoek je synoniemen op of ga je jouw grammatica checken. Misschien kom je erachter dat je niet precies weet hoe je een woord spelt. Dat had ik net met dilemma.
+
+Elke vorm van communicatie met mensen moet je meesteren. Dat is alleen als je een makkelijk leven wilt natuurlijk.
+
 - Een gezonde manier van het bouwen van een trouwe community(Grass Roots).
-- Als je het niet gebruikt, raak je het kwijt.
 
-### Waarom zouden mensen een blog willen lezen?
+## Waarom zouden mensen een blog willen lezen?
 
 - Het is persoonlijker.
 - Mensen hebben van aard een drang om te willen verbinden met elkaar.
