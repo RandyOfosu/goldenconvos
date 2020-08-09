@@ -44,7 +44,7 @@ Tegenwoordig gooien mensen wel heel vaak de term community rond. Hierom denk ik 
 
 > A community is a group of individiduals who share a mutual concern for one another's welfare.
 
-Dit is direct geciteerd uit het boek van <a href="https://www.bol.com/nl/p/the-art-of-community/9200000065862148/">_The Art of Community_</a> van Charles H. Vogl. Zolang niemand van een "community" om elkaar geeft spreken we niet van een community, maar van een los kluitje mensen. Ja, zij kunnen toevallig geïnteresseerd zijn in dezelfde dingen. Ja, ze kunnen dezelfde mening delen over polarizerende onderwerpen. Echter zolang zij niet achterom kijken voor elkaar, is er geen sprake van een community.
+Dit is direct geciteerd uit het boek van <a href="https://www.bol.com/nl/p/the-art-of-community/9200000065862148/" target="_blank">_The Art of Community_</a> van Charles H. Vogl. Zolang niemand van een "community" om elkaar geeft spreken we niet van een community, maar van een los kluitje mensen. Ja, zij kunnen toevallig geïnteresseerd zijn in dezelfde dingen. Ja, ze kunnen dezelfde mening delen over polarizerende onderwerpen. Echter zolang zij niet achterom kijken voor elkaar, is er geen sprake van een community.
 
 In een latere blogpost zal ik het hebben over hoe je een sterke community kan bouwen, met behulp van het boek wat ik eerder heb genoemd. Voor nu is mijn punt dat je doormiddel van een blog een community kan bouwen.
 
