@@ -18,7 +18,7 @@ Dit zijn waardevolle woorden van mijn moeder.
 Zonder uitleg is dit makkelijk om uit context te halen. De les wat mijn Mama mij wil meegeven is dat "documentatie bijna niet te betwisten is." Geen bewijs, geen eis. Denk aan diploma's, portfolio's, curricila vitae, certificaten en dergelijke. Dit is onbetwistbaar bewijs van je prestaties en potentie. Er valt dan nog wel te discussiëren hoe waardevol elk document is, maar dat is dan ook een andere discussie. Het gaat hierom dat dit _aantoonbaar_ is.
 
 Stel je bent klaar met school en wilt aan de bak of stel je werkt al en wilt een hogere functie/meer verantwoordelijkheid.
-**Hoe** ga jij dat bewijzen aan jouw (toekomstige) werkgever dat je weet, wat jij weet en dat je kan, wat jij kan.
+**Hoe** ga jij bewijzen aan jouw (toekomstige) werkgever dat je weet, wat jij weet en dat je kan, wat jij kan.
 
 Als dat allemaal is doorgedrongen kan je dus beseffen dat een blog -- een online document is dat jouw kunnen tentoonstelt. Je kan het helemaal aankleden zoals jij dat wilt. Dat kan je doen doormiddel van filmpjes, tekst of audio. Alle communicatieve media zijn gedekt. Het mooiste van een blog is dat het een interactief medium kan zijn. Dat scheelt jouw werkgever constant rondbellen naar referenties. Geloof mij, dat gaat hij/zij erg appreciëren.
 
