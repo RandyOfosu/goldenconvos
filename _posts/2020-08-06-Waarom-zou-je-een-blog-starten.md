@@ -9,7 +9,7 @@ date: 2020-08-06 18:57:51
 
 **RANDY OFOSU** - Ik ben begonnen met bloggen omdat het de snelste en handigste manier is voor mij om mezelf te expressioneren. Zoals je weet is het gratis en houden wij Nederlanders van gratis. Daarnaast maakt het mij gelukkig als ik mensen kan helpen met een kwestie waarmee ze vastlopen. Tot slot is het herhalen van waardevolle advies en/of technieken het beste wat jij jezelf kan wensen.
 
-# Wat is het nut van een blog?
+## Wat is het nut van een blog?
 
 Dit zijn waardevolle woorden van mijn moeder.
 
@@ -46,9 +46,11 @@ Tegenwoordig gooien mensen wel heel vaak de term community rond. Hierom denk ik 
 
 Dit is direct geciteerd uit het boek van <a href="https://www.bol.com/nl/p/the-art-of-community/9200000065862148/" target="_blank">_The Art of Community_</a> van Charles H. Vogl. Zolang niemand van een "community" om elkaar geeft spreken we niet van een community, maar van een los kluitje mensen. Ja, zij kunnen toevallig geïnteresseerd zijn in dezelfde dingen. Ja, ze kunnen dezelfde mening delen over polarizerende onderwerpen. Echter zolang zij niet achterom kijken voor elkaar, is er geen sprake van een community.
 
-In een latere blogpost zal ik het hebben over hoe je een sterke community kan bouwen, met behulp van het boek wat ik eerder heb genoemd. Voor nu is mijn punt dat je doormiddel van een blog een community kan bouwen.
+In een toekomstige blogpost zal ik het hebben over hoe je een sterke community kan bouwen, met behulp van het boek wat ik eerder heb genoemd. Voor nu is mijn punt dat je doormiddel van een blog een community kan bouwen.
 
 ## Waarom zouden mensen een blog willen lezen?
+
+Ik zal deze vraag in het kort beantwoorden met bulletpoints die niet te interpreteren zijn.
 
 - Het is persoonlijker.
 - Mensen hebben van aard een drang om te willen verbinden met elkaar.
