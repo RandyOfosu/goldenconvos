@@ -13,9 +13,7 @@ date: 2020-08-06 18:57:51
 
 ### Wat is het nut van een blog?
 
-(portfolio)
-
-> Nederland is een land van papier.
+> Nederland is een land gebouwd op papier.
 
 Dit zijn waardevolle woorden van mijn moeder.
 
