@@ -18,9 +18,9 @@ Dit zijn waardevolle woorden van mijn moeder.
 Zonder uitleg is dit makkelijk om uit context te halen. De les wat mijn Mama mij wil meegeven is dat "documentatie bijna niet te betwisten is." Geen bewijs, geen eis. Denk aan diploma's, portfolio's, curricila vitae, certificaten en dergelijke. Dit is onbetwistbaar bewijs van je prestaties en potentie. Er valt dan nog wel te discussiëren hoe waardevol elk document is, maar dat is dan ook een andere discussie. Het gaat hierom dat dit _aantoonbaar_ is.
 
 Stel je bent klaar met school en wilt aan de bak of stel je werkt al en wilt een hogere functie/meer verantwoordelijkheid.
-**Hoe** ga jij bewijzen aan jouw (toekomstige) werkgever dat je weet, wat jij weet en dat je kan, wat jij kan.
+**Hoe** ga jij bewijzen aan jouw (toekomstige) werkgever dat jij weet, wat je weet en dat jij kan, wat je kan.
 
-Als dat allemaal is doorgedrongen kan je dus beseffen dat een blog -- een online document is dat jouw kunnen tentoonstelt. Je kan het helemaal aankleden zoals jij dat wilt. Dat kan je doen doormiddel van filmpjes, tekst of audio. Alle communicatieve media zijn gedekt. Het mooiste van een blog is dat het een interactief medium kan zijn. Dat scheelt jouw werkgever constant rondbellen naar referenties. Geloof mij, dat gaat hij/zij erg appreciëren.
+Je kan dus beseffen dat een blog -- een online document is dat jouw kunnen tentoonstelt. Je kan het helemaal aankleden zoals jij dat wilt. Dat kan je doen doormiddel van filmpjes, tekst of audio. Alle communicatieve media zijn gedekt. Het mooiste van een blog is dat het een interactief medium kan zijn. Dat scheelt jouw werkgever constant rondbellen naar referenties. Geloof mij, dat gaat hij/zij erg appreciëren.
 
 ## Het helpt bij jouw persoonlijk leerproces.
 
@@ -32,15 +32,21 @@ Er is een blogpost van <a href="https://tomprof.stanford.edu/posting/1495#:~:tex
 
 Het is wel duidelijk dat deze punten allemaal kunnen vallen onder het bloggen.
 
-Je merkt het vast niet maar toen ik dit schreef deed ik mijn best om al mijn standpunten te ontkrachten. Het proces van mijn eigen blogpost ontkrachten helpt mij enorm bij mijn leerproces. Want je doet je best om het van verschillende invalshoeken te bekijken. Nu gaat het toevallig over het beginnen van een blog, maar in de toekomst zullen er posts komen die meer onderzoek zullen vereisen dan dit. Natuurlijk zitten er mazen in mijn net en moet ik accepteren dat mijn blogposts nooit perfect zullen zijn.
-
 ## Alles wat je niet gebruikt raak je kwijt.
 
 Als je niet blijft schrijven zal je het verleren. Met een blog verleer je het schrijven niet alleen maar zal je het juist versterken. Je wilt niet telkens dezelfde woorden gebruiken dus zoek je synoniemen op of ga je jouw grammatica checken. Misschien kom je erachter dat je niet precies weet hoe je een woord spelt. Dat had ik net met dilemma.
 
 Elke vorm van communicatie met mensen moet je meesteren. Dat is alleen als je een makkelijk leven wilt natuurlijk.
 
-- Een gezonde manier van het bouwen van een trouwe community(Grass Roots).
+## Het bouwen van een community
+
+Tegenwoordig gooien mensen wel heel vaak de term community rond. Hierom denk ik dat het nodig om te definiëren wat een community is.
+
+> A community is a group of individiduals who share a mutual concern for one another's welfare.
+
+Dit is direct geciteerd uit het boek van <a href="https://www.bol.com/nl/p/the-art-of-community/9200000065862148/">_The Art of Community_</a> van Charles H. Vogl. Zolang niemand van een "community" om elkaar geeft spreken we niet van een community, maar van een los kluitje mensen. Ja, zij kunnen toevallig geïnteresseerd zijn in dezelfde dingen. Ja, ze kunnen dezelfde mening delen over polarizerende onderwerpen. Echter zolang zij niet achterom kijken voor elkaar, is er geen sprake van een community.
+
+In een latere blogpost zal ik het hebben over hoe je een sterke community kan bouwen, met behulp van het boek wat ik eerder heb genoemd. Voor nu is mijn punt dat je doormiddel van een blog een community kan bouwen.
 
 ## Waarom zouden mensen een blog willen lezen?
 
