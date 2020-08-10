@@ -11,13 +11,20 @@ date: 2020-08-06 18:57:51
 
 <img src="/assets/img/knollingblog.jpg" alt="Picture of minimum setup" title="Battlestation Knolling">
 
+###### TL;DR
+
+- Je kan met een blog bewijzen wat je kan.
+- Een blog helpt je leren.
+- Je verleert het schrijven als je het niet vaak doet.
+- Je kan een community bouwen met een blog.
+
 ## Wat is het nut van een blog?
 
 Dit zijn waardevolle woorden van mijn moeder.
 
 > Nederland is een land gebouwd op papier.
 
-Zonder uitleg is dit makkelijk om uit context te halen. De les wat mijn Mama mij wil meegeven is dat "documentatie bijna niet te betwisten is." Geen bewijs, geen eis. Denk aan diploma's, portfolio's, curricila vitae, certificaten en dergelijke. Dit is onbetwistbaar bewijs van je prestaties en potentie. Er valt dan nog wel te discussiëren hoe waardevol elk document is, maar dat is dan ook een andere discussie. Het gaat hierom dat dit _aantoonbaar_ is.
+Zonder uitleg is dit makkelijk uit context te halen. De les wat mijn Mama wil meegeven is dat "documentatie bijna niet te betwisten is." Geen bewijs, geen eis. Denk aan diploma's, portfolio's, curricila vitae, certificaten en dergelijke. Dit is onbetwistbaar bewijs van je prestaties en potentie. Er valt dan nog wel te discussiëren hoe waardevol elk document is, maar dat is dan ook een andere discussie. Het gaat hierom dat dit _aantoonbaar_ is.
 
 Stel je bent klaar met school en wilt aan de bak of stel je werkt al en wilt een hogere functie/meer verantwoordelijkheid.
 **Hoe** ga jij bewijzen aan jouw (toekomstige) werkgever dat jij weet, wat je weet en dat jij kan, wat je kan.
@@ -26,7 +33,7 @@ Je kan dus beseffen dat een blog -- een online document is dat jouw kunnen tento
 
 ## Het helpt bij jouw persoonlijke leerproces.
 
-Er is een blogpost van <a href="https://tomprof.stanford.edu/posting/1495#:~:text=Learning%20is%20a%20social%20process,see%20other%20people%20perform%20them." target="_blank">Stanford University</a> dat het volgende zegt over het leerproces van mensen.
+Er is een blogpost van <a href="https://tomprof.stanford.edu/posting/1495#:~:text=Learning%20is%20a%20social%20process,see%20other%20people%20perform%20them." target="_blank">Stanford University</a> dat het volgende zegt over het leerproces van de mens.
 
 1. Leren is een sociale activiteit, dit kan direct of indirect met andere mensen.
 2. Mensen zullen hun acties herhalen als zij ervoor worden beloond, een beloning kan ook erkenning zijn van je gelijken.
@@ -36,9 +43,9 @@ Het is wel duidelijk dat deze punten allemaal kunnen vallen onder het bloggen.
 
 ## Alles wat je niet gebruikt raak je kwijt.
 
-Als je niet blijft schrijven zal je het verleren. Met een blog verleer je het schrijven niet alleen maar zal je het juist versterken. Je wilt niet telkens dezelfde woorden gebruiken dus zoek je synoniemen op of ga je jouw grammatica checken. Misschien kom je erachter dat je niet precies weet hoe je een woord spelt. Dat had ik net met dilemma.
+Als je niet blijft schrijven zal je het verleren. Met een blog blijf het niet alleen vers in je repertoire maar zal je het juist versterken. Je wilt niet telkens dezelfde woorden gebruiken dus zoek je synoniemen op of ga je jouw grammatica controleren. Misschien kom je erachter dat je niet precies weet hoe je een woord spelt. Dat had ik net met _repertoire_.
 
-Elke vorm van communicatie met mensen moet je meesteren. Dat is alleen als je een makkelijk leven wilt natuurlijk.
+Elke vorm van communicatie met de mens moet je meesteren. Dat is alleen als je een makkelijk leven wilt natuurlijk.
 
 ## Het bouwen van een community
 
@@ -46,11 +53,11 @@ Tegenwoordig gooien mensen wel heel vaak de term community rond. Hierom denk ik 
 
 > A community is a group of individiduals who share a mutual concern for one another's welfare.
 
-Dit is direct geciteerd uit het boek van <a href="https://www.bol.com/nl/p/the-art-of-community/9200000065862148/" target="_blank">_The Art of Community_</a> van Charles H. Vogl. Zolang niemand van een "community" om elkaar geeft spreken we niet van een community, maar van een los kluitje mensen. Ja, zij kunnen toevallig geïnteresseerd zijn in dezelfde dingen. Ja, ze kunnen dezelfde mening delen over polarizerende onderwerpen. Maar zolang zij niet achterom kijken voor elkaar, is er geen sprake van een community.
+Dit is direct geciteerd uit het boek van <a href="https://www.bol.com/nl/p/the-art-of-community/9200000065862148/" target="_blank">_The Art of Community_</a> van Charles H. Vogl. Zolang niemand van een "community" om elkaar geeft, spreken we niet van een community, maar van een los kluitje mensen. Ja, zij kunnen toevallig geïnteresseerd zijn in dezelfde dingen. Ja, zij kunnen dezelfde mening delen over polarizerende onderwerpen. Maar zolang zij niet achterom kijken voor elkaar, is er geen sprake van een community.
 
-In een toekomstige blogpost zal ik het hebben over hoe je een sterke community kan bouwen, met behulp van het boek wat ik eerder heb genoemd. Voor nu is mijn punt dat je doormiddel van een blog een community kan bouwen.
+In een toekomstige blogpost zal ik het hebben over hoe je een sterke community kan bouwen, met behulp van het boek dat ik eerder heb genoemd. Voor nu is mijn punt dat je doormiddel van een blog een community kan bouwen.
 
-## Waarom zouden mensen een blog willen lezen?
+### Waarom zouden mensen een blog willen lezen?
 
 Ik zal de volgende vragen in het kort beantwoorden met bulletpoints die niet anders te interpreteren zijn.
 
