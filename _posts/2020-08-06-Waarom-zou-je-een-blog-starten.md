@@ -72,3 +72,5 @@ Ik zal de volgende vragen in het kort beantwoorden met bulletpoints die niet and
 - Het is een investering van tijd.
 - Het medium van het geschrift is niet voor iedereen.
 - Probeer het gewoon, wie weet?
+
+Hai, mocht je dit positief hebben ervaren <a href="*|LIST:SUBSCRIBE|*">Subscribe</a> dan zodat je geen enkele nieuwe blogpost mist!
