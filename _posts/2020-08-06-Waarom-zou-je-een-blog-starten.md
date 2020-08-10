@@ -73,11 +73,13 @@ Ik zal de volgende vragen in het kort beantwoorden met bulletpoints die niet and
 - Het medium van het geschrift is niet voor iedereen.
 - Probeer het gewoon, wie weet?
 
-Hai, mocht je dit positief hebben ervaren <!-- Begin Mailchimp Signup Form -->
+Hai, mocht je dit positief hebben ervaren subscribe dan zodat je geen enkele nieuwe blogpost mist!
+
+<!-- Begin Mailchimp Signup Form -->
 
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
-	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{background:#daa51f; clear:left; font:14px Helvetica,Arial,sans-serif; }
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
@@ -93,4 +95,4 @@ Hai, mocht je dit positief hebben ervaren <!-- Begin Mailchimp Signup Form -->
 </form>
 </div>
 
-<!--End mc_embed_signup--> dan zodat je geen enkele nieuwe blogpost mist!
+<!--End mc_embed_signup-->
