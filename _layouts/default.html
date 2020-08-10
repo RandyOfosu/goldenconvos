@@ -33,17 +33,17 @@ avatar.jpeg" alt="Picture" title="That's me, {{ site.author }}.">
       <nav>
         <h6>Volg me op</h6>
         <ul>
-          {% if site.instagram %}
-          <li><a target="_blank" href="https://instagram.com/{{ site.instagram }}">Instagram</a></li>
-          {% endif %}
           {% if site.linkedin %}
           <li><a target="_blank" href="https://linkedin.com/in/{{ site.linked-in }}">Linked-In</a></li>
           {% endif %}
-          {% if site.twitter %}
-          <li><a target="_blank" href="https://twitter.com/{{ site.twitter }}">Twitter</a></li>
-          {% endif %}
           {% if site.github %}
           <li><a target="_blank" href="https://github.com/{{ site.github }}">Github</a></li>
+          {% endif %}
+          {% if site.instagram %}
+          <li><a target="_blank" href="https://instagram.com/{{ site.instagram }}">Instagram</a></li>
+          {% endif %}
+          {% if site.twitter %}
+          <li><a target="_blank" href="https://twitter.com/{{ site.twitter }}">Twitter</a></li>
           {% endif %}
         </ul>
       </nav>
