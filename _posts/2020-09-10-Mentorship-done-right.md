@@ -39,12 +39,14 @@ Wat je moet accepteren is dat alles wat je hebt opgeschreven variabel is en zal 
 Allebei - Zodra de gegevens zijn gegoten in steen komt nu het moment dat jullie schriftelijk vaststellen wat de _deal_ is. Hier schrijf je:
 
 - Wat voor bedrag er is afgesproken.
-  - Wanneer en hoe dat bedrag overgemaakt moet worden.
-- Wanneer je moet aangeven dat je niet een afspraak kan na komen - Wat er gebeurt als je een afspraak niet kan nakomen zonder het te melden.
+    - Wanneer en hoe dat bedrag overgemaakt moet worden.
+- Wanneer je moet aangeven dat je niet een afspraak kan na komen 
+    - Wat er gebeurt als je een afspraak niet kan nakomen zonder het te melden.
 - Hoelang een sessie duurt.
 - Waar genoemde sessie plaats zal vinden.
 - Zaken wat betreft aansprakelijkheid.
-- Wanneer de overeenkomst is ontbonden. - Hoe je deze overeenkomst kan ontbinden.
+- Wanneer de overeenkomst is ontbonden. 
+    - Hoe je deze overeenkomst kan ontbinden.
 - Bijzonderheden.
 
 Deze overeenkomst geprint in tweevoud en wordt door jullie allebei ondertekend. Als je slim bent scan je dat document in en mail je dat aan jouw leerling. Nu bewaren jullie deze overeenkomst goed. Zwart-op-Wit (zout en peper) smaakt beter bij een goede handdruk.
