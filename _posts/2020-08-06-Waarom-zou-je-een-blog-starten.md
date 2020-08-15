@@ -5,7 +5,7 @@ date: 2020-08-06 18:57:51
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **10 MIN READ**</i>
+<i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **15 MIN READ**</i>
 
 **RANDY OFOSU** -- Ik ben begonnen met bloggen omdat het de snelste en handigste manier is voor mij om mezelf te expressioneren. Zoals je weet is het gratis en houden wij Nederlanders van gratis. Daarnaast maakt het mij gelukkig als ik mensen kan helpen met een kwestie waarmee ze vastlopen. Tot slot is het herhalen van waardevolle advies en/of technieken het beste wat jij jezelf kan wensen.
 
@@ -31,6 +31,50 @@ Stel je bent klaar met school en wilt aan de bak of stel je werkt al en wilt een
 **Hoe** ga jij bewijzen aan jouw (toekomstige) werkgever dat jij weet, wat je weet en dat jij kan, wat je kan.
 
 Je kan dus beseffen dat een blog -- een online document is dat jouw kunnen tentoonstelt. Je kan het helemaal aankleden zoals jij dat wilt. Dat kan je doen doormiddel van filmpjes, tekst of audio. Alle communicatieve media zijn gedekt. Het mooiste van een blog is dat het een interactief medium kan zijn. Dat scheelt jouw werkgever constant rondbellen naar referenties. Geloof mij, dat gaat hij/zij erg appreciëren.
+
+## Netwerken
+
+Het helpt enorm bij het netwerken met mensen waarbij je een goede eerste indruk wil maken. Ik kan dit niet vaak genoeg benadrukken. Ik sta hier zo erg achter dat ik een situatieschets ga schrijven:
+
+Ik ga naar een conventie of kom iemand tegen in mijn leven die mij van waardevolle informatie kan verschaffen of mij in goede posities kan plaatsen in zijn/haar bedrijf.
+
+### **Situatie A**
+
+Ik: Hai meneer/mevrouw achternaam, mijn naam is Randy Ofosu (zo heet jij vast niet maar doe gewoon mee). Online/Offline/viavia ben ik jouw bedrijf tegen gekomen. Ik heb jullie product/dienst tot op de dag van vandaag gebruikt en ik ben enorm tevreden. Graag zou ik een meningvolle deel uit willen maken van jouw/dit bedrijf.
+
+Achternaam: Hai Randy! Het doet ons goed dat onze product/dienst zo erg in de smaak valt bij jou. We doen ons best om zulk resultaat te behalen bij iedereen. Heb je een visitekaart of iets dergelijks. (Zodat ik weet met wie ik te maken heb.)
+
+Ik: uh, bedoelt u een cv en motivatiebrief? Ja! Die heb ik zeker. Kan ik dat naar u toe mailen?
+
+Achternaam: (Hmm..) Dat is goed! Je kan het mailen naar onze generieke bedrijfsmail en dan zal ik het in goede orde ontvangen worden! Je zal dan spoedig antwoord ontvangen.
+
+Ik: Yes, top! Dan zal ik dat zo snel mogelijk doen! Fijne dag, achternaam!
+
+Achternaam: Fijne dag! (Is je naam vast al vergeten)
+
+### **Situatie B**
+
+Ik: Hai meneer/mevrouw achternaam, mijn naam is Randy Ofosu. Online/Offline/viavia ben ik jouw bedrijf tegen gekomen. Ik heb jullie product/dienst tot op de dag van vandaag gebruikt en ik ben enorm tevreden. Graag zou ik een meningvolle deel uit willen maken van jouw bedrijf.
+
+Achternaam: Hai Randy! Het doet ons goed dat onze product/dienst zo erg in de smaak valt bij jou. We doen ons best om zulk resultaat te behalen bij iedereen. Heb je een visitekaart of iets dergelijks.
+
+Ik: Yes natuurlijk achternaam, ik ben al helemaal voorbereidt op deze dag. Hier is mijn visitekaartje. Daarop staan mijn gegevens en mijn online visitekaartje!
+
+Achternaam: Online visitekaartje?
+
+Ik: Yes! Mijn online blog waarbij ik mijn kennis over bepaalde zaken tentoonstel. Daar komen dagelijks x aantal mensen kijken. Mocht u meer tijd hebben vandaag of op een andere dag, kunnen we onder het genot van koffie of thee het meer hebben over dit project.
+
+Achternaam: Hahaha! Zullen we gewoon tutoyeren, dank voor je visitekaart Randy. Ik zal zeker een kijkje nemen.
+
+Ik: Dankjewel Achternaam, ik zal je dan niet te veel van je tijd in beslag nemen. Fijne dag!
+
+Achternaam: Is goed Randy, fijne dag en tot ziens!
+
+Wat vind jij zelf een betere indruk achter laten. Eigenaren/CEO's/Recruiters willen hun tijd niet alloceren om alles over jou uit te vragen zodat zij erachter kunnen komen of jij de waarheid spreekt. Daarboven op willen zij hun mailbox niet bekladden met "gemotiveerde sollicitanten". Ze zijn efficiënt met hun tijd, anders waren ze niet in hun huidige positie. Dus maak deze barrière zo klein mogelijk. Met een visitekaartje en een blog kunnen zij snel zien of jij een tijdsinvestering of verspilling bent.
+
+Linked-In is leuk, maar zo is praten met u ook. Wat deze twee dingen gemeen hebben is dat je een onnodige barrière hebt gebouwd tegenover jou en je toekomste werkgever/zakenpartner.
+
+**Nogmaals met """blog"""" bedoel ik een vorm van online portfolio voor de markt die jij wilt aanboren.**
 
 ## Het helpt bij jouw persoonlijke leerproces.
 
