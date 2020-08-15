@@ -38,7 +38,8 @@ Wat je moet accepteren is dat alles wat je hebt opgeschreven variabel is en zal 
 
 Allebei - Zodra de gegevens zijn gegoten in steen komt nu het moment dat jullie schriftelijk vaststellen wat de _deal_ is. Hier schrijf je:
 
-- Wat voor bedrag er is afgesproken. - Wanneer en hoe dat bedrag overgemaakt moet worden.
+- Wat voor bedrag er is afgesproken.
+  - Wanneer en hoe dat bedrag overgemaakt moet worden.
 - Wanneer je moet aangeven dat je niet een afspraak kan na komen - Wat er gebeurt als je een afspraak niet kan nakomen zonder het te melden.
 - Hoelang een sessie duurt.
 - Waar genoemde sessie plaats zal vinden.
