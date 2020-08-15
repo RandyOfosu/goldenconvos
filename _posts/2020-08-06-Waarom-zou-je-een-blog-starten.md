@@ -34,7 +34,7 @@ Je kan dus beseffen dat een blog -- een online document is dat jouw kunnen tento
 
 ## Netwerken
 
-NOGMAALS Het helpt enorm bij het netwerken met mensen waarbij je een goede eerste indruk wil maken. Ik kan dit niet vaak genoeg benadrukken. Ik sta hier zo erg achter dat ik een situatieschets ga geven:
+NOGMAALS, het helpt enorm bij het netwerken met mensen waarbij je een goede eerste indruk wil maken. Ik kan dit niet vaak genoeg benadrukken. Ik sta hier zo erg achter dat ik een situatieschets ga geven:
 
 Ik ga naar een conventie of kom iemand tegen in mijn leven die mij van waardevolle informatie kan verschaffen of mij in goede posities kan plaatsen in zijn/haar bedrijf.
 
