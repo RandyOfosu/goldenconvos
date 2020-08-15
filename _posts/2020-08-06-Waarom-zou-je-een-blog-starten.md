@@ -70,6 +70,8 @@ Ik: Dankjewel Achternaam, ik zal je dan niet te veel van je tijd in beslag nemen
 
 Achternaam: Is goed Randy, fijne dag en tot ziens!
 
+###### verdict
+
 Wat vind jij zelf een betere indruk achter laten. Eigenaren/CEO's/Recruiters willen hun tijd niet alloceren om alles over jou uit te vragen zodat zij erachter kunnen komen of jij de waarheid spreekt. Daarboven op willen zij hun mailbox niet bekladden met "gemotiveerde sollicitanten". Ze zijn efficiënt met hun tijd, anders waren ze niet in hun huidige positie. Dus maak deze barrière zo klein mogelijk. Met een visitekaartje en een blog kunnen zij snel zien of jij een tijdsinvestering of verspilling bent.
 
 Linked-In is leuk, maar zo is praten met u ook. Wat deze twee dingen gemeen hebben is dat je een onnodige barrière hebt gebouwd tegenover jou en je toekomste werkgever/zakenpartner.
