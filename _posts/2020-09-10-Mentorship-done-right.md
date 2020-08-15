@@ -19,6 +19,8 @@ Net als bij bedrijven denken mensen bij mentorship programma's te groot. Een bed
 
 In deze berichten ga ik ervan uit dat de student of mentor in kwestie geen huichelaar of charlatan is. Maar oprecht is om zijn/haar kennis te delen met iemand zonder dat zij elkaars tijd verspillen.
 
+<img src="/assets/img/Mentorship.jpg" alt="Help je mentee groeien" title="Een groeiende leerling.">
+
 ## Afspraken en doelstellingen
 
 Mentor -- Je hebt toegezegd dat je bereid bent om tijd te besteden aan je student. Wat nu? De eerste keer kom je als mentor met een pen en een lege schrift. Je noteert de volgende gegevens van je leerling:
