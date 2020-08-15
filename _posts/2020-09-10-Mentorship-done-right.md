@@ -39,28 +39,40 @@ Wat je moet accepteren is dat alles wat je hebt opgeschreven variabel is en zal 
 Allebei - Zodra de gegevens zijn gegoten in steen komt nu het moment dat jullie schriftelijk vaststellen wat de _deal_ is. Hier schrijf je:
 
 - Wat voor bedrag er is afgesproken.
-````- Wanneer en hoe dat bedrag overgemaakt moet worden.
+- Wanneer en hoe dat bedrag overgemaakt moet worden.
 - Wanneer je moet aangeven dat je niet een afspraak kan na komen 
-````- Wat er gebeurt als je een afspraak niet kan nakomen zonder het te melden.
+- Wat er gebeurt als je een afspraak niet kan nakomen zonder het te melden.
 - Hoelang een sessie duurt.
 - Waar genoemde sessie plaats zal vinden.
 - Zaken wat betreft aansprakelijkheid.
 - Wanneer de overeenkomst is ontbonden. 
-````- Hoe je deze overeenkomst kan ontbinden.
+- Hoe je deze overeenkomst kan ontbinden.
 - Bijzonderheden.
 
-Deze overeenkomst geprint in tweevoud en wordt door jullie allebei ondertekend. Als je slim bent scan je dat document in en mail je dat aan jouw leerling. Nu bewaren jullie deze overeenkomst goed. Zwart-op-Wit (zout en peper) smaakt beter bij een goede handdruk.
+Deze overeenkomst wordt geprint in tweevoud en door beide partijen ondertekend. Als je slim bent scan je dit document in en mail je dat aan jouw leerling. Nu bewaren jullie deze overeenkomst goed. Zwart-op-Wit (zout en peper) smaakt beter bij een goede handdruk.
 
 ## Pijn is de beste leermeester
 
-Elke goede mentor weet dat met sterke signalen van het brein de leerling het meeste leert. Niets is pijnlijker voor jouw student dan dat die zijn of haar zuurverdiende geld geeft aan jou. Wanneer jij als leerling bereidt bent om dat te doen, heb je zojuist gegarandeerd dat je wat gaat doen met de informatie die je mentor jou gaat geven. Je kan mensen elke dag gratis informatie geven. Deze mensen zullen dan jouw informatie op een passieve manier (automatische piloot) consumeren en er dus niet naar handelen. Elk stukje informatie dat jij hebt en niet gebruikt is informatie dat je niet had hoeven weten. Dit is tijdverspilling voor jullie allebei en tijd is iets wat je niet terug krijgt. Wat jij als toekomstige mentor of leerling moet onthouden is dat zodra je ergens voor betaalt dat je het gaat gebruiken.
+Elke goede mentor weet dat door middel van sterke signalen van het brein de leerling het meeste leert. Niets is pijnlijker voor jouw leerling dan zuurverdiende geld overhandigen aan jou. Wanneer jij als leerling bereidt bent om dit te doen, heb je zojuist gegarandeerd dat je wat gaat doen met de informatie van jouw mentor. Je kan mensen elke dag gratis informatie geven. Zij zullen dan jouw informatie op een passieve manier (automatische piloot) consumeren en er dus niet naar handelen. Elk stukje informatie dat jij hebt en niet gebruikt is informatie dat je niet had hoeven weten. Dit is tijdverspilling voor jullie beide en tijd is iets wat je niet terug krijgt. Wat jij als toekomstige mentor of leerling moet onthouden is dat zodra je ergens voor betaalt, dat je het gaat gebruiken.
 
-Goed jouw leerling is bereid om jouw een bepaald bedrag te geven voor jouw tijd. Betekend het dat je alles kan doen met het geld? Ja, maar dat is niet slim. Wat als jij als mentor besluit om te herinvesteren in jouw leerling. Koop de **essentiele** dingen die jou enorm hebben geholpen met jouw proces voor jouw leerling. Jouw leerling gaat zich gewaardeerd voelen want dat is hij/zij ook. Plus, dat maakt het leerproces van jouw leerlingen zo veel makkelijker. Wees wel oplettend en observeer of dat product wel past bij jouw leerling.
+Goed, jouw leerling is bereid om jou een bepaald bedrag te geven voor jouw tijd. Betekend het dat je alles kan doen met het geld? Ja, maar dat is niet slim. Wat zou je ervan vinden dat jij als mentor besluit om te herinvesteren in jouw leerling. Koop voor jouw leerling de **essentiële** dingen die jou enorm hebben geholpen met jouw proces. Dat maakt het leerproces van jouw leerlingen zo veel makkelijker. Plus, jouw leerling gaat zich gewaardeerd voelen want dat is hij/zij ook. Wees wel oplettend en observeer of deze producten wel passen bij jouw leerling.
 
-Als je het goed doet, gaat meerendeel van het geld dat je leerling je geeft terug naar de leerling.
+Als je het goed doet, gaat meerendeel van het geld dat jouw leerling jou heeft gegeven terug naar de leerling.
+
+Stel, je zet dat geld wel in je zak. De kans dat de leerling terug komt is kleiner. Het geld wordt niet gebruikt voor de leerling maar voor jouw eigen spullen. Tuurlijk mag je gecompenseerd worden voor jouw tijd maar spreek dan een tarief af. Anders gaat de leerling zich opgelicht voelen en jou kunnen niet promoten of erger nog. Jou door het slijk halen omdat die zich zo voelt.
 
 Succesvolle mensen werken niet voor geld.
 
 ## Meten
 
+Oke, dus de introductie sessie is voorbij. Wat hierna volgt is dat de mentor de lessen voorbereid en de leerling alles noteert of onthoud wat zijn/haar mentor zegt. Dus bij elke sessie moeten beide partijen hun schrift en pen mee. Hier in houd je bij:
+- Wat je hebt gedaan.
+- Wat je nog moet doen.
+- Wat er nog beter kan.
+- Feedback voor je mentor.
+
+Alles wat je kan meten houdt je bij in deze fase van jouw mentorschap. Anders weet je niet wat wel of niet helpt.
+
 ## Reflecteren
+
+Na een wat langere tijdsbestek moet je heel wat notities hebben gemaakt. Dit is waardevolle data, hier kon je terug zien wat jouw mentorschap positief of negatief heeft beïnvloed. Wellicht heeft jouw mentor jou niets meer te leren en scheiden hierbij jullie wegen. Als dat het geval is houdt contact met deze mentor en doe je best om hulp te bieden wanneer iemand het jou vraagt. Je kan ze ook doorverwijzen naar jouw mentor maar zoals jij nu wel hebt geleerd als leerling, is tijd erg kostbaar.
