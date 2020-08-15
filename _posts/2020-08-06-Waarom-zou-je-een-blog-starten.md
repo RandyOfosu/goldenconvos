@@ -62,7 +62,7 @@ Ik: Yes natuurlijk achternaam, ik ben al helemaal voorbereidt op deze dag. Hier 
 
 Achternaam: Online visitekaartje?
 
-Ik: Yes! Mijn online blog waarbij ik mijn kennis over bepaalde zaken tentoonstel. Daar komen dagelijks x aantal mensen kijken. Mocht u meer tijd hebben vandaag of op een andere dag, kunnen we onder het genot van koffie of thee het meer hebben over dit project.
+Ik: Yes! Mijn online blog waarbij ik mijn kennis over bepaalde zaken tentoonstel. Daar komen dagelijks `x aantal bezoekers` kijken. Mocht u meer tijd hebben vandaag of op een andere dag, kunnen we onder het genot van koffie of thee het meer hebben over dit project.
 
 Achternaam: Hahaha! Zullen we gewoon tutoyeren, dank voor je visitekaart Randy. Ik zal zeker een kijkje nemen.
 
