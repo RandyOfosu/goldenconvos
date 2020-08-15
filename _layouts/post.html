@@ -3,10 +3,17 @@ layout: default
 ---
 
 <section class="single-wrap">
-  <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
+  <article
+    class="single-content"
+    itemscope
+    itemtype="http://schema.org/BlogPosting"
+  >
     <div class="feat">
       <h5 class="page-date">
-        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        <time
+          datetime="{{ page.date | date_to_xmlschema }}"
+          itemprop="datePublished"
+        >
           {{ page.date | date_to_long_string }}
         </time>
       </h5>
@@ -16,19 +23,18 @@ layout: default
       {{ content }}
     </div>
     <div class="feat share">
-      <a href="http://instagram.com/goldenconvos" class="popup">
-        <span class="icon-instagram"></span>
+      <a href="*|LIST:SUBSCRIBE|*" class="popup">
+        <span class="icon-envelope"></span>
       </a>
     </div>
     {% if page.next %}
-      <a rel="next" href="{{ site.baseurl }}{{ page.next.url }}" id="next">
-        <span class="nav-title nav-title-next">newer</span> &rarr;
-      </a>
-    {% endif %}
-    {% if page.previous %}
-      <a rel="prev" href="{{ site.baseurl }}{{ page.previous.url }}" id="prev">
-        &larr; <span class="nav-title nav-title-prev">older</span>
-      </a>
+    <a rel="next" href="{{ site.baseurl }}{{ page.next.url }}" id="next">
+      <span class="nav-title nav-title-next">newer</span> &rarr;
+    </a>
+    {% endif %} {% if page.previous %}
+    <a rel="prev" href="{{ site.baseurl }}{{ page.previous.url }}" id="prev">
+      &larr; <span class="nav-title nav-title-prev">older</span>
+    </a>
     {% endif %}
   </article>
 </section>
