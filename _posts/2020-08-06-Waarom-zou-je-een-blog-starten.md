@@ -90,7 +90,7 @@ Het is wel duidelijk dat deze punten allemaal kunnen vallen onder het bloggen.
 
 ## Alles wat je niet gebruikt raak je kwijt.
 
-Als je niet blijft schrijven zal je het verleren. Met een blog blijf het niet alleen vers in je repertoire maar zal je het juist versterken. Je wilt niet telkens dezelfde woorden gebruiken dus zoek je synoniemen op of ga je jouw grammatica controleren. Misschien kom je erachter dat je niet precies weet hoe je een woord spelt. Dat had ik net met _repertoire/tutoyeren/_.
+Als je niet blijft schrijven zal je het verleren. Met een blog blijft het niet alleen vers in je repertoire maar zal je het juist versterken. Je wilt niet telkens dezelfde woorden gebruiken dus zoek je synoniemen op of ga je jouw grammatica controleren. Misschien kom je erachter dat je niet precies weet hoe je een woord spelt. Dat had ik net met _repertoire/tutoyeren_.
 
 Schrijven draagt ook bij aan jouw spraak dus als jij een hakkelige spreker bent zal dit jou enorm helpen.
 
