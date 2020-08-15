@@ -4,6 +4,8 @@ title: "Waarom zou je een blog starten?"
 date: 2020-08-06 18:57:51
 ---
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/751772992&color=%23daa51f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/randus95" title="RANDUS" target="_blank" style="color: #cccccc; text-decoration: none;">RANDUS</a> · <a href="https://soundcloud.com/randus95/nineteen95" title="NINETEEN95" target="_blank" style="color: #cccccc; text-decoration: none;">NINETEEN95</a></div>
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **15 MIN READ**</i>
 
@@ -120,5 +122,3 @@ Ik zal de volgende vragen in het kort beantwoorden met bulletpoints die niet and
 - Het is een investering van tijd.
 - Het medium van het geschrift is niet voor iedereen.
 - Probeer het gewoon, wie weet?
-
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/751772992&color=%23daa51f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/randus95" title="RANDUS" target="_blank" style="color: #cccccc; text-decoration: none;">RANDUS</a> · <a href="https://soundcloud.com/randus95/nineteen95" title="NINETEEN95" target="_blank" style="color: #cccccc; text-decoration: none;">NINETEEN95</a></div>
