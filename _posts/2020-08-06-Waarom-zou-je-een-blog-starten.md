@@ -76,7 +76,7 @@ Wat vind jij zelf een betere indruk achter laten. Eigenaren/CEO's/Recruiters wil
 
 Linked-In is leuk, maar zo is praten met u ook. Wat deze twee dingen gemeen hebben is dat je een onnodige barrière hebt gebouwd tegenover jou en je toekomste werkgever/zakenpartner.
 
-**Nogmaals met """blog"""" bedoel ik een vorm van online portfolio voor de markt die jij wilt aanboren.**
+**Nogmaals met "blog" bedoel ik een vorm van online portfolio voor de markt die jij wilt aanboren.**
 
 ## Het helpt bij jouw persoonlijke leerproces.
 
