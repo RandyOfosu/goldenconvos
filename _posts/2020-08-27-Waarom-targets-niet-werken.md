@@ -31,6 +31,7 @@ Dit is een voorbeeld waarbij de beweegredenen van een bedrijf niet helemaal meer
 
 ## Goodharts Law
 >Wanneer een goede maatstaaf een target wordt, is het geen goeie maatstaaf meer.
+
 ## Ervaring klanten.
 
 Bedrijven houden graag van hun analytica en sommige bedrijven baseren hun handelingen op deze cijfers. Echter is dat een fundamenteel probleem. Want jij als oprichter/CEO, moet juist ervoor zorgen dat de handelingen van het bedrijf gebaseerd zijn op de behoeftes van de klant. Dat is *letterlijk* jouw banenomschrijving. Als je deze behoefte niet behartigd, ben je niet fit om een oprichter/CEO te zijn.
