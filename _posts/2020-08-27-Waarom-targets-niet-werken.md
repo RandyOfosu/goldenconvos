@@ -7,8 +7,6 @@ date: 2020-08-27 11:40:31
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **10 MIN READ**</i>
 
-# Inleiding
-
 RANDY OFOSU -- Hoe je mijn clickbaity titel moet lezen is; "*Waarom targets als kpi niet werkt op de manier hoe jij het wilt.*" Targets werken wel als jij alleen meer conversies (sales) wil maken. Dan zijn targets een efficiënte manier om dit doel te behalen. Maar stel dat jouw doel (intentie) is om loyale klanten te verkrijgen, die jouw product/dienst willen aanraden aan anderen die dezelfde behoeftes hebben. Dan is de implementatie van targets als <a href="https://www.marketingtermen.nl/begrip/key-performance-indicator" target="_blank">kpi</a> funest voor jouw dienst/product.
 
 In deze blogpost zal ik mijn best doen om mijn visie hierop te delen. Daarbij zal ik voorstellen geven op wat bedrijven het beste kunnen doen om een loyale klantenkring te kunnen bouwen. 
