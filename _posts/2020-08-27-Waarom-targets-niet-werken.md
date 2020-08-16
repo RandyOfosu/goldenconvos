@@ -9,7 +9,7 @@ date: 2020-08-27 11:40:31
 
 # Inleiding
 
-RANDY OFOSU -- Hoe je mijn clickbaity titel moet lezen is; "*Waarom targets als kpi niet werkt op de manier hoe jij het wilt.*" Targets werken wel als jij alleen meer conversies (sales) wil maken. Dan zijn targets een efficiënte manier om dit doel te behalen. Maar stel dat jouw doel (intentie) is om loyale klanten te verkrijgen, die jouw product/dienst willen aanraden aan anderen die dezelfde behoeftes hebben. Dan is de implementatie van targets als <a hreft="https://www.marketingtermen.nl/begrip/key-performance-indicator" target="_blank">kpi</a> funest voor jouw dienst/product.
+RANDY OFOSU -- Hoe je mijn clickbaity titel moet lezen is; "*Waarom targets als kpi niet werkt op de manier hoe jij het wilt.*" Targets werken wel als jij alleen meer conversies (sales) wil maken. Dan zijn targets een efficiënte manier om dit doel te behalen. Maar stel dat jouw doel (intentie) is om loyale klanten te verkrijgen, die jouw product/dienst willen aanraden aan anderen die dezelfde behoeftes hebben. Dan is de implementatie van targets als <a href="https://www.marketingtermen.nl/begrip/key-performance-indicator" target="_blank">kpi</a> funest voor jouw dienst/product.
 
 In deze blogpost zal ik mijn best doen om mijn visie hierop te delen. Daarbij zal ik voorstellen geven op wat bedrijven het beste kunnen doen om een loyale klantenkring te kunnen bouwen. 
 
@@ -21,7 +21,7 @@ Bedrijven kunnen alleen een product/dienst leveren als zij genoeg geld krijgen v
 
 <img src="/assets/img/bedrijfscyclus.png">
 
-Hoe het bedrijf deze groei moet bereiken, is de <a href="https://nl.wikipedia.org/wiki/Pakkie-an" target="_blank">pakkie-an</a> van het bedrijf. In principe zijn investeerders alleen geïnteresseerd in het proces dat hen dichterbij hun <a href="https://nl.wikipedia.org/wiki/Return_on_investment">ROI</a> brengt. Dat doet een bedrijf doormiddel van bestuursvergaderingen. Hierin analyseert het bedrijf (soms samen met investeerders) hun kpi.
+Hoe het bedrijf deze groei moet bereiken, is de <a href="https://nl.wikipedia.org/wiki/Pakkie-an" target="_blank">pakkie-an</a> van het bedrijf. In principe zijn investeerders alleen geïnteresseerd in het proces dat hen dichterbij hun <a href="https://nl.wikipedia.org/wiki/Return_on_investment" target="_blank">ROI</a> brengt. Dat doet een bedrijf doormiddel van bestuursvergaderingen. Hierin analyseert het bedrijf (soms samen met investeerders) hun kpi.
 
 Als bedrijf wil je zo snel mogelijk je investeerders tevreden stellen en 
 
