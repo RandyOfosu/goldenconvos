@@ -18,7 +18,6 @@ In deze blogpost zal ik mijn best doen om mijn visie hierop te delen. Daarbij za
 Het lijkt mij handig om te vertellen waarom wij als mensen überhaupt targets zijn gaan gebruiken om de productiviteit van een werknemer te kunnen meten. 
 
 Bedrijven kunnen alleen een product/dienst leveren als zij genoeg geld krijgen van klanten om te kunnen opereren. In sommige gevallen worden bedrijven gefinanciëerd door investeerders. Het doel van investeerders is geld verdienen met het geld dat zij uitlenen. Met het geld dat zij uitlenen willen investeerders dat het bedrijf groeit. Want later wanneer het bedrijf is gegroeid zullen de investeerders hun geïnvesteerde bedrag ontvangen met een afgesproken winstpercentage. 
-
 <img src="/assets/img/bedrijfscyclus.png">
 
 Hoe het bedrijf deze groei moet bereiken, is de <a href="https://nl.wikipedia.org/wiki/Pakkie-an" target="_blank">pakkie-an</a> van het bedrijf. In principe zijn investeerders alleen geïnteresseerd in het proces dat hen dichterbij hun <a href="https://nl.wikipedia.org/wiki/Return_on_investment" target="_blank">ROI</a> brengt. Dat doet een bedrijf doormiddel van bestuursvergaderingen. Hierin analyseert het bedrijf (soms samen met investeerders) hun kpi.
