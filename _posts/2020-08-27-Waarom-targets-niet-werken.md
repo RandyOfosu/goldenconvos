@@ -26,17 +26,14 @@ Hoe het bedrijf deze groei moet bereiken, is de <a href="https://nl.wikipedia.or
 
 >`Hoe meer sales mijn werknemers maken, hoe meer geld. Hoe meer geld, hoe meer tevreden mijn investerdeers worden.` 
 
-Jammer, want dit is naar mijn mening het moment dat een salesmanager of zelfs een CEO de verkeerde belangen gaat behartigen. 
+Jammer, want dit is naar mijn mening het moment dat een salesmanager of zelfs een CEO de verkeerde belangen gaat behartigen. In principe zijn investeerders alleen geïnteresseerd in het proces dat hen dichterbij hun <a href="https://nl.wikipedia.org/wiki/Return_on_investment" target="_blank">ROI</a> brengt. Anders loop je als bedrijf het risico dat ze nooit meer zaken met jou willen doen. 
 
-In principe zijn investeerders alleen geïnteresseerd in het proces dat hen dichterbij hun <a href="https://nl.wikipedia.org/wiki/Return_on_investment" target="_blank">ROI</a> brengt. Dat doet een bedrijf doormiddel van bestuursvergaderingen. Hierin analyseert het bedrijf (soms samen met investeerders) hun kpi.
+Waar komen de klanten dan in dit verhaal? **Dat is dus de kern van het probleem!**
 
-Als bedrijf wil je zo goed mogelijk je investeerders tevreden stellen. Anders loop je het risico dat ze nooit meer zaken met jou willen doen. 
-
-Waar komen de klanten in dit verhaal? Dat is eigenlijk de kern van het probleem.
-
-Dit is een voorbeeld waarbij de beweegredenen van een bedrijf niet helemaal meer is gebaseerd op de behoeftes van de klant. Wat terecht is, als jij geld hebt geleend moet je dat terugbetalen.
+Dit is letterlijk één voorbeeld waarbij -- de beweegredenen van een bedrijf niet meer is gebaseerd op de behoeftes van de klant. Maar op een afleiding zoals een investeerder of de financiële schulden die een bedrijf heeft bij instanties.
 
 ## Goodharts Law
+
 >Wanneer een goede maatstaaf een target wordt, is het geen goeie maatstaaf meer.
 
 ## Ervaring klanten.
