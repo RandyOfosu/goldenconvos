@@ -30,11 +30,13 @@ Jammer, want dit is naar mijn mening het moment dat een salesmanager of zelfs ee
 
 Waar komen de klanten en werknemers dan in dit verhaal? **Dat is dus de kern van het probleem!**
 
-Dit is letterlijk één voorbeeld waarbij -- de beweegredenen van een bedrijf niet meer is gebaseerd op de behoeftes van de klant. Maar op een afleiding zoals een investeerder of de financiële schulden die een bedrijf heeft bij instanties.
+Dit is letterlijk één voorbeeld waarbij -- de beweegredenen van een bedrijf niet meer is gebaseerd op de behoeftes van de klant. Maar op een afleiding zoals bijvoorbeeld een investeerder of de financiële schulden die een bedrijf heeft bij instanties.
 
 ## Goodharts Law
 
 >Wanneer een goede maatstaaf een target wordt, is het geen goeie maatstaaf meer.
+
+Dit zijn massief goude woorden van de überChad econoom, <a href="https://en.wikipedia.org/wiki/Charles_Goodhart" target="_blank">Charles Goodhart</a>. Dit hoort thuis op een tegeltje bij elke aspirant manager of CEO. Dit is niet omdat ik moraalridder ben. Dit is omdat je op een langer termijn meer verdient als jij je houdt aan het advies van deze citatie.
 
 ## Ervaring klanten.
 
