@@ -24,7 +24,7 @@ Hoe het bedrijf deze groei moet bereiken, is de <a href="https://nl.wikipedia.or
 
 Één zo'n indicator is de conversie. Een conversie is het moment dat een klant is overgegaan tot een aankoop van een dienst/product. Des te hoger dat is, des te meer sales je hebt gemaakt. Dan kan er een lampje gaan branden bij de bestuurlijke machten van zo'n bedrijf. 
 
->`Hoe meer sales mijn werknemers maken, hoe meer geld. Hoe meer geld, hoe meer tevreden mijn investerdeers worden.` 
+>Hoe meer sales mijn werknemers maken, hoe meer geld. Hoe meer geld, hoe meer tevreden mijn investerdeers worden.
 
 Jammer, want dit is naar mijn mening het moment dat een salesmanager of zelfs een CEO de verkeerde belangen gaat behartigen. In principe zijn investeerders alleen geïnteresseerd in het proces dat hen dichterbij hun <a href="https://nl.wikipedia.org/wiki/Return_on_investment" target="_blank">ROI</a> brengt. Anders loop je als bedrijf het risico dat ze nooit meer zaken met jou willen doen. 
 
