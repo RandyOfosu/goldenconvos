@@ -38,7 +38,7 @@ Dit is letterlijk één voorbeeld waarbij -- de beweegredenen van een bedrijf ni
 
 Dit zijn massief goude woorden van de überChad econoom, <a href="https://en.wikipedia.org/wiki/Charles_Goodhart" target="_blank">Charles Goodhart</a>. Dit hoort thuis op een tegeltje bij elke aspirant manager of CEO. Het wordt ook wel de Goodharts Law genoemd. Dit is niet omdat ik moraalridder ben. Dit is omdat je op een langer termijn meer verdient als jij je houdt aan het advies van deze wet.
 
-Als je goed om je heen kijkt, leer je al heel gauw dat veel bedrijven dit advies negeren. Dit soort bedrijven zullen daarom niet lang bestaan en zullen geassimileerd worden door hun concurrenten. Dus wees gewaarschuwd. 
+Als je goed om je heen kijkt, leer je al heel gauw dat veel (grootlijkende) bedrijven dit advies negeren. Dit soort bedrijven zullen daarom niet lang bestaan en zullen geassimileerd worden door hun concurrenten. Dus wees gewaarschuwd. 
 
 Er zijn veel situatieschetsen die je kan gebruiken hiervoor, maar ik kan mijn eigen ervaring gebruiken. 
 
