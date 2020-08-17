@@ -9,7 +9,7 @@ date: 2020-08-27 11:40:31
 
 **RANDY OFOSU** -- Hoe je mijn clickbaity titel eigenlijk moet lezen is; "*Waarom targets als kpi voor jouw werknemer niet werkt op de manier hoe jij het wilt.*" 
 
-Targets werken wel als jouw doel alleen is om meer conversies (sales) te maken. Dan zijn targets een efficiënte manier om dit doel te behalen. Maar stel dat jouw doel (intentie) is om loyale klanten te verkrijgen, die jouw product/dienst willen aanraden aan anderen die dezelfde behoeftes hebben. Dan is de implementatie van targets als <a href="https://www.marketingtermen.nl/begrip/key-performance-indicator" target="_blank">key performance indicator</a> funest voor jouw werkvloer en dienst/product.
+Targets werken wel als jouw doel is om alleen meer conversies (sales) te maken. Dan zijn targets een efficiënte manier om dit doel te behalen. Maar stel dat jouw doel (intentie) is om loyale klanten te verkrijgen, die jouw product/dienst willen aanraden aan anderen die dezelfde behoeftes hebben. Dan is de implementatie van targets als <a href="https://www.marketingtermen.nl/begrip/key-performance-indicator" target="_blank">key performance indicator</a> funest voor jouw werkvloer en dienst/product.
 
 In deze blogpost zal ik mijn visie hierop delen. Daarbij zal ik voorstellen doen op wat bedrijven anders kunnen doen om een gezonde werkvloer en loyale klantenkring op te bouwen. 
 
