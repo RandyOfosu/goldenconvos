@@ -17,12 +17,12 @@ In deze blogpost zal ik mijn visie hierop delen. Daarbij zal ik voorstellen doen
 
 Het lijkt mij handig om te vertellen waarom wij als mensen überhaupt targets zijn gaan gebruiken om de productiviteit van een werknemer te kunnen meten. 
 
-Bedrijven kunnen alleen een product/dienst leveren als zij genoeg geld verdienen van klanten om te kunnen opereren. In sommige gevallen worden bedrijven gefinanciëerd door investeerders. Het doel van investeerders is geld te verdienen met het geld dat zij uitlenen. Met het geld dat zij uitlenen willen investeerders dat het bedrijf groeit. Want later wanneer het bedrijf is gegroeid zullen de investeerders hun geïnvesteerd bedrag ontvangen met een afgesproken winstpercentage. 
+Bedrijven kunnen alleen een product/dienst leveren als zij genoeg geld verdienen van klanten om te kunnen opereren. In sommige gevallen worden bedrijven gefinanciëerd door investeerders. Het doel van investeerders is geld te verdienen met het geld dat zij uitlenen. Met het geld dat zij uitlenen willen investeerders dat het bedrijf groeit. Want later wanneer het bedrijf is gegroeid zullen de investeerders hun geïnvesteerde bedrag ontvangen met een afgesproken winstpercentage. 
 <img src="/assets/img/bedrijfscyclus.png" alt="Het bedrijfscyclus in beweging" title="Bedrijfscyclus">
 
-Hoe het bedrijf deze groei moet bereiken, is de <a href="https://nl.wikipedia.org/wiki/Pakkie-an" target="_blank">pakkie-an</a> van het bedrijf. De meeste bedrijven gebruiken het geld van investeerders om grote <a href="https://www.marketingtermen.nl/begrip/acquisitie" target="_blank"> acquisitiecampagnes</a> te houden. Hun doel met zo'n campagne is dan zoveel mogelijk klanten en werknemers te werven en te behouden. Hoe zij kunnen meten of hun campagne werkt is doormiddel van key performance indicatoren! 
+Hoe een bedrijf deze groei moet bereiken, is de <a href="https://nl.wikipedia.org/wiki/Pakkie-an" target="_blank">pakkie-an</a> van het bedrijf. De meeste bedrijven gebruiken het geld van investeerders om grote <a href="https://www.marketingtermen.nl/begrip/acquisitie" target="_blank"> acquisitiecampagnes</a> te houden. Hun doel met zo'n campagne is dan zoveel mogelijk klanten en werknemers te werven en te behouden. Hoe zij kunnen meten of hun campagne werkt is doormiddel van key performance indicatoren! 
 
-Één zo'n indicator is de conversie. Een conversie is het moment dat een klant is overgegaan tot een aankoop van een dienst/product. Des te hoger dat is, des te meer sales je hebt gemaakt. Dan kan er een lampje gaan branden bij de bestuurlijke machten van zo'n bedrijf. 
+Één zo'n indicator is de conversie. Een conversie is het moment dat een klant is overgegaan tot een aankoop van een dienst/product. Wat het meest voorkomt is dat zo'n conversie wordt uitgedrukt in een percentage. Dus des te hoger dat percentage is, des te meer sales je hebt gemaakt. Nu gaan er lampjes gaan branden bij de bestuurlijke machten van zo'n bedrijf. 
 
 >Hoe meer sales mijn werknemers maken, hoe meer geld. Hoe meer geld, hoe meer tevreden mijn investerdeers worden.
 
