@@ -42,17 +42,17 @@ Als je goed om je heen kijkt, leer je al heel gauw dat veel (grootlijkende) bedr
 
 Er zijn veel situatieschetsen die je kan gebruiken hiervoor, maar ik kan mijn eigen ervaring gebruiken. 
 
-###### mijn persoonlijke ervaring
+###### anekdote
 
-Toen ik wat 19 was had ik besloten om mezelf te leren verkopen. Want ik was ietwat verlegen als jongeman dus vond ik het een goed idee om mezelf in ongemakkelijke situaties te brengen. Dit gewoonte heb ik nog steeds. 
+Toen ik 19 was had ik besloten om mezelf te leren verkopen. Want ik was ietwat verlegen als jongeman dus vond ik het een goed idee om mezelf in ongemakkelijke situaties te zetten. Dit gewoonte heb ik nog steeds. 
 
-Ik word aangenomen bij een salesbedrijf die telefoon-, televisie-, internet- en krantabonnementen verkoopt via de telefoon. Dit bedrijf is aangenomen door andere bedrijven die zulke diensten leveren. Het waren meestal warme leads omdat de mensen die we bellen al bekend waren met de diensten omdat ze die al gebruiken of eerder gebruikt hadden. Mijn taak als verkoper was mijn boterachtige stem te gebruiken om bijvoorbeeld de klanten die al een televisiepakket hadden een telefoonabonnement te laten kopen en vice versa.
+Ik word aangenomen bij een salesbedrijf die telefoon-, televisie-, internet- en krantabonnementen verkoopt via de telefoon. Dit bedrijf is aangenomen door andere bedrijven die zulke diensten leveren. De mensen die we bellen waren al bekend met de product/diensten omdat ze die al gebruiken of eerder gebruikt hadden. Mijn taak als verkoper was mijn boterachtige stem te gebruiken om bijvoorbeeld de klanten die al een televisiepakket hadden een telefoonabonnement te laten kopen en vice versa.
 
 Op het begin was het erg fijn om daar te werken want ik kreeg een loonsverhoging bij elke conversie die ik had gemaakt. Maar dat veranderde toen het bedrijf te horen kreeg van een van hun klanten dat zij graag meer sales zouden willen zien. Mocht mijn werkgever hier niet aan voldoen zouden zij deze klant verliezen. *No pressure..*
 
-Enkele vergaderingen verder en we kregen te horen dat elke telefoontje telt. Elke sales-specialist krijgt zijn eigen conversie-ratio op zijn/haar rapport en die mag niet onder een bepaald percentage liggen, succes. Dat heeft voor een vreemde sfeer gezorgd en nu is alles verandert.
+Enkele vergaderingen verder en we kregen te horen dat elke telefoontje telt. Elke verkoper krijgt zijn eigen conversie-ratio op zijn/haar rapport en die mag niet onder een bepaald percentage liggen, succes. Dat heeft voor een vreemde sfeer gezorgd en nu is alles veranderd.
 
-Mijn collega's en ik hadden het gevoel dat we ons elke keer op dun ijs begaven. Ik ben een redelijke verkoper dus dat ging wel. Ik moest hard werken om maar net de conversies te halen en ik vond het niet leuk meer om sales te maken. Ik keek op naar de busrit naar het bedrijf toe. Ik werd creatief met het vinden pauzes. Ik zat langer op het toilet dan nodig was. Ik ging na een tijdje hangen met de rokers, ookal rookte ik niet. Want elke sale die ik niet had gemaakt kon me laten leiden in een spiraal van "nee, dankjewel's". Wat erg demotiverend kan zijn, omdat het dan betekend dat je coachingsgesprekken zou krijgen. Dat proces was erg denegrerend en dwingt je te denken dat je ze dan maar gaat geven wat ze willen.
+Mijn collega's en ik hadden het gevoel dat we ons elke keer op dun ijs begaven. Ik ben een redelijke verkoper dus dat ging wel. Ik moest hard werken om maar net de target te halen. Ik vond het niet leuk meer om sales te maken. Ik keek op naar de busrit naar het bedrijf toe. Ik werd creatiever met het vinden van pauzes. Ik zat langer op het toilet dan nodig was. Ik ging na een tijdje hangen met de rokers, ookal rookte ik niet. Want elke sale die ik niet had gemaakt kon me laten leiden in een spiraal van "nee, dankjewel's". Wat erg demotiverend kan zijn, omdat het dan betekend dat je coachingsgesprekken zou krijgen. Dit proces was erg denegrerend en dwingt je te denken dat je ze dan maar gaat geven wat ze willen.
 
 Mijn collega's maakte dit ook mee. We moesten dingen doen om te overleven op het werk. Het achterhouden van informatie, de druk leggen bij de klant om de aankoop te doen, concurrenten neerhalen, beloftes maken voor kortingen bij aankoop, noem maar op. Je kan klanten dingen laten kopen zonder dat ze er *echt* achter staan. Maar dat is nooit fijn voor de verkoper en klant. Maar we konden niet anders, we hadden geen zeggenschap als verkoper.
 
@@ -62,6 +62,7 @@ Nu zijn de klanten zo erg gefrustreerd dat ze wensen over te stappen en nooit me
 
 Dit alleen omdat werknemers hun baan afhangt van een sale of niet. Het hangt niet af van een goede ervaring voor de klant of de behoeftes van de klant. Want voor de klant van mijn werkgever deed dat er niet toe.
 
+## verdict
+
 Bedrijven houden graag van hun analytica en sommige bedrijven baseren hun handelingen op deze cijfers. Echter is dat een fundamenteel probleem. Want jij als oprichter/CEO, moet juist ervoor zorgen dat de handelingen van het bedrijf gebaseerd zijn op de behoeftes van de klant. Dat is *letterlijk* jouw banenomschrijving. Als je deze behoefte niet behartigd, ben je niet fit om een oprichter/CEO te zijn.
 
-## Ervaring klanten.
