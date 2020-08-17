@@ -28,7 +28,7 @@ Hoe een bedrijf deze groei moet bereiken, is de <a href="https://nl.wikipedia.or
 
 Jammer, want dit is naar mijn mening het moment dat een salesmanager of zelfs een CEO de verkeerde belangen gaat behartigen. In principe zijn investeerders alleen geïnteresseerd in het proces dat hen dichterbij hun <a href="https://nl.wikipedia.org/wiki/Return_on_investment" target="_blank">ROI</a> brengt. Anders loop je als bedrijf het risico dat ze nooit meer zaken met jou willen doen. 
 
-Waar komen de klanten dan in dit verhaal? **Dat is dus de kern van het probleem!**
+Waar komen de klanten en werknemers dan in dit verhaal? **Dat is dus de kern van het probleem!**
 
 Dit is letterlijk één voorbeeld waarbij -- de beweegredenen van een bedrijf niet meer is gebaseerd op de behoeftes van de klant. Maar op een afleiding zoals een investeerder of de financiële schulden die een bedrijf heeft bij instanties.
 
