@@ -9,7 +9,7 @@ date: 2020-08-15 18:57:51
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **10 MIN READ**</i>
 
-**RANDY OFOSU** -- Stel je bent hartstikke goed in hetgene wat jij doet. In je proces kom je mensen tegen die ook in zo'n wereld terecht willen komen. Zij willen kunnen doen wat jij al kan. Gelukkig ben jij bereidt om tijd te alloceren voor deze leerlingen.
+**RANDY OFOSU** -- Stel je bent hartstikke goed in hetgene wat jij doet. In je proces kom je mensen tegen die willen kunnen doen wat jij al kan. Gelukkig ben jij bereidt om tijd te alloceren voor deze leerlingen.
 
 of
 
@@ -17,7 +17,7 @@ Stel dat jij zo'n leerling bent en op zoek bent naar een mentor. Hoe ga jij als 
 
 Net als bij bedrijven denken mensen bij mentorship programma's te groot. Een bedrijf is gewoon een stapel documenten en bij een mentorship programma draait het om een aantal principes. Deze principes gaan we dus behandelen.
 
-In deze berichten ga ik ervan uit dat de student of mentor in kwestie geen huichelaar of charlatan is. Maar oprecht is om zijn/haar kennis te delen met iemand zonder dat zij elkaars tijd verspillen.
+In deze berichten ga ik ervan uit dat de student of mentor in kwestie geen huichelaar of charlatan is. 
 
 <img src="/assets/img/Mentorship.jpg" alt="Help je mentee groeien" title="Een groeiende leerling.">
 
@@ -29,13 +29,13 @@ In deze berichten ga ik ervan uit dat de student of mentor in kwestie geen huich
 
 ## Waarom zou je überhaupt een student of mentor nemen?
 
-Mentor -- Zodra je iemand leert wat jij kan. Help jij jezelf door de kennis die je bezit te structureren. In vele gevallen zul jij je best doen om alles wat jij weet te proberen ontkrachten. Omdat je geen foute informatie wil geven. Je gaat jouw stappen na en brengt de basis naar voren. Een meester is iemand die de basis moeiteloos onder de knie heeft. 
+Mentor -- Zodra je iemand leert wat jij kan. Help jij jezelf door de kennis die je bezit te structureren. In vele gevallen zul jij je best doen om alles wat jij weet te proberen ontkrachten. Omdat je geen foute informatie wil doorgeven. Je gaat jouw stappen na en brengt de basis naar voren. Een meester is iemand die de basis moeiteloos onder de knie heeft. 
 
 Het voelt ook goed om iemand te helpen die echt graag wil. Je deed toch al waar je goed in bent en je wilt vast ook beter worden. Daarnaast bouw je een goede reputatie als je goede hulp biedt aan behoevende mensen. 
 
-Student -- Niemand is <a href="https://www.businessinsider.nl/youngest-self-made-billionaires-kylie-jenner-mark-zuckerberg-2019-3?international=true&r=US" target="_blank"> "selfmade"</a>, al deze mensen hebben ooit op hun leven een plateau gehad in hun leven. Als die wil doorbreken heb je advies inzicht nodig van 1 of meerdere personen in je leven. Wil je gestaagd blijven groeien in jouw kunnen moet je hulp met trots kunnen aannemen. 
+Student -- Niemand is <a href="https://www.businessinsider.nl/youngest-self-made-billionaires-kylie-jenner-mark-zuckerberg-2019-3?international=true&r=US" target="_blank"> "selfmade"</a>, al deze mensen hebben ooit op hun leven een plateau gehad . Als jij die van jou wil doorbreken heb je advies en inzicht nodig van 1 of meerdere personen. Wil je gestaagd blijven groeien in jouw kunnen moet je hulp met trots kunnen aannemen. 
 
-Aan het einde van de dag draait het om een investering van tijd die jij kan inkorten. Tijd is iets wat je nooit meer terugkrijgt dus als je sneller kan komen bij waar je uiteindelijk wil aankomen is dat beter.
+Aan het einde van de dag draait het om een investering van tijd die jij kan inkorten. Tijd is iets wat je nooit meer terugkrijgt dus als je sneller kan komen bij jouw bestemming is dat alleen maar beter.
 
 ## Afspraken en doelstellingen
 
@@ -95,4 +95,6 @@ Alles wat je kan meten houdt je bij in deze fase van jouw mentorschap. Anders we
 
 ## Reflecteren
 
-Na een wat langere tijdsbestek moet je heel wat notities hebben gemaakt. Dit is waardevolle data, hier kon je terug zien wat jouw mentorschap positief of negatief heeft beïnvloed. Wellicht heeft jouw mentor jou niets meer te leren en scheiden hierbij jullie wegen. Als dat het geval is houdt contact met deze mentor en doe je best om hulp te bieden wanneer iemand het jou vraagt. Je kan ze ook doorverwijzen naar jouw mentor maar zoals jij nu wel hebt geleerd als leerling, is tijd erg kostbaar.
+Na een wat langer tijdsbestek moet je heel wat notities gemaakt hebben. Dit is waardevolle data, hier kan je terug zien wat jouw mentorschap positief of negatief heeft beïnvloed. Onderlijn deze punten en besteed hier meer aandacht aan.
+
+Stel dat jouw mentor jou niets meer te leren heeft, dan scheiden hierbij jullie wegen. Als dat het geval is, houdt contact met deze mentor en doe je best om hulp te bieden wanneer iemand het jou vraagt. Je kan ze ook doorverwijzen naar jouw mentor. Maar zoals jij nu wel hebt geleerd als leerling, is tijd erg kostbaar.

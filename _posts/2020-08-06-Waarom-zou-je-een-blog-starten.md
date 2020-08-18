@@ -32,7 +32,7 @@ Zonder uitleg is dit makkelijk uit context te halen. De les wat mijn Mama wil me
 Stel je bent klaar met school en wilt aan de bak of stel je werkt al en wilt een hogere functie/meer verantwoordelijkheid.
 **Hoe** ga jij bewijzen aan jouw (toekomstige) werkgever dat jij weet, wat je weet en dat jij kan, wat je kan.
 
-Je kan dus beseffen dat een blog -- een online document is dat jouw kunnen tentoonstelt. Je kan het helemaal aankleden zoals jij dat wilt. Dat kan je doen doormiddel van filmpjes, tekst of audio. Alle communicatieve media zijn gedekt. Het mooiste van een blog is dat het een interactief medium kan zijn. Dat scheelt jouw werkgever constant rondbellen naar referenties. Geloof mij, dat gaat hij/zij erg appreciëren.
+Een online document die jouw kunnen tentoonsteld is veel handiger dan een conversatie of een live demo. Je kan het helemaal aankleden zoals jij dat wilt. Dat kan je doen doormiddel van filmpjes, tekst of audio. Alle communicatieve media zijn gedekt. Het mooiste van een blog is dat het een interactief medium kan zijn. Dat scheelt jouw werkgever constant rondbellen naar referenties. Geloof mij, dat gaat hij/zij erg appreciëren.
 
 ## Netwerken
 
@@ -74,9 +74,9 @@ Achternaam: Is goed Randy, fijne dag en tot ziens!
 
 ###### verdict
 
-Wat vind jij zelf een betere indruk achter laten. Eigenaren/CEO's/Recruiters willen hun tijd niet alloceren om alles over jou uit te vragen zodat zij erachter kunnen komen of jij de waarheid spreekt. Daarboven op willen zij hun mailbox niet bekladden met "gemotiveerde sollicitanten". Ze zijn efficiënt met hun tijd, anders waren ze niet in hun huidige positie. Dus maak deze barrière zo klein mogelijk. Met een visitekaartje en een blog kunnen zij snel zien of jij een tijdsinvestering of tijdsverspilling bent.
+Wie zou jij terugbellen? Eigenaren/CEO's/Recruiters willen hun tijd niet gebruiken om alles over jou uit te vragen. Daarboven op willen zij hun mailbox niet bekladden met "gemotiveerde sollicitanten". Ze zijn efficiënt met hun tijd, anders waren ze niet in hun huidige positie. Dus maak deze barrière zo klein mogelijk. Met een visitekaartje en een blog kunnen zij snel zien of jij een tijdsinvestering of tijdsverspilling bent.
 
-Linked-In is leuk, maar zo is praten met u ook. Wat deze twee dingen gemeen hebben is dat je een onnodige barrière hebt gebouwd tegenover jou en je toekomste werkgever/zakenpartner.
+Online sollicitatie platformen zijn leuk, maar zo is praten met u ook. Wat deze twee dingen gemeen hebben is dat je een barrière hebt gebouwd tegenover jou en je toekomste werkgever/zakenpartner.
 
 **Nogmaals met "blog" bedoel ik een vorm van online portfolio voor de markt die jij wilt aanboren.**
 
@@ -92,7 +92,7 @@ Het is wel duidelijk dat deze punten allemaal kunnen vallen onder het bloggen.
 
 ## Alles wat je niet gebruikt raak je kwijt.
 
-Als je niet blijft schrijven zal je het verleren. Met een blog blijft het niet alleen vers in je repertoire maar zal je het juist versterken. Je wilt niet telkens dezelfde woorden gebruiken dus zoek je synoniemen op of ga je jouw grammatica controleren. Misschien kom je erachter dat je niet precies weet hoe je een woord spelt. Dat had ik net met _repertoire/tutoyeren_.
+Als je niet blijft schrijven zal je het verleren. Met een blog blijft het niet alleen vers in je repertoire maar zal je het juist versterken. Je zal jezelf betrappen op stijlfouten en wilt niet telkens dezelfde woorden gebruiken. Misschien kom je erachter dat je niet precies weet hoe je een woord spelt. Dat had ik net met _repertoire/tutoyeren_.
 
 Schrijven draagt ook bij aan jouw spraak dus als jij een hakkelige spreker bent zal dit jou enorm helpen.
 
