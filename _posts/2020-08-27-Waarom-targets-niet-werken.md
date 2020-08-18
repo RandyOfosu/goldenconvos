@@ -60,9 +60,11 @@ Telefoongesprekken werden nu onterecht geboekt als terugbelafspraken. Er werden 
 
 Nu zijn de klanten zo erg gefrustreerd dat ze wensen over te stappen en nooit meer iemand deze dienst/product aan te raden. 
 
+Wat een rotzooi. 
+
 Dit alleen omdat werknemers hun baan afhangt van een sale of niet. Het hangt niet af van een goede ervaring voor de klant of de behoeftes van de klant. Want voor de klant van mijn werkgever deed dat er niet toe.
 
 ## verdict
 
-Bedrijven houden graag van hun analytica en sommige bedrijven baseren hun handelingen op deze cijfers. Echter is dat een fundamenteel probleem. Want jij als oprichter/CEO, moet juist ervoor zorgen dat de handelingen van het bedrijf gebaseerd zijn op de behoeftes van de klant. Dat is *letterlijk* jouw banenomschrijving. Als je deze behoefte niet behartigd, ben je niet fit om een oprichter/CEO te zijn.
+Bedrijven houden graag van hun analytica en sommige bedrijven baseren hun handelingen op deze cijfers. Echter is kan dat soms een fundamenteel probleem zijn. Het is te kortzichtig om jouw werknemers noodgedwongen targets te laten halen. Want jij als oprichter/CEO, moet juist ervoor zorgen dat de handelingen van het bedrijf gebaseerd zijn op de behoeftes van de klant. Dat is *letterlijk* de baanomschrijving. Als je deze behoefte niet behartigd, ben je niet fit om een oprichter/CEO te zijn.
 
