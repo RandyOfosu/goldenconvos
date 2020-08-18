@@ -4,6 +4,8 @@ title: "Opinie: Waarom targets niet werken."
 date: 2020-08-27 11:40:31
 ---
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/845860072&color=%23daa51f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/randus95" title="RANDUS" target="_blank" style="color: #cccccc; text-decoration: none;">RANDUS</a> · <a href="https://soundcloud.com/randus95/black-light" title="Black Light" target="_blank" style="color: #cccccc; text-decoration: none;">Black Light</a></div>
+
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **10 MIN READ**</i>
 
@@ -12,6 +14,13 @@ date: 2020-08-27 11:40:31
 Targets werken wel als jouw doel is om alleen meer conversies (sales) te maken. Dan zijn targets een van de vele manieren om dit doel te behalen. Maar stel dat jouw intentie is om loyale klanten en werknemers te verkrijgen, die jouw product/dienst willen aanraden aan anderen die dezelfde behoeftes hebben. Dan is de implementatie van targets als <a href="https://www.marketingtermen.nl/begrip/key-performance-indicator" target="_blank">key performance indicator</a> funest voor jouw werkvloer en dienst/product.
 
 In deze blogpost zal ik mijn visie hierop delen. Daarbij zal ik voorstellen doen op wat bedrijven anders kunnen doen om een gezondere werkmilieu en loyale klantenkring op te bouwen. 
+
+###### TL;DR
+
+- Werknemers zullen er de kantjes van aflopen.
+- Goodharts Law
+- Mensen zijn nooit goed geweest in het interpreteren van cijfers.
+- Jouw enige doel is om de klant zijn/haar behoeftes zo goed mogelijk te behartigen.
 
 ## Waarom targets aantrekkelijk zijn om te implementeren.
 
