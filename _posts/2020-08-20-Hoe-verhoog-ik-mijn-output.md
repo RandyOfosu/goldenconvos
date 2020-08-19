@@ -3,7 +3,6 @@
 title: "Hoe verhoog ik mijn output?"
 date: 2020-08-28 11:40:31
 ---
-
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/751769857&color=%23daa51f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/randus95" title="RANDUS" target="_blank" style="color: #cccccc; text-decoration: none;">RANDUS</a> · <a href="https://soundcloud.com/randus95/siii" title="Siii" target="_blank" style="color: #cccccc; text-decoration: none;">Siii</a></div>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -52,7 +51,9 @@ We weten nu wat er af moet, gelukkig kunnen er ook dingen bij! Zie dit als of je
 
 **Stelen** -- In de muziekindustrie zeggen artiesten dat zij "geïnspireerd" waren door een andere artiest. Maar wat de artiest eigenlijk zegt is dat hij/zij had gestolen wat heeft gewerkt van een andere artiest die hij/zij had bestudeerd. Ethnisch gezien is daar helemaal niets mis mee. Ik zou zelfs zeggen dat het efficiënt is. Dit principe moet jij dus ook stelen. We hoeven het wiel niet opnieuw uit te vinden. We kunnen het wiel verbeteren nadat we hebben geleerd hoe het in allemaal in elkaar steekt. Bestudeer het succes van anderen waar jij naar opkijkt en ga dat implementeren in jouw leven.  
 
-## Wat zijn punten die ervoor zorgen dat mijn output wordt gemaximaliseerd. 
-1. Time Management.
-2. Consistentie.
-3. Focus op je resultaten.
+## Wat zijn punten die ervoor zorgen dat mijn output wordt gemaximaliseerd? 
+Dat is een hele goeie vraag. Focus voor nu op deze drie punten. 
+1. Time Management: Het moment dat je opstaat uit bed zijn er allemaal mensen die een deel van jouw tijd in beslag willen nemen. Wees daar bewust van en claim tijd voor jezelf.
+2. Consistentie: Dit is niet een 1 keer per week gebeuren. Dit zijn wetten waar je niet om heen kan. Als je dit niet toepast in jouw leven kan ik je garanderen dat hetgene wat je wil behalen niet gaat werken.
+3. Focus op je resultaten: Leer wat werkt en waarom het werkt. Doe meer van hetgene wat werkt. Kijk dan naar wat niet werkt, zoek uit waarom het niet werkt en doe dat niet of vervang het met wat werkt.
+4. Blijf experimenteren: Als je een open gedachte houdt kom je altijd op hetgene wat zou kunnen werken in je leven. Het leven zal altijd van je vragen om flexibel te zijn.
