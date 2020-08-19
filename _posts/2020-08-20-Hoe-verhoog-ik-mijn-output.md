@@ -16,7 +16,12 @@ Andere mensen zien dat niet in en zullen vaak de schuld buiten hen plaatsen. Dit
 ## input proces output
 Dit gaat er zo bedriegelijk simpel uit maar zeker een groot percentage van de mensheid snapt of handeld niet naar dit proces. 
 
+<img src="/assets/img/inputoutput.png" title="De input output proces" alt="De input output diagram">
+
+Stel je wilt leren rekenen, dan moet jouw proces er ongeveer zo uit zien.
+
 ## snij al het vet uit
+Wat succesvolle mensen kenmerkt is dat zij goeie lange termijn investeringen doen.
 
 ## Wat heeft directe invloed op mijn output.
 - Slaap
