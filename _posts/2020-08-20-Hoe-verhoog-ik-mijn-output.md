@@ -24,7 +24,7 @@ Stel je wilt een bloem planten.
 
 <img src="/assets/img/bloem_plant_proces.png" title="De input output model bloem editie" alt="input out model bloem editie">
 
-Als je een plant geen water, zonlicht of geduld geeft zal het niet gaan bloeien. Deze plant ben jij. Wij zijn allemaal planten die klaar zijn om te bloeien tot waar wij van nature het beste in zijn. Echter dat vereist zelfkennis, focus, werk en tijd.
+Als je een plant geen water, zonlicht of geduld geeft zal het niet gaan bloeien. Deze plant ben jij. Wij zijn allemaal planten die klaar zijn om te bloeien tot waar wij van nature het beste in zijn. Echter vereist dat zelfkennis, focus, werk en tijd.
 
 ## snij al het vet uit
 Wat succesvolle mensen kenmerkt is dat zij goeie lange termijn investeringen doen.
