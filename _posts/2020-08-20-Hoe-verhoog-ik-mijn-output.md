@@ -1,7 +1,7 @@
 ---
 # layout: post
 title: "Hoe verhoog ik mijn output"
-date: 2020-08-12 11:40:31
+date: 2020-08-28 11:40:31
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
