@@ -14,11 +14,13 @@ Dat is een simpel input/output proces. Zij doen **alleen** hetgene wat hen zo di
 Andere mensen zien dat niet in en zullen vaak de schuld buiten hen plaatsen. Dit zijn mensen die boos zijn op de wereld. Je kent deze mensen vast wel. Wij gaan niet zoals hen worden. Want waar wij het over gaan hebben is hoe je dit proces zo efficiënt mogelijk kan maken. Mocht je dit advies volgen zal je merken dat je meer gedaan krijgt. 
 
 ## input proces output
-Dit gaat er zo bedriegelijk simpel uit maar zeker een groot percentage van de mensheid snapt of handeld niet naar dit proces. 
+Dit gaat er zo bedriegelijk simpel uit maar zeker een groot percentage van de mensheid snapt of handelt niet naar dit proces. 
 
-<img src="/assets/img/inputoutput.png" title="De input output proces" alt="De input output diagram">
+<img src="/assets/img/inputoutput.png" title="De input output model" alt="De input output diagram">
 
-Stel je wilt leren rekenen, dan moet jouw proces er ongeveer zo uit zien.
+Echter is simpel niet gelijk aan makkelijk. Het belangrijkste wat je goed **moet** doen is het `proces`. Als het proces niet congruent is (overeenkomt) met wat je als input hebt, zal je nooit de gewenste output krijgen. 
+
+
 
 ## snij al het vet uit
 Wat succesvolle mensen kenmerkt is dat zij goeie lange termijn investeringen doen.
