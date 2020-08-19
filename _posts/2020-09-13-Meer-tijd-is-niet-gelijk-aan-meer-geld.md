@@ -1,7 +1,7 @@
 ---
 # layout: post
 title: "Meer tijd ≠ Meer geld"
-date: 2020-09-13 08:37:51
+date: 2020-08-31 08:37:51
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
