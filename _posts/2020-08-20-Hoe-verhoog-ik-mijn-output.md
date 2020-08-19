@@ -18,7 +18,7 @@ Dit gaat er zo bedriegelijk simpel uit maar zeker een groot percentage van de me
 
 <img src="/assets/img/inputoutput.png" title="De input output model" alt="De input output model">
 
-Echter is simpel niet gelijk aan makkelijk. Het belangrijkste wat je goed **moet** doen is het `proces`. Als het proces niet congruent (in overeenstemming) is met wat je als input hebt, zal je nooit de gewenste output krijgen. 
+Echter is simpel niet gelijk aan makkelijk. Het belangrijkste wat je goed **moet** doen is het `proces`. Als het proces niet congruent (in overeenstemming) is met wat je als input hebt, zal je nooit de gewenste output krijgen. Dat geldt ook voor als de input niet helpt bij het proces.
 
 Stel je wilt een bloem planten. 
 
@@ -27,7 +27,17 @@ Stel je wilt een bloem planten.
 Als je een plant geen water, zonlicht of geduld geeft zal het niet gaan bloeien. Deze plant ben jij. Wij zijn allemaal planten die klaar zijn om te bloeien tot waar wij van nature het beste in zijn. Echter vereist dat zelfkennis, focus, werk en tijd.
 
 ## snij al het vet uit
-Wat succesvolle mensen kenmerkt is dat zij goeie lange termijn investeringen doen.
+Wat succesvolle mensen kenmerkt is dat zij goeie lange termijn investeringen doen. Ik kan dat beter herformuleren door te zeggen dat: "Succesvolle mensen trachten om slechte lange termijn investeringen te vermijden (als de pest)." Ze stellen zichzelf elke keer de vraag, als ik dit doe (proces), wat zal ik dan krijgen (output)?
+
+Het omgekeerde is ook waar. Mensen die slechte lange termijn investeringen doen zullen niet succesvol zijn in wat zij willen doen. Dit zijn mensen die geen besef hebben bij wat zij doen. 
+
+Dat is omdat er zoveel afleiding kan zijn in een mensen leven. De tijd dat je doorbrengt op social media als je doelloos ligt te scrollen is bijvoorbeeld geen goede lange termijn investering. Dat is omdat je in 5 jaar van social media scrollen niets van waarde terug krijgt. Het meeste wat je eruit krijgt is oppervlakkige entertainment en een vervormd beeld van de samenleving.
+
+Als we de analogie van de bloem mogen gebruiken is dat net als of je zoutige water geeft aan jouw (aan alle agrariërs; niet zoutminnende) plant. Jouw plant gaat niet bloeien. Sterker nog jouw plant gaat dood. 
+
+Zij tijd als geld wat je kan uitgeven aan alle activiteiten op aarde en denk dan op de lange termijn.
+
+*Als ik dit doe, wat krijg ik dan over 5, 10, 20 jaar?*
 
 ## Wat heeft directe invloed op mijn output.
 - Slaap
