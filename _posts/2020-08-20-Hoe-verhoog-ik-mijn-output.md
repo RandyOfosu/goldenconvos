@@ -13,9 +13,12 @@ date: 2020-08-28 11:40:31
 
 Dat is een simpel input/output proces. Zij doen **alleen** hetgene wat hen zo dichtbij mogelijk bij hun doel gaat brengen. 
 
-Waar wij het over gaan hebben is hoe je dit proces zo efficiënt mogelijk kan maken. Mocht je dit advies volgen zal je merken dat meer gedaan krijgt. 
+Andere mensen zien dat niet in en zullen vaak de schuld buiten hen plaatsen. Dit zijn mensen die boos zijn op de wereld. Je kent deze mensen vast wel. Wij gaan niet zoals hen worden. Want waar wij het over gaan hebben is hoe je dit proces zo efficiënt mogelijk kan maken. Mocht je dit advies volgen zal je merken dat je meer gedaan krijgt. 
 
 ## input proces output
+Dit gaat er zo bedriegelijk simpel uit maar zeker een groot percentage van de mensheid snapt of handeld niet naar dit proces. 
+
+## snij al het vet uit
 
 ## Wat heeft directe invloed op mijn output.
 - Slaap
@@ -30,5 +33,3 @@ Waar wij het over gaan hebben is hoe je dit proces zo efficiënt mogelijk kan ma
 1. Time Management.
 2. Consistentie.
 3. Focus op je resultaten.
-
-## Meer tijd ≠ Meer geld
