@@ -16,11 +16,15 @@ Andere mensen zien dat niet in en zullen vaak de schuld buiten hen plaatsen. Dit
 ## input proces output
 Dit gaat er zo bedriegelijk simpel uit maar zeker een groot percentage van de mensheid snapt of handelt niet naar dit proces. 
 
-<img src="/assets/img/inputoutput.png" title="De input output model" alt="De input output diagram">
+<img src="/assets/img/inputoutput.png" title="De input output model" alt="De input output model">
 
-Echter is simpel niet gelijk aan makkelijk. Het belangrijkste wat je goed **moet** doen is het `proces`. Als het proces niet congruent is (overeenkomt) met wat je als input hebt, zal je nooit de gewenste output krijgen. 
+Echter is simpel niet gelijk aan makkelijk. Het belangrijkste wat je goed **moet** doen is het `proces`. Als het proces niet congruent (in overeenstemming) is met wat je als input hebt, zal je nooit de gewenste output krijgen. 
 
+Stel je wilt een bloem planten. 
 
+<img src="/assets/img/bloem_plant_proces.png" title="De input output model bloem editie" alt="input out model bloem editie">
+
+Als je een plant geen water, zonlicht of geduld geeft zal het niet gaan bloeien. Deze plant ben jij. Wij zijn allemaal planten die klaar zijn om te bloeien tot waar wij van nature het beste in zijn. Echter dat vereist zelfkennis, focus, werk en tijd.
 
 ## snij al het vet uit
 Wat succesvolle mensen kenmerkt is dat zij goeie lange termijn investeringen doen.
