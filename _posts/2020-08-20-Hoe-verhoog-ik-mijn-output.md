@@ -9,9 +9,9 @@ date: 2020-08-12 11:40:31
 
 # Inleiding
 
-**RANDY OFOSU** -- Wat hebben <a href="https://nl.wikipedia.org/wiki/Jaap_Haartsen">Jaap Haartsen</a>, <a href="https://nl.wikipedia.org/wiki/Oprah_Winfrey" target="_blank">Oprah Winfrey</a>, een dakloze en jij allemaal gemeen. Het antwoord is dat jullie allemaal onder dezelfde wet vallen van tijd. Geld zal nooit direct invloed hebben op hoeveel tijd jij hebt op een dag. Maar toch weten **en** handelen, uitvinders zoals Jaap Haartsen of ondernemers zoals Oprah, iets wat jij niet weet of doet. Waarom hebben zij wel hun eigen plek geëtst in de menselijke geschiedenis en jij (of ik) niet? 
+**RANDY OFOSU** -- Wat hebben <a href="https://nl.wikipedia.org/wiki/Jaap_Haartsen">Jaap Haartsen</a>, <a href="https://nl.wikipedia.org/wiki/Oprah_Winfrey" target="_blank">Oprah Winfrey</a>, een dakloze en jij allemaal gemeen. Het antwoord is dat jullie allemaal onder dezelfde wet vallen van tijd. Geld zal nooit direct invloed hebben op hoeveel tijd jij hebt op een dag. Maar toch weten **en** handelen, uitvinders zoals Jaap Haartsen of ondernemers zoals Oprah, "beter" dan jij. Waarom hebben zij wel hun eigen plek geëtst in de menselijke geschiedenis en jij (of ik) niet? 
 
-
+Daar gaat deze blogpost over. Hier krijg je tips in hoe 
 
 # Wat heeft directe invloed op mijn output.
 - Slaap
