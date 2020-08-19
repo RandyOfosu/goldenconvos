@@ -1,6 +1,6 @@
 ---
 # layout: post
-title: "Hoe verhoog ik mijn output"
+title: "Hoe verhoog ik mijn output?"
 date: 2020-08-28 11:40:31
 ---
 
