@@ -53,7 +53,7 @@ We weten nu wat er af moet, gelukkig kunnen er ook dingen bij! Zie dit als of je
 
 ## Wat zijn punten die ervoor zorgen dat mijn output wordt gemaximaliseerd? 
 Dat is een hele goeie vraag. Focus voor nu op deze drie punten. 
-1. Time Management: Het moment dat je opstaat uit bed zijn er allemaal mensen die een deel van jouw tijd in beslag willen nemen. Wees daar bewust van en claim tijd voor jezelf.
-2. Consistentie: Dit is niet een 1 keer per week gebeuren. Dit zijn wetten waar je niet om heen kan. Als je dit niet toepast in jouw leven kan ik je garanderen dat hetgene wat je wil behalen niet gaat werken.
-3. Focus op je resultaten: Leer wat werkt en waarom het werkt. Doe meer van hetgene wat werkt. Kijk dan naar wat niet werkt, zoek uit waarom het niet werkt en doe dat niet of vervang het met wat werkt.
-4. Blijf experimenteren: Als je een open gedachte houdt kom je altijd op hetgene wat zou kunnen werken in je leven. Het leven zal altijd van je vragen om flexibel te zijn.
+1. Time Management -- Het moment dat je opstaat uit bed zijn er allemaal mensen die een deel van jouw tijd in beslag willen nemen. Wees daar bewust van en claim tijd voor jezelf.
+2. Consistentie -- Dit is niet een 1 keer per week gebeuren. Dit zijn wetten waar je niet om heen kan. Als je dit niet toepast in jouw leven kan ik je garanderen dat hetgene wat je wil behalen niet gaat werken.
+3. Focus op je resultaten -- Leer wat werkt en waarom het werkt. Doe meer van hetgene wat werkt. Kijk dan naar wat niet werkt, zoek uit waarom het niet werkt en doe dat niet of vervang het met wat werkt.
+4. Blijf experimenteren -- Als je een open gedachte houdt kom je altijd op hetgene wat zou kunnen werken in je leven. Het leven zal altijd van je vragen om flexibel te zijn.
