@@ -26,7 +26,7 @@ Stel je wilt een bloem planten.
 
 Als je een plant geen water, zonlicht of geduld geeft zal het niet gaan bloeien. Deze plant ben jij. Wij zijn allemaal planten die klaar zijn om te bloeien tot waar wij van nature het beste in zijn. Echter vereist dat zelfkennis, focus, werk en tijd.
 
-## snij al het vet uit
+## snij al het vet
 Wat succesvolle mensen kenmerkt is dat zij goeie lange termijn investeringen doen. Ik kan dat beter herformuleren door te zeggen dat: "Succesvolle mensen trachten om slechte lange termijn investeringen te vermijden (als de pest)." Ze stellen zichzelf elke keer de vraag, als ik dit doe (proces), wat zal ik dan krijgen (output)? Dit zorgt er op den duur voor dat zij hele goeie gewoontes hebben.
 
 Het omgekeerde is ook waar. Mensen die slechte lange termijn investeringen doen zullen niet succesvol zijn in wat zij willen doen. Dit zijn mensen die geen besef hebben bij wat zij doen. Wat op den duur leidt tot slechte gewoontes. Zoals overconsumptie, laksheid en dwalen.
