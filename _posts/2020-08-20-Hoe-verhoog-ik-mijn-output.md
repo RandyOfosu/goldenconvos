@@ -15,11 +15,11 @@ Dat is een simpel input/output proces. Zij doen **alleen** hetgene wat hen zo di
 Andere mensen zien dat niet in en zullen vaak de schuld buiten hen plaatsen. Dit zijn mensen die boos zijn op de wereld. Je kent deze mensen vast wel. Wij gaan niet zoals hen worden. Want waar wij het over gaan hebben is hoe je dit proces zo efficiënt mogelijk kan maken. Mocht je dit advies volgen zal je merken dat je meer gedaan krijgt. 
 
 ###### TL;DR
-- Vergaar zelfkennis.
-- Ga bewust om met jouw tijd.
-- Bescherm jouw slaapritme met je leven.
-- Bestudeer het succes van anderen waar jij naar opkijkt en ga dat implementeren in jouw leven.
-- Zonder discipline ben je niemand.
+➣ Vergaar zelfkennis.
+➣ Ga bewust om met jouw tijd.
+➣ Bescherm jouw slaapritme met je leven.
+➣ Bestudeer het succes van anderen waar jij naar opkijkt en ga dat implementeren in jouw leven.
+➣ Zonder discipline ben je niemand.
 
 ## input proces output
 Dit gaat er zo bedriegelijk simpel uit maar zeker een groot percentage van de mensheid snapt of handelt niet naar dit proces. 

@@ -14,11 +14,11 @@ date: 2020-08-06 18:57:51
 
 ###### TL;DR
 
-- Je kan met een blog bewijzen wat je kan.
-- Een blog helpt je leren.
-- Je verleert het schrijven als je het niet vaak doet.
-- Je kan een community bouwen met een blog.
-- Mensen lezen graag van andere mensen.
+➣ Je kan met een blog bewijzen wat je kan.
+➣ Een blog helpt je leren.
+➣ Je verleert het schrijven als je het niet vaak doet.
+➣ Je kan een community bouwen met een blog.
+➣ Mensen lezen graag van andere mensen.
 
 ## Wat is het nut van een blog?
 
