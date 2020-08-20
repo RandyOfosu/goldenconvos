@@ -81,7 +81,7 @@ Online sollicitatie platformen zijn leuk, maar zo is praten met u ook. Wat deze 
 
 ## Het helpt bij jouw persoonlijke leerproces.
 
-Er is een blogpost van <a href="https://tomprof.stanford.edu/posting/1495#:~:text=Learning%20is%20a%20social%20process,see%20other%20people%20perform%20them." target="_blank">Stanford University</a> dat het volgende zegt over het leerproces van de mens.
+Er is een blogpost van <a href="https://tomprof.stanford.edu/posting/1495#:~:text=Learning%20is%20a%20social%20process,see%20other%20people%20perform%20them." target="_blank" title="Stanford University Rick Reis: How do people learn?" alt="Rick Reis: How do people learn?">Stanford University</a> dat het volgende zegt over het leerproces van de mens.
 
 1. Leren is een sociale activiteit, dit kan direct of indirect met andere mensen.
 2. Mensen zullen hun acties herhalen als zij ervoor worden beloond, een beloning kan ook erkenning zijn van je gelijken.
@@ -103,7 +103,7 @@ Tegenwoordig gooien mensen wel heel vaak de term community rond. Hierom denk ik 
 
 > A community is a group of individiduals who share a mutual concern for one another's welfare.
 
-Dit is direct geciteerd uit het boek van <a href="https://www.bol.com/nl/p/the-art-of-community/9200000065862148/" target="_blank">_The Art of Community_</a> van Charles H. Vogl. Zolang niemand van een "community" om elkaar geeft, spreken we niet van een community, maar van een los kluitje mensen. Ja, zij kunnen toevallig geïnteresseerd zijn in dezelfde dingen. Ja, zij kunnen dezelfde mening delen over polarizerende onderwerpen. Maar zolang zij niet achterom kijken voor elkaar, is er geen sprake van een community.
+Dit is direct geciteerd uit het boek van <a href="https://www.bol.com/nl/p/the-art-of-community/9200000065862148/" title="Het boek The Art of Community van Charles H. Vogl" alt="Het boek The Art of Community van Charles H. Vogl" target="_blank">_The Art of Community_</a> van Charles H. Vogl. Zolang niemand van een "community" om elkaar geeft, spreken we niet van een community, maar van een los kluitje mensen. Ja, zij kunnen toevallig geïnteresseerd zijn in dezelfde dingen. Ja, zij kunnen dezelfde mening delen over polarizerende onderwerpen. Maar zolang zij niet achterom kijken voor elkaar, is er geen sprake van een community.
 
 In een toekomstige blogpost zal ik het hebben over hoe je een sterke community kan bouwen, met behulp van het boek dat ik eerder heb genoemd. Voor nu is mijn punt dat je doormiddel van een blog een community kan bouwen.
 

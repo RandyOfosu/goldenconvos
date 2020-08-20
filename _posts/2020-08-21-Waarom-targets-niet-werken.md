@@ -10,7 +10,7 @@ date: 2020-08-21 11:40:31
 
 **RANDY OFOSU** -- Hoe je mijn clickbaity titel eigenlijk moet lezen is; "*Waarom targets als kpi voor jouw werknemer niet werkt op de manier hoe jij het wilt.*" 
 
-Targets werken wel als jouw doel is om alleen meer conversies (sales) te maken. Dan zijn targets een van de vele manieren om dit doel te behalen. Maar stel dat jouw intentie is om loyale klanten en werknemers te verkrijgen, die jouw product/dienst willen aanraden aan anderen die dezelfde behoeftes hebben. Dan is de implementatie van targets als <a href="https://www.marketingtermen.nl/begrip/key-performance-indicator" target="_blank">key performance indicator</a> funest voor jouw werkvloer en dienst/product.
+Targets werken wel als jouw doel is om alleen meer conversies (sales) te maken. Dan zijn targets een van de vele manieren om dit doel te behalen. Maar stel dat jouw intentie is om loyale klanten en werknemers te verkrijgen, die jouw product/dienst willen aanraden aan anderen die dezelfde behoeftes hebben. Dan is de implementatie van targets als <a href="https://www.marketingtermen.nl/begrip/key-performance-indicator" title="Definitie: Key Performance Indicator" alt="Definitie: Key Perfomance Indicator" target="_blank">key performance indicator</a> funest voor jouw werkvloer en dienst/product.
 
 In deze blogpost zal ik mijn visie hierop delen. Daarbij zal ik voorstellen doen op wat bedrijven anders kunnen doen om een gezondere werkmilieu en loyale klantenkring op te bouwen. 
 
@@ -28,13 +28,13 @@ Het lijkt mij handig om te vertellen waarom wij als mensen überhaupt targets zi
 Bedrijven kunnen alleen een product/dienst leveren als zij genoeg geld verdienen van klanten om te kunnen opereren. In sommige gevallen worden bedrijven gefinanciëerd door investeerders. Het doel van de investeerders is om geld te verdienen met het geld dat zij uitlenen. Met het geld dat zij uitlenen willen investeerders dat het bedrijf groeit. Want later wanneer het bedrijf is gegroeid zullen de investeerders hun geïnvesteerde bedrag ontvangen met een afgesproken winstpercentage. 
 <img src="/assets/img/bedrijfscyclus.png" alt="Het bedrijfscyclus in beweging" title="Bedrijfscyclus">
 
-Hoe een bedrijf deze groei moet bereiken, is de <a href="https://nl.wikipedia.org/wiki/Pakkie-an" target="_blank">pakkie-an</a> van het bedrijf. De meeste bedrijven gebruiken het geld van investeerders om grote <a href="https://www.marketingtermen.nl/begrip/acquisitie" target="_blank"> acquisitiecampagnes</a> te houden. Hun doel met zo'n campagne is dan zoveel mogelijk klanten/werknemers te werven en te behouden. Hoe zij kunnen meten of hun campagne werkt is doormiddel van key performance indicatoren! 
+Hoe een bedrijf deze groei moet bereiken, is de <a href="https://nl.wikipedia.org/wiki/Pakkie-an" title="Een kleine funfact" alt="Een kleine funfact" target="_blank">pakkie-an</a> van het bedrijf. De meeste bedrijven gebruiken het geld van investeerders om grote <a href="https://www.marketingtermen.nl/begrip/acquisitie" title="Definitie: acquisitie" alt="Definitie: acquisitie" target="_blank"> acquisitiecampagnes</a> te houden. Hun doel met zo'n campagne is dan zoveel mogelijk klanten/werknemers te werven en te behouden. Hoe zij kunnen meten of hun campagne werkt is doormiddel van key performance indicatoren! 
 
 Één zo'n indicator is de conversie. Een conversie is het moment dat een klant is overgegaan tot de aankoop van een dienst/product. Wat het meest voorkomt is dat zo'n conversie wordt uitgedrukt in een percentage. Dus des te hoger dat percentage is, des te meer sales je hebt gemaakt. Nu gaan er lampjes gaan branden bij de bestuurlijke machten van zo'n bedrijf. 
 
 >Hoe meer sales mijn werknemers maken, hoe meer geld. Hoe meer geld, hoe meer tevreden mijn investerdeers worden.
 
-Jammer, want dit is naar mijn mening het moment dat een salesmanager of zelfs een CEO de verkeerde belangen gaat behartigen. In principe zijn investeerders alleen geïnteresseerd in het proces dat hen dichterbij hun <a href="https://nl.wikipedia.org/wiki/Return_on_investment" target="_blank">ROI</a> brengt. Anders loop je als bedrijf het risico dat ze nooit meer zaken met jou willen doen. 
+Jammer, want dit is naar mijn mening het moment dat een salesmanager of zelfs een CEO de verkeerde belangen gaat behartigen. In principe zijn investeerders alleen geïnteresseerd in het proces dat hen dichterbij hun <a href="https://nl.wikipedia.org/wiki/Return_on_investment" title="definitie: Return on Investment" target="_blank">ROI</a> brengt. Anders loop je als bedrijf het risico dat ze nooit meer zaken met jou willen doen. 
 
 Waar komen de klanten en werknemers dan in dit verhaal? **Dat is dus de kern van het probleem!**
 
@@ -44,7 +44,7 @@ Dit is letterlijk één voorbeeld waarbij -- de beweegredenen van een bedrijf ni
 
 >Wanneer een goede maatstaaf een target wordt, is het geen goeie maatstaaf meer.
 
-Dit zijn massief goude woorden van de überChad econoom, <a href="https://en.wikipedia.org/wiki/Charles_Goodhart" target="_blank">Charles Goodhart</a>. Dit hoort thuis op een tegeltje bij elke aspirant manager of CEO. Het wordt ook wel de Goodharts Law genoemd. Dit is niet omdat ik moraalridder ben. Dit is omdat je op een langer termijn meer verdient als jij je houdt aan het advies van deze wet.
+Dit zijn massief goude woorden van de überChad econoom, <a href="https://en.wikipedia.org/wiki/Charles_Goodhart" title="Wikipagina over Charles Goodhart" alt="Wikipagina over Charles Goodhart" target="_blank">Charles Goodhart</a>. Dit hoort thuis op een tegeltje bij elke aspirant manager of CEO. Het wordt ook wel de Goodharts Law genoemd. Dit is niet omdat ik moraalridder ben. Dit is omdat je op een langer termijn meer verdient als jij je houdt aan het advies van deze wet.
 
 Als je goed om je heen kijkt, leer je al heel gauw dat veel (grootlijkende) bedrijven dit advies negeren. Dit soort bedrijven zullen daarom niet lang bestaan en zullen geassimileerd worden door hun concurrenten. Dus wees gewaarschuwd. 
 

@@ -32,7 +32,7 @@ Mentor -- Zodra je iemand leert wat jij kan. Help jij jezelf door de kennis die 
 
 Het voelt ook goed om iemand te helpen die echt graag wil. Je deed toch al waar je goed in bent en je wilt vast ook beter worden. Daarnaast bouw je een goede reputatie als je goede hulp biedt aan behoevende mensen. 
 
-Student -- Niemand is <a href="https://www.businessinsider.nl/youngest-self-made-billionaires-kylie-jenner-mark-zuckerberg-2019-3?international=true&r=US" target="_blank"> "selfmade"</a>, al deze mensen hebben ooit op hun leven een plateau gehad . Als jij die van jou wil doorbreken heb je advies en inzicht nodig van 1 of meerdere personen. Wil je gestaagd blijven groeien in jouw kunnen moet je hulp met trots kunnen aannemen. 
+Student -- Niemand is <a href="https://www.businessinsider.nl/youngest-self-made-billionaires-kylie-jenner-mark-zuckerberg-2019-3?international=true&r=US" title="Een willekeurige lijst van selfmade miljonairs" alt="Een willekeurige lijst van selfmade miljonairs" target="_blank"> "selfmade"</a>, al deze mensen hebben ooit op hun leven een plateau gehad . Als jij die van jou wil doorbreken heb je advies en inzicht nodig van 1 of meerdere personen. Wil je gestaagd blijven groeien in jouw kunnen moet je hulp met trots kunnen aannemen. 
 
 Aan het einde van de dag draait het om een investering van tijd die jij kan inkorten. Tijd is iets wat je nooit meer terugkrijgt dus als je sneller kan komen bij jouw bestemming is dat alleen maar beter.
 
