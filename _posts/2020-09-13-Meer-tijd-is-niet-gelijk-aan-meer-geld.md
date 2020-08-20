@@ -18,13 +18,13 @@ De reden hiervoor is een onderwerp voor een andere keer. Wat ik duidelijk wil ma
 
 Er zit een limiet aan uren op een dag dat jij nuttig kan zijn voor een bedrijf. Biologisch gezien kan jij maar een `x aantal uren` productief zijn. Er zijn zelfs <a href="https://hbr.org/2009/10/making-time-off-predictable-and-required" title="Harvard Business Review onderzoek uit 2019" alt="Harvard Business Review onderzoek uit 2019" target="_blank">onderzoeken</a> die zelfs stellen dat wij maar 2¾ uren productief zijn op kantoorbanen. Als je buiten je biologische kunnen werkt komen er mankementen in beeld wat ervoor gaat zorgen dat jij een (ethisch) bedrijf meer gaat kosten dan redelijk gezien kan. De grootste voorbeelden van mankementen zijn beslissingsmoeiheid, stress, depressie en verzwakking van communicatieve vermogen. Zolang wij niet precies weten *waarom* wij ± 8 uren op een dag moeten slapen, kunnen we hier niets aan doen.
 
-Dus stel je bent een zelfstandig programmeur en vraagt €90 per uur (wat heel normaal is) voor wat je kan.  
+Dus stel je bent een programmeur in loondienst verdient ongeveer €18,75 per uur voor wat je kan (wat heel normaal is). Zal er altijd een kwantificeerbare limiet zijn aan wat je kan verdienen. Gebaseerd op het feit dat je in jou eentje in loondienst maar zoveel gedaan kan krijgen. Begrijp me niet verkeerd, €36.000 per jaar verdienen is heerlijk als programmeren is wat je wilt doen. Maar dit is voor mensen die meer willen verdienen en meer willen doen.
 
-Waar wij wel wat aan kunnen doen is hoe wij de tijd die we tot onze beschikking hebben kunnen inzetten. Ik had in de eerste alinea van dit deelonderwerp gezegd dat wij mensen bekend staan in onze vaardigheid om dingen te kunnen bouwen. Iedereen heeft wel ooit een oplossing gevonden op iets stoms in het huis. Die van mij is dat ik mijn gordijnen vouw over de hendel van mijn raam om wat zonlicht en zuurstof naar binnen krijgen. 
+Ik had in de eerste alinea van dit deelonderwerp gezegd dat wij mensen bekend staan om dingen te kunnen bouwen. Iedereen heeft wel ooit een oplossing gevonden op iets stoms in ons huis. Die van mij is dat ik mijn gordijnen vouw over de hendel van mijn raam om wat zonlicht en zuurstof naar binnen krijgen. 
 
 <img src="/assets/img/randomoplossing.jpg" title="Mijn creatieve oplossing." alt="Mijn creatieve oplossing">
 
-Niemand heeft mij dit ooit verteld, ik heb dit niet opgepikt doormiddel van osmosis of iets dergelijks. Het ging net zo natuurlijk als "Hey, dit kan, dit werkt‽" 
+Niemand heeft mij dit ooit verteld, ik heb dit niet opgepikt doormiddel van <a href="https://nl.qwe.wiki/wiki/Social_osmosis" titel="Omdat ik het niet heb over diffusie van vloeistof" target="_blank" alt="sociale osmose">osmose</a> of iets dergelijks. Het ging net zo natuurlijk als "Hey, dit kan, dit werkt‽" 
 
 
 
