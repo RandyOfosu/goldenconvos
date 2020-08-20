@@ -11,6 +11,11 @@ date: 2020-08-31 08:37:51
 
 Tegenwoordig ga ik ervan uit dat iedereen Rich Dad, Poor Dad heeft gelezen van Robert Kiyosaki. Wanneer men het dan over Robert heeft blèren zij gelijk "werk niet voor geld, geld werkt voor jou!" Net een Russische meme. Maar wat houdt dat echt in. Er zijn mensen die dingen lezen maar niet internaliseren. Ik heb dat wel gedaan en ben bereidt om dat met jou delen. 
 
+###### TL;DR
+➣ Er zit een tijdslimiet op wat je kan verdienen op een dag.
+➣ Verhoog jouw persoonlijke waarde door extra curriculaire activiteiten te doen.
+➣ Werk niet *in* jouw bedrijf, maar *aan* jouw bedrijf.
+
 ## Meer tijd ≠ Meer geld
 Wij mensen staan er om bekend om lange afstanden te kunnen rennen, te bezitten over een niveau van bewustzijn en de gave te hebben om dingen van een breed spectra van nuttigheid te kunnen bouwen. Dat is iets wat wij van nature mee hebben gekregen en niet voor hoeven te werken als we gezond zijn geboren. Waar wij helemaal niets van bakken is het interpreteren van abstracte concepten zoals cijfers, statistieken, algebra en soortgelijke. Dit zijn allemaal concepten waar we dagelijks hard voor moeten werken om goed te kunnen begrijpen. En zelfs dan is er een kans dat wij het kunnen verprutsen. 
 
@@ -29,7 +34,7 @@ Dus wat is de passende oplossing als tijd niet gelijk is aan meer geld?
 De enige manier om meer te kunnen verdienen is door jouw eigen waarde te verhogen. Dit is iets waarmee je wordt doodgegooid als jij je hebt verdiept in *self-improvement*. Maar als we logisch en zonder enig vorm van vooroordelen kijken naar de opties die beschikbaar zijn zal je net als ik tot de conclusie komen dat het niet anders kan zijn. 
 
 ## Hoe verhoog ik mijn waarde als een persoon?
-Dus waarom bouw je niet een manier om meer te kunnen verdienen, als jij vindt dat je meer verdient? Dat is dan natuurlijk makkelijker gezegd dan gedaan, echter is er geen andere manier om dit te doen. Voor de mensen die de moeite niet willen doen om verantwoordelijk te zijn over een "heel" bedrijf, verhoog je waarde door extra curricilaire activiteiten te doen. 
+Dus waarom bouw je niet een manier om meer te kunnen verdienen, als jij vindt dat je meer verdient? Dat is dan natuurlijk makkelijker gezegd dan gedaan, echter is er geen andere manier om dit te doen. Voor de mensen die de moeite niet willen doen om verantwoordelijk te zijn over een "heel" bedrijf, verhoog je waarde door extra curriculaire activiteiten te doen. 
 
 Ga studeren, volg elk kwartaal een cursus, doe relevante ervaringen op en toets *en* houdt jouw kunnen bij buiten jouw (toekomstige) werkomgeving. Doe of identificeer winstgevende dingen voor het bedrijf waarvoor je wil werken en wees daar supergoed in. Bonuspunten als niemand dat werk wil doen (vaak zijn die redenen arbitrair). Maak jezelf op deze manier onmisbaar en blijf op de uitkijk als er fundamentele veranderingen plaatsvinden in de branche waar je actief bent.
 
