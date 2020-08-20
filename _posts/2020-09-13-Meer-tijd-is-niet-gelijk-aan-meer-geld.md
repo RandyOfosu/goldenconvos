@@ -36,7 +36,7 @@ Ga studeren, volg elk kwartaal een cursus, doe relevante ervaringen op en toets 
 Mocht je het toch geen probleem vinden om een bedrijf op te richten volgt het volgende advies.
 
 ## Angst voor het delegeren.
-Dus stel je bent een programmeur in loondienst, je verdient ongeveer €18,75 per uur voor wat je kan (wat heel normaal is). Er zal dan altijd een kwantificeerbare limiet zijn aan wat je kan verdienen. Gebaseerd op het feit dat jij in jou eentje in loondienst maar zoveel gedaan kan krijgen. Begrijp me niet verkeerd, €36.000 per jaar (((€18,75 * 40 uren) * 4 weken) * 12 maanden) verdienen is heerlijk, als programmeren is wat je wilt doen. Maar dit artikel is dan ook voor mensen die meer willen verdienen en meer willen doen.
+Dus stel je bent een programmeur in loondienst, je verdient ongeveer €18,75 per uur voor wat je kan (wat heel normaal is). Er zal dan altijd een kwantificeerbare limiet zijn aan wat je kan verdienen. Gebaseerd op het feit dat jij in jou eentje in loondienst maar zoveel gedaan kan krijgen. Begrijp me niet verkeerd, €36.000 per jaar `(((€18,75 * 40 uren) * 4 weken) * 12 maanden)` verdienen is heerlijk, als programmeren is wat je wilt doen. Maar dit artikel is dan ook voor mensen die meer willen verdienen en meer willen doen.
 
 Miljonairs begrijpen dit concept ook en bouwen dan ook constructies die hen *24uur* op een dag geld kan opleveren. Met 24uur wordt dan bedoeld dat een constructie kan draaien zonder jouw constante aanwezigheid. Dat kan alleen als je niet bang om te delegeren. 
 
