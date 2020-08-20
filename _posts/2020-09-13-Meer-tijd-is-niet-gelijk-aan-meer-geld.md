@@ -24,7 +24,7 @@ Ik had in de eerste alinea van dit deelonderwerp gezegd dat wij mensen bekend st
 
 <img src="/assets/img/randomoplossing.jpg" title="Mijn creatieve oplossing." alt="Mijn creatieve oplossing">
 
-Niemand heeft mij dit ooit verteld, ik heb dit niet opgepikt doormiddel van <a href="https://nl.qwe.wiki/wiki/Social_osmosis" titel="Omdat ik het niet heb over diffusie van vloeistof" target="_blank" alt="sociale osmose">osmose</a> of iets dergelijks. Het ging net zo natuurlijk als "Hey, dit kan, dit werkt‽" 
+Niemand heeft mij dit ooit verteld, ik heb dit niet opgepikt doormiddel van <a href="https://nl.qwe.wiki/wiki/Social_osmosis" title="Omdat ik het niet heb over diffusie van vloeistof" target="_blank" alt="sociale osmose">osmose</a> of iets dergelijks. Het ging net zo natuurlijk als "Hey, dit kan, dit werkt‽" 
 
 
 
