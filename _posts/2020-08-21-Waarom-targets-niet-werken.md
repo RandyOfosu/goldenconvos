@@ -76,5 +76,7 @@ Dit alleen omdat werknemers hun baan afhangt van een sale of niet. Het hangt nie
 
 Bedrijven houden graag van hun analytica en sommige bedrijven baseren hun handelingen op deze cijfers. Echter kan dat soms een fundamenteel probleem zijn. Het is te kortzichtig om jouw werknemers noodgedwongen targets te laten halen. 
 
+Deze problemen zijn symptomen van vage doelstellingen die niet zijn gemaakt of zijn verfijnd. Wees specifiek met de doelen die je wilt behalen.
+
 Want jij als oprichter/CEO, moet juist ervoor zorgen dat de handelingen van het bedrijf gebaseerd zijn op de behoeftes van de klant. Dat is *letterlijk* de baanomschrijving. Als je deze behoefte niet behartigd, ben je niet fit om een oprichter/CEO te zijn.
 
