@@ -12,9 +12,9 @@ date: 2020-08-31 08:37:51
 Tegenwoordig ga ik ervan uit dat iedereen Rich Dad, Poor Dad heeft gelezen van Robert Kiyosaki. Wanneer men het dan over Robert heeft blèren zij gelijk "werk niet voor geld, geld werkt voor jou!" Net een Russische meme. Maar wat houdt dat echt in. Er zijn mensen die dingen lezen maar niet internaliseren. Ik heb dat wel gedaan en ben bereidt om dat met jou delen. 
 
 ###### TL;DR
-➣ Er zit een tijdslimiet op wat je kan verdienen op een dag.
-➣ Verhoog jouw persoonlijke waarde door extra curriculaire activiteiten te doen.
-➣ Werk niet *in* jouw bedrijf, maar *aan* jouw bedrijf.
+- Er zit een tijdslimiet op wat je kan verdienen op een dag.
+- Verhoog jouw persoonlijke waarde door extra curriculaire activiteiten te doen.
+- Werk niet *in* jouw bedrijf, maar *aan* jouw bedrijf.
 
 ## Meer tijd ≠ Meer geld
 Wij mensen staan er om bekend om lange afstanden te kunnen rennen, te bezitten over een niveau van bewustzijn en de gave te hebben om dingen van een breed spectra van nuttigheid te kunnen bouwen. Dat is iets wat wij van nature mee hebben gekregen en niet voor hoeven te werken als we gezond zijn geboren. Waar wij helemaal niets van bakken is het interpreteren van abstracte concepten zoals cijfers, statistieken, algebra en soortgelijke. Dit zijn allemaal concepten waar we dagelijks hard voor moeten werken om goed te kunnen begrijpen. En zelfs dan is er een kans dat wij het kunnen verprutsen. 
@@ -60,5 +60,3 @@ Dit wordt dan ook het moment dat je tijd hebt gecreërd voor een tweede filiaal.
 Dit is het geheim van alle miljonairs.
 
 Verhoog jouw eigen waarde en geef aspecten van deze lessen zo goed mogelijk door aan jouw werkgevers zodat zij kunnen doen wat jij kan. De werknemers zullen je dankbaar zijn en hun vrienden aanraden om bij je te komen werken. 
-
-

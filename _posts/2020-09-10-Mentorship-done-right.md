@@ -22,9 +22,9 @@ In deze berichten ga ik ervan uit dat de student of mentor in kwestie geen huich
 
 ###### TL;DR
 
-➣ Samen leren is leuker, dan alleen.
-➣ Maak duidelijke afspraken met elkaar.
-➣ Je moet je verantwoorden tegen over jezelf en een ander persoon.
+- Samen leren is leuker, dan alleen.
+- Maak duidelijke afspraken met elkaar.
+- Je moet je verantwoorden tegen over jezelf en een ander persoon.
 
 ## Waarom zou je überhaupt een student of mentor nemen?
 
@@ -57,16 +57,16 @@ Wat je moet accepteren is dat alles wat je hebt opgeschreven variabel is en zal 
 
 Allebei - Zodra de gegevens zijn gegoten in steen komt nu het moment dat jullie schriftelijk vaststellen wat de _deal_ is. Hier schrijf je:
 
-➤ Wat voor bedrag er is afgesproken.
-➤ Wanneer en hoe dat bedrag overgemaakt moet worden.
-➤ Wanneer je moet aangeven dat je niet een afspraak kan na komen 
-➤ Wat er gebeurt als je een afspraak niet kan nakomen zonder het te melden.
-➤ Hoelang een sessie duurt.
-➤ Waar genoemde sessie plaats zal vinden.
-➤ Zaken wat betreft aansprakelijkheid.
-➤ Wanneer de overeenkomst is ontbonden. 
-➤ Hoe je deze overeenkomst kan ontbinden.
-➤ Bijzonderheden.
+- Wat voor bedrag er is afgesproken.
+- Wanneer en hoe dat bedrag overgemaakt moet worden.
+- Wanneer je moet aangeven dat je niet een afspraak kan na komen 
+- Wat er gebeurt als je een afspraak niet kan nakomen zonder het te melden.
+- Hoelang een sessie duurt.
+- Waar genoemde sessie plaats zal vinden.
+- Zaken wat betreft aansprakelijkheid.
+- Wanneer de overeenkomst is ontbonden. 
+- Hoe je deze overeenkomst kan ontbinden.
+- Bijzonderheden.
 
 Deze overeenkomst wordt geprint in tweevoud en door beide partijen ondertekend. Als je slim bent scan je dit document in en mail je dat aan jouw leerling. Nu bewaren jullie deze overeenkomst goed. Zwart-op-Wit (zout en peper) smaakt beter bij een goede handdruk.
 

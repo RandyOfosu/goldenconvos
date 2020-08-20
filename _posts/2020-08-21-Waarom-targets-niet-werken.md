@@ -16,10 +16,10 @@ In deze blogpost zal ik mijn visie hierop delen. Daarbij zal ik voorstellen doen
 
 ###### TL;DR
 
-➣ Werknemers zullen er de kantjes van aflopen.
-➣ Goodharts Law
-➣ Mensen zijn nooit goed geweest in het interpreteren van cijfers.
-➣ Jouw enige doel is om de klant zijn/haar behoeftes zo goed mogelijk te behartigen.
+- Werknemers zullen er de kantjes van aflopen.
+- Goodharts Law
+- Mensen zijn nooit goed geweest in het interpreteren van cijfers.
+- Jouw enige doel is om de klant zijn/haar behoeftes zo goed mogelijk te behartigen.
 
 ## Waarom targets aantrekkelijk zijn om te implementeren.
 
