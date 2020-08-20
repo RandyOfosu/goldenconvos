@@ -16,16 +16,24 @@ Wij mensen staan er om bekend om lange afstanden te kunnen rennen, te bezitten o
 
 De reden hiervoor is een onderwerp voor een andere keer. Wat ik duidelijk wil maken is dat het dan niet zo gek is dat wij dan denken: "Als ik x aantal meer uren ga werken, zal ik consequent meer verdienen!" Als je zo denkt heb je *nooit* veel verdient in jouw leven. Want je ruilt dan jouw tijd in voor geld. De redenen zijn simpel.
 
-Er zit een limiet aan uren op een dag dat jij nuttig kan zijn voor een bedrijf. Biologisch gezien kan jij maar een `x aantal uren` productief zijn. Als je buiten je biologische kunnen werkt komen er mankementen in beeld wat ervoor gaat zorgen dat jij een (ethisch) bedrijf meer gaat kosten dan redelijk gezien kan. Het grootste voorbeelden van zo'n mankement is beslissingsmoeiheid. Zolang wij niet precies weten *waarom* wij ± 8 uren op een dag moeten slapen, kunnen we hier niets aan doen.
+Er zit een limiet aan uren op een dag dat jij nuttig kan zijn voor een bedrijf. Biologisch gezien kan jij maar een `x aantal uren` productief zijn. Er zijn zelfs <a href="https://hbr.org/2009/10/making-time-off-predictable-and-required" title="Harvard Business Review onderzoek uit 2019" target="_blank">onderzoeken</a> die zelfs stellen dat wij maar 2¾ uren productief zijn op kantoorbanen. Als je buiten je biologische kunnen werkt komen er mankementen in beeld wat ervoor gaat zorgen dat jij een (ethisch) bedrijf meer gaat kosten dan redelijk gezien kan. De grootste voorbeelden van mankementen zijn beslissingsmoeiheid, stress, depressie en verzwakking van communicatieve vermogen. Zolang wij niet precies weten *waarom* wij ± 8 uren op een dag moeten slapen, kunnen we hier niets aan doen.
 
-Waar wij wel wat aan kunnen doen is hoe wij de tijd die we tot onze beschikking hebben kunnen inzetten. Ik had in de eerste alinea van dit deelonderwerp gezegd dat wij mensen bekend staan in onze vaardigheid om dingen te kunnen bouwen. Iedereen heeft wel ooit een oplossing gevonden op iets stoms in het huis. Die van mij is ik mijn gordijnen vouw over de hendel van mijn raam om wat zonlicht en zuurstof naar binnen krijgen. 
+Dus stel je bent een zelfstandig programmeur en vraagt €90 per uur (wat heel normaal is) voor wat je kan.  
+
+Waar wij wel wat aan kunnen doen is hoe wij de tijd die we tot onze beschikking hebben kunnen inzetten. Ik had in de eerste alinea van dit deelonderwerp gezegd dat wij mensen bekend staan in onze vaardigheid om dingen te kunnen bouwen. Iedereen heeft wel ooit een oplossing gevonden op iets stoms in het huis. Die van mij is dat ik mijn gordijnen vouw over de hendel van mijn raam om wat zonlicht en zuurstof naar binnen krijgen. 
 
 <img src="/assets/img/randomoplossing.jpg" title="Mijn creatieve oplossing." alt="Mijn creatieve oplossing">
 
 Niemand heeft mij dit ooit verteld, ik heb dit niet opgepikt doormiddel van osmosis of iets dergelijks. Het ging net zo natuurlijk als "Hey, dit kan, dit werkt‽" 
 
-Dus waarom bouw je niet een manier om meer te kunnen verdienen, als jij vindt dat je te weinig verdient? Dat is makkelijker gezegd dan gedaan maar er is geen andere manier om dit te doen. Voor de mensen die de moeite niet willen doen om verantwoordelijk te zijn over een "heel" bedrijf, verhoog je waarde door cursussen te doen. Ga studeren, doe relevante ervaringen op en toets *en* houdt jouw kunnen bij buiten jouw (toekomstige) werkomgeving. Doe winstgevende dingen voor het bedrijf waarvoor je wil werken en die anderen niet willen doen en wees daar supergoed in. Maak jezelf op deze manier onmisbaar en blijf op de uitkijk als er fundamentele veranderingen plaatsvinden in de branche waar je actief bent. Mocht je het toch geen probleem vinden om een bedrijf op te richten volgt het volgende advies.
+
+
  
 ## Angst voor het delegeren.
 ## Hoe verhoog ik mijn waarde als een persoon?
+
+Dus waarom bouw je niet een manier om meer te kunnen verdienen, als jij vindt dat je meer verdient? Dat is dan natuurlijk makkelijker gezegd dan gedaan, echter is er geen andere manier om dit te doen. Voor de mensen die de moeite niet willen doen om verantwoordelijk te zijn over een "heel" bedrijf, verhoog je waarde door extra curricilaire activiteiten te doen. Ga studeren, volg elk kwartaal een cursus, doe relevante ervaringen op en toets *en* houdt jouw kunnen bij buiten jouw (toekomstige) werkomgeving. Doe of identificeer winstgevende dingen voor het bedrijf waarvoor je wil werken en die anderen niet willen doen en wees daar supergoed in. Maak jezelf op deze manier onmisbaar en blijf op de uitkijk als er fundamentele veranderingen plaatsvinden in de branche waar je actief bent.
+
+Mocht je het toch geen probleem vinden om een bedrijf op te richten volgt het volgende advies.
+
 ## Situatieschets.
