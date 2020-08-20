@@ -22,7 +22,7 @@ Waar wij wel wat aan kunnen doen is hoe wij de tijd die we tot onze beschikking 
 
 <img src="/assets/img/randomoplossing.jpg" title="Mijn creatieve oplossing." alt="Mijn creatieve oplossing">
 
-Niemand heeft mij dit ooit verteld, ik heb dit niet opgepikt doormiddel van osmosis of iets dergelijks. Het ging net zo natuurlijk als "Hey, dit kan, dit werkt!" 
+Niemand heeft mij dit ooit verteld, ik heb dit niet opgepikt doormiddel van osmosis of iets dergelijks. Het ging net zo natuurlijk als "Hey, dit kan, dit werkt?!" 
 
 Dus waarom bouw je niet een manier om meer te kunnen verdienen, als jij vindt dat je te weinig verdient? Dat is makkelijker gezegd dan gedaan maar er is geen andere manier om dit te doen. Voor de mensen die de moeite niet willen doen om verantwoordelijk te zijn over een "heel" bedrijf, verhoog je waarde door cursussen te doen. Ga studeren, doe relevante ervaringen op en toets *en* houdt jouw kunnen bij buiten jouw (toekomstige) werkomgeving. Doe winstgevende dingen voor het bedrijf waarvoor je wil werken en die anderen niet willen doen en wees daar supergoed in. Maak jezelf op deze manier onmisbaar en blijf op de uitkijk als er fundamentele veranderingen plaatsvinden in de branche waar je actief bent. Mocht je het toch geen probleem vinden om een bedrijf op te richten volgt het volgende advies.
  
