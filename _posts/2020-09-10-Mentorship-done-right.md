@@ -8,13 +8,13 @@ date: 2020-08-15 18:57:51
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **10 MIN READ**</i>
 
-**RANDY OFOSU** -- Stel je bent hartstikke goed in hetgene wat jij doet. In je proces kom je mensen tegen die willen kunnen doen wat jij al kan. Gelukkig ben jij bereidt om tijd te alloceren voor deze leerlingen.
+**RANDY OFOSU** -- Stel jij bent hartstikke goed in hetgene wat je doet. In je proces kom je mensen tegen die willen doen wat jij al kan. Gelukkig ben jij bereidt om tijd te alloceren voor deze leerlingen.
 
 of
 
 Stel dat jij zo'n leerling bent en op zoek bent naar een mentor. Hoe ga jij als leerling het meeste uit jezelf en jouw mentor halen. Zodat je zo snel mogelijk kan toepassen wat je mentor al kan.
 
-Net als bij bedrijven denken mensen bij mentorship programma's te groot. Een bedrijf is gewoon een stapel documenten en bij een mentorship programma draait het om een aantal principes. Deze principes gaan we dus behandelen.
+Net als bij bedrijven denken mensen bij mentorschap programma's te groot. Een bedrijf is gewoon een stapel documenten en bij een mentorschap programma draait het om een aantal principes. Deze principes gaan we dus behandelen.
 
 In deze berichten ga ik ervan uit dat de student of mentor in kwestie geen huichelaar of charlatan is. 
 
@@ -22,7 +22,7 @@ In deze berichten ga ik ervan uit dat de student of mentor in kwestie geen huich
 
 ###### TL;DR
 
-- Samen leren is leuker, dan alleen.
+- Samen leren is leuker, productiever, vruchtvoller, dan alleen.
 - Maak duidelijke afspraken met elkaar.
 - Je moet je verantwoorden tegen over jezelf en een ander persoon.
 
@@ -32,7 +32,7 @@ Mentor -- Zodra je iemand leert wat jij kan. Help jij jezelf door de kennis die 
 
 Het voelt ook goed om iemand te helpen die echt graag wil. Je deed toch al waar je goed in bent en je wilt vast ook beter worden. Daarnaast bouw je een goede reputatie als je goede hulp biedt aan behoevende mensen. 
 
-Student -- Niemand is <a href="https://www.businessinsider.nl/youngest-self-made-billionaires-kylie-jenner-mark-zuckerberg-2019-3?international=true&r=US" title="Een willekeurige lijst van selfmade miljonairs" alt="Een willekeurige lijst van selfmade miljonairs" target="_blank"> "selfmade"</a>, al deze mensen hebben ooit op hun leven een plateau gehad . Als jij die van jou wil doorbreken heb je advies en inzicht nodig van 1 of meerdere personen. Wil je gestaagd blijven groeien in jouw kunnen moet je hulp met trots kunnen aannemen. 
+Student -- Niemand is <a href="https://www.businessinsider.nl/youngest-self-made-billionaires-kylie-jenner-mark-zuckerberg-2019-3?international=true&r=US" title="Een willekeurige lijst van selfmade miljonairs" alt="Een willekeurige lijst van selfmade miljonairs" target="_blank"> "selfmade"</a>, al deze mensen hebben ooit op hun leven een plateau gehad . Als jij die van jou wil doorbreken heb je advies en inzicht nodig van 1 of meerdere personen. Ze hoeven geen mentors te zijn van jou en je hebt in feite geen mentor nodig. Een mentor kan je alleen vertellen wat de valkuilen zijn en je op pad sturen, meer niet. Je haalt er zoveel uit als dat jij erin zet, dat is soms zo als je te maken hebt met andere mensen. Dus, wil je gestaagd blijven groeien in jouw kunnen moet je deze hulp met trots kunnen aannemen. 
 
 Aan het einde van de dag draait het om een investering van tijd die jij kan inkorten. Tijd is iets wat je nooit meer terugkrijgt dus als je sneller kan komen bij jouw bestemming is dat alleen maar beter.
 
@@ -72,28 +72,28 @@ Deze overeenkomst wordt geprint in tweevoud en door beide partijen ondertekend. 
 
 ## Pijn is de beste leermeester
 
-Elke goede mentor weet dat door middel van sterke signalen van het brein de leerling het meeste leert. Niets is pijnlijker voor jouw leerling dan zuurverdiende geld overhandigen aan jou. Wanneer jij als leerling bereidt bent om dit te doen, heb je zojuist gegarandeerd dat je wat gaat doen met de informatie van jouw mentor. Je kan mensen elke dag gratis informatie geven. Zij zullen dan jouw informatie op een passieve manier (automatische piloot) consumeren en er dus niet naar handelen. Elk stukje informatie dat jij hebt en niet gebruikt is informatie dat je niet had hoeven weten. Dit is tijdverspilling voor jullie beide en tijd is iets wat je niet terug krijgt. Wat jij als toekomstige mentor of leerling moet onthouden is dat zodra je ergens voor betaalt, dat je het gaat gebruiken.
+Elke goede mentor weet dat door middel van sterke signalen van het brein de leerling het meeste leert. Niets is pijnlijker voor jouw leerling dan het overhandigen van zuurverdiende geld. Maar, wanneer jij als leerling bereidt bent om dat te doen, heb je zojuist gegarandeerd dat je wat gaat doen met de informatie van jouw mentor. Je kan mensen elke dag gratis informatie geven. Zij zullen dan jouw informatie op een passieve manier (automatische piloot) consumeren en er dus niet naar handelen. Elk stukje informatie dat jij hebt en niet gebruikt is informatie dat je niet had hoeven weten. Wat jij als toekomstige mentor of leerling moet onthouden is dat zodra je ergens voor betaalt, dat je het gaat gebruiken.
 
-Goed, jouw leerling is bereid om jou een bepaald bedrag te geven voor jouw tijd. Betekend het dat je alles kan doen met het geld? Ja, maar dat is niet slim. Wat zou je ervan vinden dat jij als mentor besluit om te herinvesteren in jouw leerling. Koop voor jouw leerling de **essentiële** dingen die jou enorm hebben geholpen met jouw proces. Dat maakt het leerproces van jouw leerlingen zo veel makkelijker. Plus, jouw leerling gaat zich gewaardeerd voelen want dat is hij/zij ook. Wees wel oplettend en observeer of deze producten wel passen bij jouw leerling.
+Goed, jouw leerling is bereidt om jou een bepaald bedrag te geven voor jouw tijd. Betekend het dat je alles kan doen met het geld? Nee, want dat is niet slim. Wat zou je ervan vinden dat jij als mentor besluit om te herinvesteren in jouw leerling. Koop voor jouw leerling de **essentiële** producten of diensten die jou enorm hebben geholpen met jouw proces. Dat maakt het leerproces van jouw leerlingen zoveel makkelijker. Met andere woorden maakt het jouw werk makkelijker. Plus, jouw leerling gaat zich gewaardeerd voelen en dat is hij/zij ook. Wees wel oplettend, want iedereen leert op zijn of haar manier. Leer of vraag aan jouw leerling hoe hij/zij het beste leert en observeer of deze producten wel zouden passen bij jouw leerling.
 
 Als je het goed doet, gaat meerendeel van het geld dat jouw leerling jou heeft gegeven terug naar de leerling.
 
-Stel, je zet dat geld wel in je zak. De kans dat de leerling terug komt is kleiner. Het geld wordt niet gebruikt voor de leerling maar voor jouw eigen spullen. Tuurlijk mag je gecompenseerd worden voor jouw tijd maar spreek dan een tarief af. Anders gaat de leerling zich opgelicht voelen en jou kunnen niet promoten of erger nog. Jou door het slijk halen omdat die zich zo voelt.
+Stel, je zet dat geld wel in je zak. De kans dat de leerling terugkomt is nihil. Het geld wordt niet gebruikt voor de leerling maar voor jouw eigen spullen. Tuurlijk mag je gecompenseerd worden voor jouw tijd maar spreek dat dan af. Anders gaat de leerling zich opgelicht voelen en jou kunnen niet promoten of erger nog. Jou door het slijk halen omdat die zich zo voelt.
 
 Succesvolle mensen werken niet voor geld.
 
 ## Meten
 
-Oke, dus de introductie sessie is voorbij. Wat hierna volgt is dat de mentor de lessen voorbereid en de leerling alles noteert of onthoud wat zijn/haar mentor zegt. Dus bij elke sessie moeten beide partijen hun schrift en pen mee. Hier in houd je bij:
+Oke, dus de introductie sessie is voorbij. Wat hierna volgt is dat de mentor de lessen voorbereid en de leerling alles noteert of onthoudt wat zijn/haar mentor zegt. Dus bij elke sessie moeten beide partijen hun schrijfgerei mee. Hier in houd je bij:
 - Wat je hebt gedaan.
 - Wat je nog moet doen.
 - Wat er nog beter kan.
 - Feedback voor je mentor.
 
-Alles wat je kan meten houdt je bij in deze fase van jouw mentorschap. Anders weet je niet wat wel of niet helpt.
+Alles wat je kan meten houdt je bij in deze fase van jouw mentorschap. Anders weet je niet wat wel of niet werkt.
 
 ## Reflecteren
 
 Na een wat langer tijdsbestek moet je heel wat notities gemaakt hebben. Dit is waardevolle data, hier kan je terug zien wat jouw mentorschap positief of negatief heeft beïnvloed. Onderlijn deze punten en besteed hier meer aandacht aan.
 
-Stel dat jouw mentor jou niets meer te leren heeft, dan scheiden hierbij jullie wegen. Als dat het geval is, houdt contact met deze mentor en doe je best om hulp te bieden wanneer iemand het jou vraagt. Je kan ze ook doorverwijzen naar jouw mentor. Maar zoals jij nu wel hebt geleerd als leerling, is tijd erg kostbaar.
+Stel dat jouw mentor jou niets meer te leren heeft, dan scheiden hierbij jullie wegen. Als dat het geval is, houdt contact met deze mentor en doe je best om hulp te bieden aan anderen wanneer ze het jou vragen. Je kan ze ook doorverwijzen naar jouw mentor. Maar zoals jij nu wel weet, is tijd erg kostbaar.
