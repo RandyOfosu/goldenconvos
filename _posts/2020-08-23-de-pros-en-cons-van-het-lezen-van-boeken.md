@@ -20,7 +20,7 @@ In Het spel <a href="https://www.google.com/search?q=Dragonquest+3&source=lmns&b
 
 <img src="/assets/img/recruitementhal.jpg" title="De recruitinghut" alt="Een foto van de recruitinghut"> 
 
-Elke partymember heeft unieke begin statistieken afhankelijk van hun specialisme. Dus een magiër is natuurlijk van nature goed in de vaardigheid magie. Maar er zijn ook magiërs die beter zijn in magie dan anderen of zelfs magiërs met adequate magi **en** andere vaardigheden zoals uithoudingsvermogen. Elke partymember ongeacht specialisme heeft ook een persoonlijkheid. Een persoonlijkheid dicteert in welke vaardigheid zij sneller of trager groeien. hier zijn er een paar in totaal had dit spel in totaal 45 persoonlijkheden namelijk:
+Elke partymember heeft unieke begin statistieken afhankelijk van hun specialisme. Dus een magiër is natuurlijk van nature goed in de vaardigheid magie. Maar er zijn ook magiërs die beter zijn in magie dan anderen of zelfs magiërs met adequate magie **en** andere vaardigheden zoals uithoudingsvermogen. Elke partymember ongeacht specialisme heeft ook een persoonlijkheid. Een persoonlijkheid dicteert in welke vaardigheid zij sneller of trager groeien. hier zijn er een paar in totaal had dit spel in totaal 45 persoonlijkheden namelijk:
 - Silly - 20% sneller en 10% meer geluk dan anderen.
 - Weepy - 10% minder kracht en 10% trager dan de anderen.
 - Fearless - 5% minder kracht en 20% sneller dan de anderen.
