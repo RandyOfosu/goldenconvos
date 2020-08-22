@@ -43,3 +43,9 @@ En hier is wat een serieuze impact op mij heeft gemaakt als 10 jarige. Een varia
 Des te ouder ik werd, des te meer ik begon te beseffen dat DragonQuest het leven imiteerde. Ik leerde dat boeken mij konden helpen in mijn leerproces. Ze hadden hun limitaties maar dat is niet erg want net als in het spel van DragonQuest, groeide het team het meest (in de praktijk) na afloop van een gevecht. 
 
 Ik wilde het risico niet lopen om Careless te zijn dus ben ik begonnen met het consumeren van boeken en heb ik een bescheiden bibliotheek op gebouwd. Wat ik wil meegeven in dit artikel is wat je kan verwachten van boeken en hoe ze jou kunnen helpen. Maar ook wat de tekortkomingen kunnen zijn van het lezen van een boek. 
+
+## Hoeveel onthou je nou eigenlijk echt?
+## Hoe kan je maximaliseren wat je onthoudt uit een boek?
+## Werken luisterboeken ook?
+## Hoe vind ik een boek dat bij mij past?
+## Leaders are Readers
