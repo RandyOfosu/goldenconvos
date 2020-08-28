@@ -23,7 +23,7 @@ date: 2020-08-06 18:57:51
 
 ## Wat is het nut van een blog?
 
->>!Dit zijn waardevolle woorden van mijn moeder. 
+Dit zijn waardevolle woorden van mijn moeder. 
 
 > Nederland is een land gebouwd op papier.
 
