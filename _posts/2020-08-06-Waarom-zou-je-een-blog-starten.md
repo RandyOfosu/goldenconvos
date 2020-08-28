@@ -25,6 +25,10 @@ date: 2020-08-06 18:57:51
 
 Dit zijn waardevolle woorden van mijn moeder.
 
+```php
+Dit is een test voor hoe ik php kan showcasen
+```
+
 > Nederland is een land gebouwd op papier.
 
 Zonder uitleg is dit makkelijk uit context te halen. De les wat mijn Mama wil meegeven is dat "documentatie bijna niet te betwisten is." Geen bewijs, geen eis. Denk aan diploma's, portfolio's, curricila vitae, certificaten en dergelijke. Dit is onbetwistbaar bewijs van je prestaties en potentie. Er valt dan nog wel te discussiëren hoe waardevol elk document is, maar dat is dan ook een andere discussie. Het gaat hierom dat dit _aantoonbaar_ is.
