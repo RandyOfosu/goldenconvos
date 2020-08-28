@@ -26,7 +26,11 @@ date: 2020-08-06 18:57:51
 Dit zijn waardevolle woorden van mijn moeder.
 
 ```php
-Dit is een test voor hoe ik php kan showcasen
+<?php
+
+$var = "Hello World!";
+
+echo $var;
 ```
 
 > Nederland is een land gebouwd op papier.
