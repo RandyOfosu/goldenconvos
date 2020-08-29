@@ -1,9 +1,10 @@
 ---
 # layout: post
-title: "Hoe word ik een effectieve mentor?"
+title: "Hoe word ik een effectieve mentor of mentee?"
 date: 2020-08-15 18:57:51
 ---
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880276330&color=%23daa51f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/goldenconvos" title="GoldenConvos BackOffice" target="_blank" style="color: #cccccc; text-decoration: none;">GoldenConvos BackOffice</a> · <a href="https://soundcloud.com/goldenconvos/backoffice" title="Welkom in de BackOffice!" target="_blank" style="color: #cccccc; text-decoration: none;">Welkom in de BackOffice!</a></div>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/883965988&color=%23daa520&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/goldenconvos" title="GoldenConvos BackOffice" target="_blank" style="color: #cccccc; text-decoration: none;">GoldenConvos BackOffice</a> · <a href="https://soundcloud.com/goldenconvos/hoe-word-je-een-effectieve-mentor-of-mentee" title="Hoe Word Je Een Effectieve Mentor Of Mentee" target="_blank" style="color: #cccccc; text-decoration: none;">Hoe Word Je Een Effectieve Mentor Of Mentee</a></div>
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **10 MIN READ**</i>
