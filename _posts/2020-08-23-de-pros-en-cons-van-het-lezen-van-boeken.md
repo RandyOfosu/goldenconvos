@@ -9,7 +9,9 @@ date: 2020-09-05 10:40:31
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **20 MIN READ**</i>
 
-**RANDY OFOSU** -- Tijd voor wat rooskleurige nostalgie. Dit is een wat langere inleiding dan wat jullie gewend van mij zijn. Maar geloof mij dit gaat je helpen bij het begrijpen van dit artikel. Mocht je daar niet in geïnteresseerd zijn is dat je goed recht, lees de tl;dr of ga naar deelonderwerpen die je ogen te pakken hebben gekregen.
+**RANDY OFOSU** -- <p style="color:red"> Dit is een wat langere inleiding dan wat jullie gewend zijn van mij. Maar geloof mij dit gaat je helpen bij het begrijpen van dit artikel. Mocht je daar niet naar geïnteresseerd zijn is dat je goed recht, lees de tl;dr of ga naar deelonderwerpen die je ogen te pakken hebben gekregen. </p>
+
+Tijd voor wat rooskleurige nostalgie.
 
 In Het spel <a href="https://www.google.com/search?q=Dragonquest+3&source=lmns&bih=983&biw=1920&client=firefox-b-d&hl=nl&sa=X&ved=2ahUKEwiqssjbqq7rAhXGu6QKHdJ1Di4Q_AUoAHoECAEQAA" target="_blank" title="Google Search over DragonQuest III">DragonQuest III</a> ging als een gekozen ridder op pad om jouw vader te wreken. Al vroeg in het spel werd ik door de koning gestuurd naar een Tavern (bar). Deze bar fungeerde voor mij als een recruitinghut om een party (een team) te vormen. Je kon dan kiezen uit: 
 - Jij zelf bent een **Hero** - Volledig gebalanceerd en hebt toegang tot vaardigheden wat de rest van jouw team niet heeft.
