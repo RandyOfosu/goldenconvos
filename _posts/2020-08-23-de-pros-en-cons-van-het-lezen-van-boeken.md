@@ -9,7 +9,7 @@ date: 2020-09-05 10:40:31
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **20 MIN READ**</i>
 
-**RANDY OFOSU** -- <p style="color:red"> *Dit is een wat langere inleiding dan wat jullie gewend zijn van mij. Maar geloof mij dit gaat je helpen bij het begrijpen van dit artikel. Mocht je daar niet naar geïnteresseerd zijn is dat je goed recht, lees de tl;dr of ga naar deelonderwerpen die je ogen te pakken hebben gekregen.* </p>
+**RANDY OFOSU** -- *Dit is een wat langere inleiding dan wat jullie gewend zijn van mij. Maar geloof mij dit gaat je helpen bij het begrijpen van dit artikel. Mocht je daar niet naar geïnteresseerd zijn is dat je goed recht, lees de tl;dr of ga naar deelonderwerpen die je ogen te pakken hebben gekregen.*
 
 Tijd voor wat rooskleurige nostalgie.
 
