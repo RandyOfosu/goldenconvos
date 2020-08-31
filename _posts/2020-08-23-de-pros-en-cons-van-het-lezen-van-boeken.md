@@ -49,7 +49,7 @@ Des te ouder ik werd, des te meer ik begon te beseffen dat DragonQuest het leven
 Ik wilde het risico niet lopen om Careless te worden, dus ben ik begonnen met het consumeren van boeken en heb ik een bescheiden bibliotheek op gebouwd. Wat ik wil meegeven in dit artikel is wat je kan verwachten van boeken en hoe ze jou kunnen helpen. Maar ook wat de tekortkomingen kunnen zijn van het lezen van een boek. 
 
 ## au naturel
-Ik ga nog 1 Dragon Quest analogie gebruiken. Voor de oplettende onder ons is het ze vast niet ontgaan dat ik mijn nieuwe partymembers beoordeel op hun vaardigheden zonder hun gereedschap en of accessoires. In de muziekindustrie heb je een gezegde: "*You can't polish a turd💩.*" of wat wij Nederlanders zeggen; "*pracht en praal verheffen niemand tot den beschaafden stand*." 
+Ik ga nog 1 Dragon Quest analogie gebruiken. Voor de oplettende onder ons is het ze vast niet ontgaan dat ik mijn nieuwe partymembers beoordeel op hun vaardigheden zonder hun gereedschap en of accessoires. In de muziekindustrie heb je een gezegde: "*You can't polish a turd*💩." of wat wij Nederlanders zeggen; "*pracht en praal verheffen niemand tot den beschaafden stand*." 
 
 Als een krijger niets kan uithalen zonder wapens, is die geen krijger. Ik beoordeel mijn leden niet op wat voor spullen zij hebben. Maar op wat voor principes zij hanteren, wat zij kunnen uithalen met het minimale -- zichzelf. 
 
