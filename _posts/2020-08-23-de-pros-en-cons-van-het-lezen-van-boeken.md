@@ -49,7 +49,15 @@ Des te ouder ik werd, des te meer ik begon te beseffen dat DragonQuest het leven
 Ik wilde het risico niet lopen om Careless te worden, dus ben ik begonnen met het consumeren van boeken en heb ik een bescheiden bibliotheek op gebouwd. Wat ik wil meegeven in dit artikel is wat je kan verwachten van boeken en hoe ze jou kunnen helpen. Maar ook wat de tekortkomingen kunnen zijn van het lezen van een boek. 
 
 ## au naturel
-Ik ga nog 1 Dragon Quest analogie gebruiken. Voor de oplettende onder ons is het hen vast opgevallen dat ik mijn nieuwe partymembers beoordeel op hun vaardigheden zonder hun gereedschap en of accessoires. In de muziekindustrie heb je een gezegde; "*you can't polish a turd💩."
+Ik ga nog 1 Dragon Quest analogie gebruiken. Voor de oplettende onder ons is het ze vast niet ontgaan dat ik mijn nieuwe partymembers beoordeel op hun vaardigheden zonder hun gereedschap en of accessoires. In de muziekindustrie heb je een gezegde: "*You can't polish a turd💩.*" of wat wij Nederlanders zeggen; "*pracht en praal verheffen niemand tot den beschaafden stand*." 
+
+Als een krijger niets kan uithalen zonder wapens, is die geen krijger. Ik beoordeel mijn leden niet op wat voor spullen zij hebben. Maar op wat voor principes zij hanteren, wat zij kunnen uithalen met het minimale -- zichzelf. 
+
+Want als jij jezelf stript van alles wat jij hebt, wie ben jij dan? Wat heb jij aan jezelf? Kan jij nieuwe nuttige connecties bouwen? Zou jij alles terug kunnen verdienen of zal je gaan neerstorten en dwalen?
+
+Hierom werk ik graag aan vaardigheden die niemand van mij kan afnemen. Mijn inzichten moeten meer dan goud waard worden en mocht er een dag komen dat ik met het minimale moet werken zal ik er klaar voor zijn.
+
+Hoe sluit dit aan op het lezen van boeken? Het leven zit vol met lessen, echter is dat maar 1 leven dat jij kan leiden -- die van jezelf. Er liggen boeken klaar met zoveel levenlessen van mensen, dieren, goden en demonen, die voor het oprapen liggen. Boeken die goedkoper zijn dan menuutjes van snackbars. In het westen is dat heel gewoon, maar probeer te onthouden dat dit niet normaal is. Wist je dat er nog <a href src="https://www.hr-kiosk.nl/hoofdstuk/arbeid/analfabetisme-en-laaggeletterdheid#2" target="_blank" title="HR-kiosk: Analfabetisme en laaggeletterdheid" alt="HR-kiosk: Analfabetisme en laaggeletterdheid">analfabeten</a> zijn in Nederland volgens dit onderzoek? Gebruik wat jij kan en waar mensen van dromen. Vergroot jouw kansen op goude inzichten en probeer te leren van meer dan 1 levensles.  
 
 ## Hoeveel onthou je nou eigenlijk echt?
 ## Werken luisterboeken ook?
