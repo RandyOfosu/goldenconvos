@@ -62,10 +62,13 @@ Hoe sluit dit aan op het lezen van boeken? Het leven zit vol met lessen, echter 
 ## Hoeveel onthou je nou eigenlijk echt?
 Desondanks het feit dat ik verwacht dat alles wat in Rich Dad, Poor Dad staat algemene kennis is. Zal ik voor men die dit niet weet, zo goed mogelijk uitleggen wat er in jouw brein gebeurt als je iets tracht te onthouden. Daarbij ga ik de kennis in Rich Dad, Poor Dad aan de tand voelen. De onderzoeken die ik ervoor heb kunnen vinden zijn 40 jaren oud, dus neem dit met wat zout en ga ook uit van jouw eigen ervaringen. Daarbij is dit oppervlakkige informatie over hoe wij eigenlijk echt ondthouden. Ik ga het niet hebben over hoe ons brein herinneringen encoderen en bewaren of het werkende geheugen. Want dat is een hele nieuwe blogpost voor in de toekomst. Waar ik het wel over ga hebben is hoe je jouw leerproces zo goed mogelijk kan faciliteren.
 
-Ik ga je gewoon deze <a href="https://www.google.com/search?client=firefox-b-d&q=hoeveel+onthoud+je" target="_blank" title="Google Search: Leerpyramide" alt="Google Search: Leerpyramide"> leerpiramide</a> laten zien. 
+Ik ga je gewoon deze <a href="https://en.wikipedia.org/wiki/Edgar_Dale" target="_blank" title='Wikipagina over Edgar Dale "uitvinder van de leerpiramide"' alt='Wikipagina over Edgar Dale "uitvinder van de leerpiramide"'>leerpiramide</a> laten zien. 
 
-Deze leerpyramide spreekt voor zichzelf. Je onthoudt weinig van wat je leest. Betekend het dan dat je minder moet lezen? Nee. Data verkeerd interpreteren kan schadelijk zijn. Wat dit betekend is het volgende: 
-- Ga dingen doen met wat je leest, alles wat je niet gebruikt raak je kwijt of is niet nuttig. 
+<img src="/assets/img/Edgar_Dale's_cone_of_learning.png" alt="Cone of Learning" title="Cone of Learning">
+
+Veel mensen hebben kritiek op waar deze leerpiramide voor staat, maar dat doet er niet toe. Het gaat erom wat je kan gronden in realiteit. Wat deze leerpiramide tegen mij zegt is: *Ga dingen doen met wat je leest, alles wat je niet gebruikt raak je kwijt of is niet nuttig.* 
+
+Je onthoudt weinig van wat je leest. Betekend het dan dat je minder moet lezen? Nee. Data verkeerd interpreteren kan schadelijk zijn. Wat dit betekend is het volgende: 
 - Supplementeer wat je leest met audio dat betrekking heeft tot hetzelfde onderwerp. 
 - Praktiseer hetgeen wat je studeert. 
 - Presenteer jouw internalisatie van wat je hebt geleerd aan anderen die er ook mee bezig zijn. Debatteer, ontleed alles en zie welke punten standhouden na deze *purge*. 
