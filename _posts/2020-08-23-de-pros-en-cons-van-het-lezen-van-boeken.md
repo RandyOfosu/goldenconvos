@@ -64,6 +64,7 @@ Desondanks het feit dat ik verwacht dat alles wat in Rich Dad, Poor Dad staat al
 
 Ik ga je gewoon deze <a href="https://en.wikipedia.org/wiki/Edgar_Dale" target="_blank" title='Wikipagina over Edgar Dale "uitvinder van de leerpiramide"' alt='Wikipagina over Edgar Dale "uitvinder van de leerpiramide"'>leerpiramide</a> laten zien. 
 
+
 <img src="/assets/img/Edgar_Dale's_cone_of_learning.png" alt="Cone of Learning" title="Cone of Learning">
 
 Veel mensen hebben kritiek op waar deze leerpiramide voor staat, maar dat doet er niet toe. Het gaat erom wat je kan gronden in realiteit. Wat deze leerpiramide tegen mij zegt is: *Ga dingen doen met wat je leest, alles wat je niet gebruikt raak je kwijt of is niet nuttig.* 
