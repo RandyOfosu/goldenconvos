@@ -60,7 +60,16 @@ Hierom werk ik graag aan vaardigheden die niemand van mij kan afnemen. Mijn inzi
 Hoe sluit dit aan op het lezen van boeken? Het leven zit vol met lessen, echter is dat maar 1 leven dat jij kan leiden -- die van jezelf. Er liggen boeken klaar met zoveel levenlessen van mensen, dieren, goden en demonen, die voor het oprapen liggen. Boeken die goedkoper zijn dan menuutjes van snackbars. In het westen is dat heel gewoon, maar probeer te onthouden dat dit niet normaal is. Wist je dat er nog <a href="https://www.lezenenschrijven.nl/over-laaggeletterdheid/feiten-cijfers" target="_blank" title="Stichting Lezen en Schrijven: Feiten & Cijfers" alt="Stichting Lezen en Schrijven: Feiten & Cijfers">analfabeten</a> zijn in Nederland volgens dit onderzoek? Gebruik wat jij kan en waar mensen van dromen. Vergroot jouw kansen op goude inzichten en probeer te leren van meer dan 1 levensles.  
 
 ## Hoeveel onthou je nou eigenlijk echt?
-Desondanks het feit dat ik verwacht dat alles wat in Rich Dad, Poor Dad staat algemene kennis is. Zal ik voor men die dit niet weet, zo goed mogelijk uitleggen wat er in jouw brein gebeurt als je iets tracht te onthouden. 
+Desondanks het feit dat ik verwacht dat alles wat in Rich Dad, Poor Dad staat algemene kennis is. Zal ik voor men die dit niet weet, zo goed mogelijk uitleggen wat er in jouw brein gebeurt als je iets tracht te onthouden. Daarbij ga ik de kennis in Rich Dad, Poor Dad aan de tand voelen. De onderzoeken die ik ervoor heb kunnen vinden zijn 40 jaren oud, dus neem dit met wat zout en ga ook uit van jouw eigen ervaringen. Daarbij is dit oppervlakkige informatie over hoe wij eigenlijk echt ondthouden. Ik ga het niet hebben over hoe ons brein herinneringen encoderen en bewaren of het werkende geheugen. Want dat is een hele nieuwe blogpost voor in de toekomst. Waar ik het wel over ga hebben is hoe je jouw leerproces zo goed mogelijk kan faciliteren.
+
+Ik ga je gewoon deze <a href="https://www.google.com/search?client=firefox-b-d&q=hoeveel+onthoud+je" target="_blank" title="Google Search: Leerpyramide" alt="Google Search: Leerpyramide"> leerpiramide</a> laten zien. 
+
+Deze leerpyramide spreekt voor zichzelf. Je onthoudt weinig van wat je leest. Betekend het dan dat je minder moet lezen? Nee. Data verkeerd interpreteren kan schadelijk zijn. Wat dit betekend is het volgende: 
+- Ga dingen doen met wat je leest, alles wat je niet gebruikt raak je kwijt of is niet nuttig. 
+- Supplementeer wat je leest met audio dat betrekking heeft tot hetzelfde onderwerp. 
+- Praktiseer hetgeen wat je studeert. 
+- Presenteer jouw internalisatie van wat je hebt geleerd aan anderen die er ook mee bezig zijn. Debatteer, ontleed alles en zie welke punten standhouden na deze *purge*. 
+- Om het te meesteren moet je de vaardigheid hebben om het anderen te kunnen leren.
 
 ## Werken luisterboeken ook?
 ## Hoe vind ik een boek dat bij mij past?
