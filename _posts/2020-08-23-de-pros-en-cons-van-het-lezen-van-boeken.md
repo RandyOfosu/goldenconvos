@@ -1,6 +1,6 @@
 ---
 # layout: post
-title: "Opinie: De voor- en nadelen van boeken lezen"
+title: "Opinie: De voordelen van lezen"
 date: 2020-09-05 10:40:31
 ---
 
@@ -70,11 +70,25 @@ Ik ga je gewoon deze <a href="https://en.wikipedia.org/wiki/Edgar_Dale" target="
 Veel mensen hebben kritiek op waar deze leerpiramide voor staat, maar dat doet er niet toe. Het gaat erom wat je kan gronden in realiteit. Wat deze leerpiramide tegen mij zegt is: *Ga dingen doen met wat je leest, alles wat je niet gebruikt raak je kwijt of is niet nuttig.* 
 
 Je onthoudt weinig van wat je leest. Betekend het dan dat je minder moet lezen? Nee. Data verkeerd interpreteren kan schadelijk zijn. Wat dit betekend is het volgende: 
-- Supplementeer wat je leest met audio dat betrekking heeft tot hetzelfde onderwerp. 
 - Praktiseer hetgeen wat je studeert. 
 - Presenteer jouw internalisatie van wat je hebt geleerd aan anderen die er ook mee bezig zijn. Debatteer, ontleed alles en zie welke punten standhouden na deze *purge*. 
 - Om het te meesteren moet je de vaardigheid hebben om het anderen te kunnen leren.
+- Supplementeer wat je leest met audio dat betrekking heeft tot hetzelfde onderwerp. 
+
+Over audio gesproken!
 
 ## Werken luisterboeken ook?
-## Hoe vind ik een boek dat bij mij past?
-## Leaders are Readers
+Audioboeken "werken" maar het gaat om hoe je ze gebruikt. Het helpt bij <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0127522" title="Wetenschappelijk onderzoek over: Associative Learning" alt="Dit is een link naar een wetenschappelijk onderzoek van 2016 over associative learning">offline processing</a>. Leren draait om repetitie. Het mooie van een luisterboek is dat jij je ogen, armen en benen vrijhoudt om andere dingen te doen. Maar dat kan een probleem presenteren afhankelijk van hoe je ernaar kijkt. Omdat jij de vrijheid hebt om te doen wat je wil doen, heb je de menselijke drang om deze vrijheid te exploiteren. Nu ga jij je aandacht verdelen door bijvoorbeeld, de afwas te gaan doen of auto te rijden. Hierdoor krijg je de informatie binnen op een passieve manier. 
+
+**Dat hoeft helemaal niet erg te zijn.** Als dit je enige bron is van informatie betekend het dat je notities moet maken van wat je leert uit zo'n audioboek. Maar in het informatie-tijdperk lijkt mij dat sterk.
+
+Om het meeste te halen uit de informatie raad ik je aan om audioboeken te gebruiken als supplementen op jouw studie. Dat zorgt ervoor dat hetgeen wat je studeert bovenaan de stapel blijft van jouw korte termijngeheugen. 
+
+Dit antwoord op een quora op de vraag "*Do audiobooks have the same effect on our brains as reading?*" Snijdt houdt naar mijn mening.
+
+<img src="/assets/img/Een_antwoord_uit_Quora.png" alt="In dit plaatje toon ik de luister ervaring van iemand anders. Ik weet dat jouw enige manier van leren horen, proeven, ruiken en voelen is. Dus snap ik dat je niet veel hebt aan wat ik te zeggen heb in deze paragraaf." title="Een antwoord uit Quora">
+
+## verdict
+(Audio)boeken werken goed, maar het draait erom dat je jouw leerproces zo volledig mogelijk moet faciliteren. 
+
+Alles moet jou telkens herinneren aan wat jij leert en zo blijft dat het beste plakken. Dit gaat ervoor zorgen dat je externe connecties gaat maken die je voorheen niet zag. Het moment dat dit gebeurt wordt nieuwe dingen leren veel makkelijker. Dit is hoe polymaths bestaan.
