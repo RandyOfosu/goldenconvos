@@ -60,6 +60,8 @@ Hierom werk ik graag aan vaardigheden die niemand van mij kan afnemen. Mijn inzi
 Hoe sluit dit aan op het lezen van boeken? Het leven zit vol met lessen, echter is dat maar 1 leven dat jij kan leiden -- die van jezelf. Er liggen boeken klaar met zoveel levenlessen van mensen, dieren, goden en demonen, die voor het oprapen liggen. Boeken die goedkoper zijn dan menuutjes van snackbars. In het westen is dat heel gewoon, maar probeer te onthouden dat dit niet normaal is. Wist je dat er nog <a href="https://www.lezenenschrijven.nl/over-laaggeletterdheid/feiten-cijfers" target="_blank" title="Stichting Lezen en Schrijven: Feiten & Cijfers" alt="Stichting Lezen en Schrijven: Feiten & Cijfers">analfabeten</a> zijn in Nederland volgens dit onderzoek? Gebruik wat jij kan en waar mensen van dromen. Vergroot jouw kansen op goude inzichten en probeer te leren van meer dan 1 levensles.  
 
 ## Hoeveel onthou je nou eigenlijk echt?
+Desondanks het feit dat ik verwacht dat alles wat in Rich Dad, Poor Dad staat algemene kennis is. Zal ik voor men die dit niet weet, zo goed mogelijk uitleggen wat er in jouw brein gebeurt als je iets tracht te onthouden. 
+
 ## Werken luisterboeken ook?
 ## Hoe vind ik een boek dat bij mij past?
 ## Leaders are Readers
