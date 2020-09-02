@@ -1,6 +1,6 @@
 ---
 # layout: post
-title: "Opinie: De voordelen van lezen"
+title: "Opinie: De voordelen van boeken"
 date: 2020-09-05 10:40:31
 ---
 
@@ -19,17 +19,17 @@ date: 2020-09-05 10:40:31
 ## Tijd voor wat rooskleurige nostalgie.
 
 In Het spel <a href="https://www.google.com/search?q=Dragonquest+3&source=lmns&bih=983&biw=1920&client=firefox-b-d&hl=nl&sa=X&ved=2ahUKEwiqssjbqq7rAhXGu6QKHdJ1Di4Q_AUoAHoECAEQAA" target="_blank" title="Google Search over DragonQuest III">DragonQuest III</a> ging ik als een gekozen ridder op pad om mijn vader te wreken. Al vroeg in het spel werd ik door de koning gestuurd naar een Tavern (bar). Deze bar fungeerde voor mij als een recruitinghut om een party (een team) te vormen. Je kon dan kiezen uit: 
-- Jij zelf bent een **Hero** - Volledig gebalanceerd en hebt toegang tot vaardigheden wat de rest van jouw team niet heeft.
+- Ikzelf ben een **Hero** - Volledig gebalanceerd en hebt toegang tot vaardigheden wat de rest van mijn team niet heeft.
 - Magïers - Gespecialiseerd in destructieve magie en spreuken buiten een gevecht.
 - Priester - Gespecialiseerd in het helen en verbeteren van de vaardigheden van de team.
 - Dief - Gespecialiseerd in het stelen van dingen in een gevecht.
 - Clown - Gespecialiseerd in niks. Ze hebben wel veel geluk.
 - Martial Artist - Gespecialiseerd in het geven van consistent hoge schade aan de vijand.
-- Verkoper - Gespecialiseerd in het verkopen van spullen die je hebt voor een hogere prijs dan normaal. Zij vinden ook meer goud na gevechten.
+- Verkoper - Gespecialiseerd in het verkopen van spullen die ik heb voor een hogere prijs dan normaal. Zij vinden ook meer goud na gevechten.
 
 <img src="/assets/img/recruitementhal.jpg" title="De recruitinghut" alt="Een foto van de recruitinghut"> 
 
-Elke partymember heeft unieke begin statistieken afhankelijk van hun specialisme. Dus een magiër is natuurlijk van nature goed in de vaardigheid magie. Maar er zijn ook magiërs die beter zijn in magie dan anderen of zelfs magiërs met adequate magie **en** andere vaardigheden zoals uithoudingsvermogen. Elke partymember ongeacht specialisme heeft ook een persoonlijkheid. Een persoonlijkheid dicteert in welke vaardigheid zij sneller of trager groeien. hier zijn er een paar in totaal had dit spel in totaal 45 persoonlijkheden namelijk:
+Elke partymember heeft unieke begin statistieken afhankelijk van hun specialisme. Dus een magiër is natuurlijk van nature goed in de vaardigheid magie. Maar er zijn ook magiërs die beter zijn in magie dan anderen of zelfs magiërs met adequate magie **en** andere vaardigheden zoals uithoudingsvermogen. Elke partymember ongeacht specialisme heeft ook een persoonlijkheid. Een persoonlijkheid dicteert in welke vaardigheid zij sneller of trager groeien. hier zijn er een paar, dit spel had in totaal 45 persoonlijkheden namelijk:
 - Silly - 20% sneller en 10% meer geluk dan anderen.
 - Weepy - 10% minder kracht en 10% trager dan de anderen.
 - Fearless - 5% minder kracht en 20% sneller dan de anderen.
@@ -37,7 +37,7 @@ Elke partymember heeft unieke begin statistieken afhankelijk van hun specialisme
 - Ordinary - gebalanceerd.
 - Careless - Net niet nuttelozer dan een Bully (de nuttelooste persoonlijkheid).
 
-Ik als 10 jarige aspirant Held wilde de beste team hebben om mijn vader te kunnen wreken. De cruciale fout die mijn vader heeft gemaakt is dat hij alles alleen wilde doen. Deze fout zal ik niet herhalen. Dit waren de variabelen die gewicht hadden in mijn besluit. Het is net als of ik de baas was van een bedrijf met een missie en visie. Het werven van leden was net een sollicitatieproces en ik probeerde zo objectief mogelijk te kijken naar wat ik kon gebruiken in mijn team. Dus hier begint het proces.
+Ik als 10 jarig aspirant Held wilde de beste team hebben om mijn vader te kunnen wreken. De cruciale fout die mijn vader heeft gemaakt is dat hij alles alleen wilde doen. Deze fout zal ik niet herhalen. Variabelen zoals vaardigheden en persoonlijkheid hadden gewicht in mijn besluit. Het is net als of ik de baas was van een bedrijf met een missie en visie. Het werven van leden was net een sollicitatieproces en ik probeerde zo objectief mogelijk te kijken naar wat ik kon gebruiken in mijn team. Dus hier begint het proces.
 
 Dit is de persoonlijkheid van een toekomstige partymember, geef een warm welkom aan Mike!
 
@@ -47,22 +47,22 @@ Mike zijn persoonlijkheid is niet wat ik had gewenst voor mijn team. Maar zijn v
 
 <img src="/assets/img/mike_zijn_vaardigheden.jpg" title="Mike zijn vaardigheden" alt="Een foto van Mike zijn vaardigheden; lekker boven gemiddeld!">
 
-En hier is wat een serieuze impact op mij heeft gemaakt als 10 jarige. Een variabel dat invloed had op de specialisme *en* persoonlijkheid van een partymember. Dat waren de boeken die elke partymember kon lezen om permanent zijn of haar persoonlijkheid te kunnen veranderen. Dus kon je van Silly Mike, een Fearless Mike maken. Dit spel was zo erg voor zijn tijd. dit hadden ze te danken aan mechanieken zoals de persoonlijkheidstoets met "God", recruiteren of hoe je de persoonlijkheid kan veranderen van een partymember.
+En hier is wat een serieuze impact op mij heeft gemaakt als 10 jarige. Een externe variabel dat invloed had op de specialisme *en* persoonlijkheid van een partymember. Dat waren de **boeken** die elke partymember kon lezen om permanent zijn of haar persoonlijkheid te kunnen veranderen. Deze boeken kon je als beloning in schatkisten en boekenkasten vinden. Dus kon je van Silly Mike, een Fearless Mike maken. Dit spel was echt ver voor zijn tijd. Dit hadden ze te danken aan mechanieken zoals de persoonlijkheidstoets met "God", recruiteren of hoe je de persoonlijkheid kan veranderen van een partymember.
 
 Des te ouder ik werd, des te meer ik begon te beseffen dat DragonQuest het leven imiteerde. Ik leerde dat boeken mij konden helpen in mijn leerproces. Ze hadden hun limitaties maar dat is niet erg want net als in het spel van DragonQuest, groeide het team het meest (in de praktijk) na afloop van een gevecht. 
 
-Ik wilde het risico niet lopen om Careless te worden, dus ben ik begonnen met het consumeren van boeken en heb ik een bescheiden bibliotheek op gebouwd. Wat ik wil meegeven in dit artikel is wat je kan verwachten van boeken en hoe ze jou kunnen helpen. Maar ook wat de tekortkomingen kunnen zijn van het lezen van een boek. 
+Ik wilde het risico niet lopen om Careless te worden, dus ben ik begonnen met het consumeren van boeken en heb ik een bescheiden bibliotheek opgebouwd. Wat ik wil meegeven in dit artikel is wat je kan verwachten van boeken en hoe ze jou kunnen helpen. Maar ook wat je kan doen aan de tekortkomingen van boeken. 
 
 ## au naturel
 Ik ga nog 1 Dragon Quest analogie gebruiken. Voor de oplettende onder ons is het ze vast niet ontgaan dat ik mijn nieuwe partymembers beoordeel op hun vaardigheden zonder hun gereedschap en of accessoires. In de muziekindustrie heb je een gezegde: "*You can't polish a turd*💩." of wat wij Nederlanders zeggen; "*pracht en praal verheffen niemand tot den beschaafden stand*." 
 
 Als een krijger niets kan uithalen zonder wapens, is die geen krijger. Ik beoordeel mijn leden niet op wat voor spullen zij hebben. Maar op wat voor principes zij hanteren, wat zij kunnen uithalen met het minimale -- zichzelf. 
 
-Want als jij jezelf stript van alles wat jij hebt, wie ben jij dan? Wat heb jij aan jezelf? Kan jij nieuwe nuttige connecties bouwen? Zou jij alles terug kunnen verdienen of zal je gaan neerstorten en dwalen?
+Want als jij jezelf stript van alles wat jij hebt, wie ben jij dan? Wat heb jij aan jezelf? Kan jij nieuwe nuttige connecties bouwen? Heb jij uit jezelf de drang om te leren over jouw omgeving om jouw kansen te vergroten? Zou jij alles terug kunnen verdienen of zal je gaan neerstorten en dwalen?
 
 Hierom werk ik graag aan vaardigheden die niemand van mij kan afnemen. Mijn inzichten moeten meer dan goud waard worden en mocht er een dag komen dat ik met het minimale moet werken zal ik er klaar voor zijn.
 
-Hoe sluit dit aan op het lezen van boeken? Het leven zit vol met lessen, echter is dat maar 1 leven dat jij kan leiden -- die van jezelf. Er liggen boeken klaar met zoveel levenlessen van mensen, dieren, goden en demonen, die voor het oprapen liggen. Boeken die goedkoper zijn dan menuutjes van snackbars. In het westen is dat heel gewoon, maar probeer te onthouden dat dit niet normaal is. Wist je dat er nog <a href="https://www.lezenenschrijven.nl/over-laaggeletterdheid/feiten-cijfers" target="_blank" title="Stichting Lezen en Schrijven: Feiten & Cijfers" alt="Stichting Lezen en Schrijven: Feiten & Cijfers">analfabeten</a> zijn in Nederland volgens dit onderzoek? Gebruik wat jij kan en waar mensen van dromen. Vergroot jouw kansen op goude inzichten en probeer te leren van meer dan 1 levensles.  
+Hoe sluit dit aan op het lezen van boeken? Het leven zit vol met lessen, echter is dat maar 1 leven dat jij kan leiden -- die van jezelf. Er liggen boeken klaar met zoveel levenlessen van mensen, dieren, goden, demonen je kan het zo gek niet bedenken, die voor het oprapen liggen. Boeken die goedkoper zijn dan menuutjes van snackbars. In het westen is dat heel gewoon, maar probeer te onthouden dat dit niet normaal is. In het verleden was het lezen alleen weggelegd voor de machtige mensen in de wereld. Deze machtige mensen zouden er alles doen om dit zo exclusief mogelijk te houden. Wist je dat er nog <a href="https://www.lezenenschrijven.nl/over-laaggeletterdheid/feiten-cijfers" target="_blank" title="Stichting Lezen en Schrijven: Feiten & Cijfers" alt="Stichting Lezen en Schrijven: Feiten & Cijfers">analfabeten</a> zijn in Nederland volgens dit onderzoek? Gebruik wat jij kan en waar mensen van dromen. Vergroot jouw kansen op goude inzichten en probeer te leren van meer dan 1 levensles.  
 
 ## Hoeveel onthou je nou eigenlijk echt?
 Desondanks het feit dat ik verwacht dat alles wat in Rich Dad, Poor Dad staat algemene kennis is. Zal ik voor men die dit niet weet, zo goed mogelijk uitleggen wat er in jouw brein gebeurt als je iets tracht te onthouden. Daarbij ga ik de kennis in Rich Dad, Poor Dad aan de tand voelen. De onderzoeken die ik ervoor heb kunnen vinden zijn 40 jaren oud, dus neem dit met wat zout en ga ook uit van jouw eigen ervaringen. Daarbij is dit oppervlakkige informatie over hoe wij eigenlijk echt ondthouden. Ik ga het niet hebben over hoe ons brein herinneringen encoderen en bewaren of het werkende geheugen. Want dat is een hele nieuwe blogpost voor in de toekomst. Waar ik het wel over ga hebben is hoe je jouw leerproces zo goed mogelijk kan faciliteren.
