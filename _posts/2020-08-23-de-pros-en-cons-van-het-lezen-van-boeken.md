@@ -18,7 +18,7 @@ date: 2020-09-05 10:40:31
 
 ## Tijd voor wat rooskleurige nostalgie.
 
-In Het spel <a href="https://www.google.com/search?q=Dragonquest+3&source=lmns&bih=983&biw=1920&client=firefox-b-d&hl=nl&sa=X&ved=2ahUKEwiqssjbqq7rAhXGu6QKHdJ1Di4Q_AUoAHoECAEQAA" target="_blank" title="Google Search over DragonQuest III">DragonQuest III</a> ging als een gekozen ridder op pad om jouw vader te wreken. Al vroeg in het spel werd ik door de koning gestuurd naar een Tavern (bar). Deze bar fungeerde voor mij als een recruitinghut om een party (een team) te vormen. Je kon dan kiezen uit: 
+In Het spel <a href="https://www.google.com/search?q=Dragonquest+3&source=lmns&bih=983&biw=1920&client=firefox-b-d&hl=nl&sa=X&ved=2ahUKEwiqssjbqq7rAhXGu6QKHdJ1Di4Q_AUoAHoECAEQAA" target="_blank" title="Google Search over DragonQuest III">DragonQuest III</a> ging ik als een gekozen ridder op pad om mijn vader te wreken. Al vroeg in het spel werd ik door de koning gestuurd naar een Tavern (bar). Deze bar fungeerde voor mij als een recruitinghut om een party (een team) te vormen. Je kon dan kiezen uit: 
 - Jij zelf bent een **Hero** - Volledig gebalanceerd en hebt toegang tot vaardigheden wat de rest van jouw team niet heeft.
 - Magïers - Gespecialiseerd in destructieve magie en spreuken buiten een gevecht.
 - Priester - Gespecialiseerd in het helen en verbeteren van de vaardigheden van de team.
