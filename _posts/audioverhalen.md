@@ -1,7 +1,7 @@
 ---
 # layout: post
 title: "Audioverhalen"
-date:
+date: 01-01-2020
 ---
 
 **test**
