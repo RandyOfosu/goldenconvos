@@ -12,7 +12,7 @@ date: 0000-02-02 18:57:51
 
 Als jij gezond geboren bent of alles kan doen wat anderen kunnen, al is het met wat meer moeite. Is het jouw verantwoordelijkheid om zo sterk mogelijk te worden. Je kan jezelf nu afvragen: waarom, hoezo? Wat moet mijn motivatie zijn? Ik hoef toch niets te hebben om naar te streven? Ja, dat klopt en dat is jouw goed recht. Maar mocht jij je ooit bedacht hebben, kan je altijd hier terecht.
 
-Jouw brein wilt je altijd sturen naar een plek van comfort, dus zal die jouw leiden op het pad van het minste weerstand. Dat is lastig want leren en groeien doet pijn en zal veel weerstand bieden. Deze comfortzones maken jou zwak en afhankelijk, wat de nachtmerrie is voor iemand die sterk wil worden of blijven. 
+Jouw brein wilt je altijd sturen naar een plek van comfort, dus zal die jou leiden op het pad van het minste weerstand. Dat is lastig want leren en groeien doet pijn en zal veel weerstand bieden. Deze comfortzones maken jou zwak en afhankelijk, wat de nachtmerrie is voor iemand die sterk wil worden of blijven. 
 
 Om mij te behoeden van deze val help ik mijzelf herinneren aan waarom ik sterk wil worden en blijven. Hierom heb ik gedichten geschreven. 
 
