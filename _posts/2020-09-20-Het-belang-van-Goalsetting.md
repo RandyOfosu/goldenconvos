@@ -15,7 +15,7 @@ Hij sprak ons toe als een vader of oom zou doen en zei:
 
 "Jongens. Zie doelen in het leven als een bestemming aan de top van een trap. Zie planningen die jij maakt als de traptredes naar de top."
 
-> Aan de top van de trap zit je einddoel en de traptreden zijn doelen die jij nodig hebt om je einddoel te behalen. --Meneer Febis
+> Aan de top van de trap zit je einddoel en de traptreden zijn doelen die jij nodig hebt om je einddoel te behalen. > --Meneer Febis
 
 <img src="/assets/img/rockystairs.gif">
 
