@@ -16,8 +16,8 @@ Hij sprak ons toe als een vader of oom zou doen en zei:
 
 <img src="/assets/img/rockystairs.gif">
 
-# Wat zijn de voordelen van goalsetting.
-# Wat zijn de meest voorkomende valkuilen.
-# Hoe zet je goede doelen.
-# SMART-Goals = Specifiek, Meetbaar, Actie-georiënteerd, Relevant, Tijdsgebonden.
-# Tips voor goal setting.
+### Wat zijn de voordelen van goalsetting.
+### Wat zijn de meest voorkomende valkuilen.
+### Hoe zet je goede doelen.
+### SMART-Goals = Specifiek, Meetbaar, Actie-georiënteerd, Relevant, Tijdsgebonden.
+### Tips voor goal setting.
