@@ -14,7 +14,7 @@ date: 2020-09-20 11:40:31
 > Aan de top van de trap zit je einddoel en de traptreden zijn doelen die jij nodig hebt om je einddoel te behalen.
 > - Meneer Febis
 
-<img src="img/rockystairs.gif">
+<img src="/assets/img/rockystairs.gif">
 
 # Wat zijn de voordelen van goalsetting.
 # Wat zijn de meest voorkomende valkuilen.
