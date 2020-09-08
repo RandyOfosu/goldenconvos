@@ -9,9 +9,12 @@ date: 2020-08-12 11:40:31
 
 # Inleiding
 
-**RANDY OFOSU** -- Zodra je dit onder de knie hebt ben je niet te stoppen. Het lastigste hiervan is je  te binden aan wat jij jezelf hebt opgelegd. Dit vereist dus dat je gedisciplineerd en oprecht bent. 
+**RANDY OFOSU** -- <Gebruik trapanalogie>
 
-Aan de top van de trap zit je einddoel en de traptreden zijn doelen die jij nodig hebt om je einddoel te behalen.
+> Aan de top van de trap zit je einddoel en de traptreden zijn doelen die jij nodig hebt om je einddoel te behalen.
+> - Meneer Febis
+
+<img src="img/rockystairs.gif">
 
 # Wat zijn de voordelen van goalsetting.
 # Wat zijn de meest voorkomende valkuilen.
