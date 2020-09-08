@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Het belang van Goalsetting"
-date: 2020-08-12 11:40:31
+date: 2020-09-20 11:40:31
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
