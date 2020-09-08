@@ -11,8 +11,7 @@ date: 2020-09-20 11:40:31
 
 **RANDY OFOSU** -- <Gebruik trapanalogie>
 
-> Aan de top van de trap zit je einddoel en de traptreden zijn doelen die jij nodig hebt om je einddoel te behalen.
-> Meneer Febis
+> Aan de top van de trap zit je einddoel en de traptreden zijn doelen die jij nodig hebt om je einddoel te behalen. -Meneer Febis
 
 <img src="/assets/img/rockystairs.gif">
 
