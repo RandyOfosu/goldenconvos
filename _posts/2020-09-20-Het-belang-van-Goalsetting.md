@@ -12,7 +12,8 @@ date: 2020-09-20 11:40:31
 Hij sprak ons toe als een vader of oom zou doen en zei:
 
 > *"Jongens. Zie doelen in het leven als een bestemming aan de top van een trap. Zie planningen die jij maakt als de traptredes naar de top."*
-    > --Meneer Febis
+
+> --Meneer Febis
 
 <img src="/assets/img/rockystairs.gif">
 
