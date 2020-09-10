@@ -14,16 +14,22 @@ Hij sprak ons toe als een vader of oom zou doen en zei:
 > *"Jongens. Zie doelen in het leven als een bestemming aan de top van een trap. Zie planningen die jij maakt als traptredes naar de top."*
 > --Meneer Febis
 
-Ik parafraseer, hij ging in wat meer details. Wat niet kan ontbreken is dat je: "Grote doelen in kleinere doelen moet opdelen." Die kleinere doelen zijn jouw traptredes. 
+<img src="/assets/img/stairwaytoheaven.jpg" title="Een foto van een trap, ter vervulling van deze cliché." alt="Een foto van een trap, ter vervulling van deze cliché.">
 
-Het leven verkoopt verlangens met doelen als een combideal. Dus iedereen gaat ooit te maken krijgen met deze trap of ze het willen of niet. Dus ga ik jou
+Ik parafraseer, hij ging in wat meer details. Wat niet kan ontbreken is dat je: "Grote doelen in kleinere doelen moet opdelen." Die kleinere doelen zijn jouw traptredes. Het leven verkoopt verlangens met doelen als een combideal. Dus iedereen gaat ooit te maken krijgen met deze trap of ze het willen of niet. 
 
-<img src="/assets/img/stairwaytoheaven.jpg">
+Dus ga ik jou laten zien hoe je deze grote doelen op te breken in kleinere doelen. 
 
-<img src="/assets/img/rockystairs.gif">
+## Waarom hebben we doelen nodig in het leven?
+Heb jij het gevoel dat dagen, weken, maanden en jaren aan elkaar smelten? Zeg jij wel eens: "Oh mijn God het is al *'voer jaar-maand-dag in'*, het leek echt op gisteren (of andere relatief korte tijdsbestek) toen het nog 'voer een jaartal in'." Wil je elke dag in bed blijven liggen en niet gestoord worden. Is jouw spiritanimal een plastic winkelzak die wordt aangedreven door de willekeurige winden van het leven. Dan heb ik goed nieuws voor jou, jij bent doelloos.
 
-## Wat zijn de voordelen van goalsetting.
+<img src="/assets/img/patricktodolistmeme.gif" title="Een .gif van jouw plannen in het leven." alt="Een .gif van jouw plannen in het leven.">
+
+Zei ik goed nieuws? Ik bedoel zeer ongunstig. 
+
 ## Wat zijn de meest voorkomende valkuilen.
 ## Hoe zet je goede doelen.
 ## SMART-Goals = Specifiek, Meetbaar, Actie-georiënteerd, Relevant, Tijdsgebonden.
 ## Tips voor goal setting.
+
+<img src="/assets/img/rockystairs.gif">
