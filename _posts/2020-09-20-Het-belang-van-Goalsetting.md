@@ -32,4 +32,4 @@ Zei ik goed nieuws? Ik bedoel zeer ongunstig.
 ## SMART-Goals = Specifiek, Meetbaar, Actie-georiënteerd, Relevant, Tijdsgebonden.
 ## Tips voor goal setting.
 
-<img src="/assets/img/rockystairs.gif">
+<img src="/assets/img/rockystairs.gif" title="Dit ben jij als je GoldenConvos blijft lezen." alt=".GIF van Rocky die de trap heeft beklommen.">
