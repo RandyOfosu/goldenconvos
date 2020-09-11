@@ -38,10 +38,12 @@ Gelukkig geeft dit boek ook "de geheimen" om hier wat aan te doen.
 ## Hoe zet je goede doelen.
 Ik heb een hele document voor jullie gemaakt waarmee je met gemak goede doelen kan maken voor jezelf. Als je hebt gesubbed op GoldenConvos krijg je de word-bestand dat scheelt overschrijf werk. Voor de mensen die hun mailbox ongerept willen houden, niet getreurd. Ik heb hier een <a href="/assets/pdf/goldenconvos_goalsetting_pdf_versie.pdf"  target="_blank" title="GoldenConvos Goalsetting" alt="Een PDF van de GoldenConvos Goalsetting">PDF-versie</a>.
 
-
 ## Hoe rekening met de seizoenen.
+Er zijn periodes in het jaar, waarbij je elke dag hard moet werken om de vruchten te plukken. Maar er zijn ook periodes in het jaar waarbij je gas terug moet geven en alles even op een rijtje zet. Het leven van een boer is een mooie analogie hiervoor. Want in de lente moet hij hard gaan ploegen en zaaien voordat het zomer wordt. Net iets voor herfst moet hij al gaan oogsten om dan vervolgens te gaan verkopen in de winter. Dit waren dan wel boeren van de oude garden. Maar een groot deel van deze structuur bestaat nog steeds. 
 
-## Tips voor goal setting.
+Voorkom burnouts en ga mee met de seizoenen van het jaar. Er zijn kansen het hele jaar door, maar die verschillen en los elkaar af per periode. 
+
+
 
 <img src="/assets/img/rockystairs.gif" title="Dit ben jij als je toepast wat je leert op GoldenConvos." alt=".GIF van Rocky die de trap heeft beklommen.">
 
