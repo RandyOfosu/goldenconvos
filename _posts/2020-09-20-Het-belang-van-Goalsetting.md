@@ -5,7 +5,7 @@ date: 2020-09-20 11:40:31
 ---
 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **20 MIN READ**</i>
+<i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **10 MIN READ**</i>
 
 **RANDY OFOSU** -- Ik heb het geluk gehad om goede docenten te krijgen in mijn leven. Er was een Surinaamse docent die mij het volgende heeft geleerd. Hij was streng en recht voor zijn raap, maar dit gesprek was ietwat meer persoonlijk dan wat wij gewend waren van hem. Juist hierom bleef het mij bij.
 
@@ -27,13 +27,15 @@ Heb jij het gevoel dat dagen, weken, maanden en jaren aan elkaar smelten? Zeg ji
 
 Zei ik goed nieuws? Ik bedoel buitengewoon desastreus.
 
-Mensen die niet plannen in het leven, <a href="https://www.encyclo.nl/begrip/dwalen" target="_blank" title="Definitie: Dwalen" alt="Link naar de definitie van dwalen.">dwalen</a>. (Tautologie ik weet, ik moet het echt benadrukken.)
+Mensen die niet plannen in het leven, <a href="https://www.encyclo.nl/begrip/dwalen" target="_blank" title="Definitie: Dwalen" alt="Link naar de definitie van dwalen.">dwalen</a>. (Tautologie dat snap ik, maar ik moet het echt benadrukken.)
 
-De nadelen en hoe je begint te dwalen kan je allemaal terugvinden in het boek van Napoleon Hill -- <a href="https://partner.bol.com/click/click?p=2&t=url&s=1105255&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Ff%2Foutwitting-the-devil%2F39835115%2F&name=Outwitting%20the%20Devil%2C%20Napoleon%20Hill%20" title="Napoleon Hill: Outwitting the Devil (affiliatelink)" alt="Affiliate Link van Bol.com naar het boek van Napoleon Hill: Outwitting the Devil">Napoleon Hill: Outwitting the Devil</a>. Kijk er niet al te gelovig naar, zie het als een handleiding die jouw behoedt op het leven van de doelloze. 
+> *"Alles wat je niet plant gaat op in de plannen van anderen."*
+
+Dat is met jouw: *gezondheid, geld, sociale kringen, mentaliteit, tijd en alle andere dingen die jij bezit,* zo.
+
+Hoe je begint te dwalen kan je allemaal terugvinden in het boek van Napoleon Hill -- <a href="https://partner.bol.com/click/click?p=2&t=url&s=1105255&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Ff%2Foutwitting-the-devil%2F39835115%2F&name=Outwitting%20the%20Devil%2C%20Napoleon%20Hill%20" title="Napoleon Hill: Outwitting the Devil (affiliatelink)" alt="Affiliate Link van Bol.com naar het boek van Napoleon Hill: Outwitting the Devil">Outwitting the Devil</a>. Kijk er niet al te gelovig naar, zie het als een handleiding die jouw behoedt op het leven van de doelloze. 
 
 Maar in het kort: heeft dwalen negatieve invloed op jouw fysiek, mentaliteit, financiën en omgang met anderen. Letterlijk alle dingen die je nodig hebt om te overleven in deze wereld. Sterker nog, dit zijn de dingen waar je de beste in wilt zijn. 
-
-Gelukkig geeft dit boek ook "de geheimen" om hier wat aan te doen. 
 
 ## Hoe zet je goede doelen.
 Ik heb een hele document voor jullie gemaakt waarmee je met gemak goede doelen kan maken voor jezelf. Als je hebt gesubbed op GoldenConvos krijg je de word-bestand dat scheelt overschrijf werk. Voor de mensen die hun mailbox ongerept willen houden, niet getreurd. Ik heb hier een <a href="/assets/pdf/goldenconvos_goalsetting_pdf_versie.pdf"  target="_blank" title="GoldenConvos Goalsetting" alt="Een PDF van de GoldenConvos Goalsetting">PDF-versie</a>.
@@ -43,7 +45,18 @@ Er zijn periodes in het jaar, waarbij je elke dag hard moet werken om de vruchte
 
 Voorkom burnouts en ga mee met de seizoenen van het jaar. Er zijn kansen het hele jaar door, maar die verschillen en los elkaar af per periode. 
 
+## Major/Minor, 80/20, Veel voor minder
+Probeer zoveel mogelijk dingen te doen in zo min mogelijk handelingen. Wanneer jij iets doet denk na over wat je nog nodig hebt om het zo snel mogelijk gedaan te krijgen. Kijk om je heen heb je alle benodigdheden voor hetgeen wat je wil behalen. Zo niet, ga je ze halen. Als je niet weet hoe je het moet halen, schrijf je een plan voor hoe je het gaat behalen.
 
+Het meest kenmerkende aan processen is dat men het niet wil verbeteren omdat het op de korte termijn meer handelingen vereist. Dat soort kortzichtigheid zal je kreupelen als je daar in meegaat. Het is beter om het werk niet uit te stellen en schoon schip te houden.
+
+## Wees kinderlijk
+In het document refereer ik al naar dit onderwerp echter vind ik dit punt hartstikke belangrijk. Wanneer je een doel gaat visualiseren wees zo kinderlijk mogelijk. Ik bedoel daarmee dat jij het niet moet verpesten met jouw cynische denkwijze. Doe gewoon net als je kan krijgen als je het goed genoeg vraagt. Zo'n doel moet je inspireren en gelukkig maken als je er aan denkt. Want als dat niet het geval is, wil je niet alles op alles zetten om het behalen.
+
+Gun jezelf het beste en je zal het onderweg tegenkomen.
+
+## In conclusie
+Download de bijgesloten <a href="/assets/pdf/goldenconvos_goalsetting_pdf_versie.pdf"  target="_blank" title="GoldenConvos Goalsetting" alt="Een PDF van de GoldenConvos Goalsetting">PDF-versie</a> mocht je de word-bestand niet hebben. Maak goede doelen en geef niet op. Leef jouw leven op de termen die jij vaststelt zonder anderen tot last te zijn. Het alternatief is dat jij opgaat in de plannen van anderen en controle verliest over de tijd die je bezit. Dus mocht je gaan voor het eerste vertrouw ik erop dat jij jouw trap zo goed mogelijk beklimt.
 
 <img src="/assets/img/rockystairs.gif" title="Dit ben jij als je toepast wat je leert op GoldenConvos." alt=".GIF van Rocky die de trap heeft beklommen.">
 
