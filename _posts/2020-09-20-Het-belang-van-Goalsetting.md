@@ -36,7 +36,8 @@ Maar in het kort: heeft dwalen negatieve invloed op jouw fysiek, mentaliteit, fi
 Gelukkig geeft dit boek ook "de geheimen" om hier wat aan te doen. 
 
 ## Hoe zet je goede doelen.
-Ik heb een hele document voor jullie gemaakt waarmee je met gemak een goede doelen kan maken voor jezelf. Als je hebt gesubbed op GoldenConvos krijg je de `.word` dat scheelt overschrijf werk. Voor de mensen die hun mailbox ongerept willen houden heb ik hier een [PDF-versie](/assets/pdf/goldenconvos_goalsetting_pdf_versie)!
+Ik heb een hele document voor jullie gemaakt waarmee je met gemak een goede doelen kan maken voor jezelf. Als je hebt gesubbed op GoldenConvos krijg je de `.word` dat scheelt overschrijf werk. Voor de mensen die hun mailbox ongerept willen houden heb ik hier een <a href="/assets/pdf/goldenconvos_goalsetting_pdf_versie.pdf"  target="_blank" title="GoldenConvos Goalsetting" alt="Een PDF van de GoldenConvos Goalsetting">PDF-versie</a>!
+
 
 ## Hoe rekening met de seizoenen.
 
