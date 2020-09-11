@@ -25,11 +25,16 @@ Heb jij het gevoel dat dagen, weken, maanden en jaren aan elkaar smelten? Zeg ji
 
 <img src="/assets/img/patricktodolistmeme.gif" title="Een .gif van jouw plannen in het leven." alt="Een .gif van jouw plannen in het leven.">
 
-Zei ik goed nieuws? Ik bedoel buitengewoon ongunstig.
+Zei ik goed nieuws? Ik bedoel buitengewoon desastreus.
 
+Mensen die niet plannen in het leven, <a href="https://www.encyclo.nl/begrip/dwalen" title="Definitie: Dwalen" alt="Link naar de definitie van dwalen.">dwalen</a>. (Tautologie ik weet, ik moet het echt benadrukken.)
 
+De nadelen en hoe je begint te dwalen kan je allemaal terugvinden in het boek van Napoleon Hill -- <a href="https://www.google.com/search?client=firefox-b-d&sxsrf=ALeKk00lmSJEh_Fb-quV3-sHt5spXOoTLg%3A1599813087814&ei=3zVbX5mhMYHVkgX4kY-gBw&q=outwitting+the+devil&oq=Outwitting&gs_lcp=CgZwc3ktYWIQAxgAMgQIABBDMgIIADICCAAyBAgAEEMyAggAMgIIADIECAAQQzICCAAyAggAMgQIABBDOgYIIxAnEBM6BAgAEBM6BAgjECc6CAgAELEDEIMBOgUIABCxA1DPNFjxRGCrS2gAcAB4AIABiAGIAfoGkgEEMTAuMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab" title="Google Search: Outwitting the Devil" alt="Een Google zoekopdracht naar het boek Outwitting the Devil.">Outwitting the Devil</a>. Kijk er niet al te gelovig naar, zie het als een handleiding die jouw behoedt op het leven van de doelloze. 
 
-## Wat zijn de meest voorkomende valkuilen.
+Maar in het kort: heeft dwalen negatieve invloed op jouw fysiek, mentaliteit, financiën en omgang met anderen. Letterlijk alle dingen die je nodig hebt om te overleven in deze wereld. Sterker nog, dit zijn de dingen waar je de beste in wilt zijn. 
+
+Gelukkig geeft dit boek ook "de geheimen" om hier wat aan te doen. Natuurlijk zal ik ze hier in het kort behandelen.
+
 ## Hoe zet je goede doelen.
 ## SMART-Goals = Specifiek, Meetbaar, Actie-georiënteerd, Relevant, Tijdsgebonden.
 ## Tips voor goal setting.
