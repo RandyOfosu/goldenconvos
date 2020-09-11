@@ -35,6 +35,8 @@ Maar in het kort: heeft dwalen negatieve invloed op jouw fysiek, mentaliteit, fi
 
 Gelukkig geeft dit boek ook "de geheimen" om hier wat aan te doen. Natuurlijk zal ik ze hier in het kort behandelen.
 
+<a href="/assets/word/GoldenConvos Goalsetting.htm">test</a>
+
 ## Hoe zet je goede doelen.
 ## SMART-Goals = Specifiek, Meetbaar, Actie-georiënteerd, Relevant, Tijdsgebonden.
 ## Tips voor goal setting.
