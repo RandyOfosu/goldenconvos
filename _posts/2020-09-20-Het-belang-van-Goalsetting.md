@@ -49,7 +49,7 @@ Er zijn periodes in het jaar, waarbij je elke dag hard moet werken om de vruchte
 
 Voorkom burnouts en ga mee met de seizoenen van het jaar. Er zijn kansen het hele jaar door, maar die verschillen en los elkaar af per periode. 
 
-## Major/Minor, 80/20, Veel voor minder
+## Major/Minor, 80/20, doe minder voor veel
 Probeer zoveel mogelijk dingen te doen in zo min mogelijk handelingen. Wanneer jij iets doet denk na over wat je nog nodig hebt om het zo snel mogelijk gedaan te krijgen. Kijk om je heen heb je alle benodigdheden voor hetgeen wat je wil behalen. Zo niet, ga je ze halen. Als je niet weet hoe je het moet halen, schrijf je een plan voor hoe je het gaat behalen.
 
 Het meest kenmerkende aan processen is dat men het niet wil verbeteren omdat het op de korte termijn meer handelingen vereist. Dat soort kortzichtigheid zal je kreupelen als je daar in meegaat. Het is beter om het werk niet uit te stellen en schoon schip te houden.
