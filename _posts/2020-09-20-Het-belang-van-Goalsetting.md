@@ -35,7 +35,7 @@ Mensen die niet plannen in het leven, <a href="https://www.encyclo.nl/begrip/dwa
 
 > *"Alles wat je niet plant gaat op in de plannen van anderen."*
 
-Dat is met jouw: *gezondheid, geld, sociale kringen, mentaliteit, tijd en alle andere dingen die jij bezit,* zo.
+Dat is zo met jouw: *gezondheid, geld, sociale kringen, mentaliteit, tijd en alle andere dingen die jij bezit.*
 
 Hoe je begint te dwalen kan je allemaal terugvinden in het boek van Napoleon Hill -- <a href="https://partner.bol.com/click/click?p=2&t=url&s=1105255&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Ff%2Foutwitting-the-devil%2F39835115%2F&name=Outwitting%20the%20Devil%2C%20Napoleon%20Hill%20" title="Napoleon Hill: Outwitting the Devil (affiliatelink)" alt="Affiliate Link van Bol.com naar het boek van Napoleon Hill: Outwitting the Devil">Outwitting the Devil</a>. Kijk er niet al te gelovig naar, zie het als een handleiding die jouw behoedt op het leven van de doelloze. 
 
