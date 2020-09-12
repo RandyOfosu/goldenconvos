@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: post
 title: "OPINIE: Effecten van objectivering?"
 date: 2020-08-06 18:57:51
 ---

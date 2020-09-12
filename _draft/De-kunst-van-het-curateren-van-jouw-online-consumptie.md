@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: post
 title: "De kunst van het curateren van jouw consumptie"
 date: 2020-08-12 11:40:31
 ---

@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: post
 title: "De kracht van Earned Media en Paid media"
 date: 2020-09-20 18:57:51
 ---

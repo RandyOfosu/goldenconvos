@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: post
 title: "Wat het ding met motivatie is."
 date: 2020-09-20 18:57:51
 ---

@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: post
 title: "Dit is de reden waarom de meest succesvolle bedrijven niet achter jouw geld aan gaan."
 date: 2020-09-12 18:37:31
 ---
