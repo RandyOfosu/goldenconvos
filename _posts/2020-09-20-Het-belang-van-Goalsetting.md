@@ -22,6 +22,14 @@ Ik parafraseer, hij ging in wat meer details. Wat niet kan ontbreken is dat je: 
 
 Dus ga ik jou laten zien hoe je jouw grote doelen kan opbreken in kleinere doelen. 
 
+###### TL:DR
+- Download de bijgesloten PDF.
+- Faal je om te plannen, plan je om te falen.
+- Doe zo veel mogelijk in zo min mogelijk handelingen.
+- Hou rekening met de periodes in een jaar.
+- Geloof dat je krijgt naar wat je vraagt.
+- Houd je doelen in zicht.
+
 ## Waarom hebben we doelen nodig in het leven?
 Heb jij het gevoel dat dagen, weken, maanden en jaren aan elkaar smelten? 
 Zeg jij wel eens: "Oh mijn God het is al *'voer jaar-maand-dag in'*, het leek echt op gisteren (of andere relatief korte tijdsbestek) toen het nog 'voer-een-jaartal-in' was." 
@@ -46,7 +54,7 @@ Maar in het kort: heeft dwalen negatieve invloed op jouw fysiek, mentaliteit, fi
 ## Hoe zet je goede doelen.
 Ik heb een hele document voor jullie gemaakt waarmee je met gemak goede doelen kan maken voor jezelf. Als je hebt gesubbed op GoldenConvos krijg je de word-bestand dat scheelt overschrijf werk. Voor de mensen die hun mailbox ongerept willen houden, niet getreurd. Ik heb hier een <a href="/assets/pdf/goldenconvos_goalsetting_pdf_versie.pdf"  target="_blank" title="GoldenConvos Goalsetting" alt="Een PDF van de GoldenConvos Goalsetting">PDF-versie</a>.
 
-## Hoe rekening met de seizoenen.
+## Hou rekening met de seizoenen.
 Er zijn periodes in het jaar, waarbij je elke dag hard moet werken om de vruchten te plukken. Maar er zijn ook periodes in het jaar waarbij je gas terug moet geven en alles even op een rijtje zet. Het leven van een boer is een mooie analogie hiervoor. Want in de lente moet hij hard gaan ploegen en zaaien voordat het zomer wordt. Net iets voor herfst moet hij al gaan oogsten om dan vervolgens te gaan verkopen in de winter. Dit waren dan wel boeren van de oude garden. Maar een groot deel van deze structuur bestaat nog steeds. 
 
 Voorkom burnouts en ga mee met de seizoenen van het jaar. Er zijn kansen het hele jaar door, maar die verschillen en los elkaar af per periode. 
@@ -60,6 +68,11 @@ Het meest kenmerkende aan processen is dat men het niet wil verbeteren omdat het
 In het document refereer ik al naar dit onderwerp echter vind ik dit punt hartstikke belangrijk. Wanneer je een doel gaat visualiseren wees zo kinderlijk mogelijk. Ik bedoel daarmee dat jij het niet moet verpesten met jouw cynische denkwijze. Doe gewoon net als je kan krijgen als je het goed genoeg vraagt. Zo'n doel moet je inspireren en gelukkig maken als je er aan denkt. Want als dat niet het geval is, wil je niet alles op alles zetten om het behalen.
 
 Gun jezelf het beste en je zal het onderweg tegenkomen.
+
+## Uit het zicht, uit het hart
+Houdt je doelen bij de hand. Het kan in een notitieboek, laptop, telefoon zitten. Zolang je het maar overal met je mee draagt. Lijst jouw doelen in en Hang het ook overal op in je kamer, kantoor of waar je graag bent. Dit is zodat je nooit vergeet waar je alles voor doet. Het helpt er ook bij dat je kansen zou zien die je normaliter niet zou zien. Het motiveert je ook als je het allemaal even niet ziet zitten of er juist lekker tegen aan wil gaan. 
+
+De reden voor jouw doelen moeten altijd top-of-mind zijn. Want als dat niet het geval is maak je plaats voor anderen hun planning, wat de risico met zich mee draagt dat die ongelijk lopen met jouw plannen. Bescherm je tijd en spendeer die aan de dingen die *jij* wilt hebben.
 
 ## In conclusie
 Download de bijgesloten <a href="/assets/pdf/goldenconvos_goalsetting_pdf_versie.pdf"  target="_blank" title="GoldenConvos Goalsetting" alt="Een PDF van de GoldenConvos Goalsetting">PDF-versie</a> mocht je de word-bestand niet hebben. Maak goede doelen en geef niet op. Leef jouw leven op de termen die jij vaststelt zonder anderen tot last te zijn. Het alternatief is dat jij opgaat in de plannen van anderen en controle verliest over de tijd die je bezit. Dus mocht je gaan voor het eerste vertrouw ik erop dat jij jouw trap zo goed mogelijk beklimt.
