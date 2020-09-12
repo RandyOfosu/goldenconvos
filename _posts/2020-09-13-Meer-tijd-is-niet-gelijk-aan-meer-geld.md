@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: post
 title: "Meer tijd ≠ Meer geld"
 date: 2020-08-31 08:37:51
 ---

@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: post
 title: "Hoe word ik een effectieve mentor of mentee?"
 date: 2020-08-15 18:57:51
 ---

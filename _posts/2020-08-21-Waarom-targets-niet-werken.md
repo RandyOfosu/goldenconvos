@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: post
 title: "Opinie: Waarom targets niet werken."
 date: 2020-08-21 11:40:31
 ---

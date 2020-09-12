@@ -1,5 +1,5 @@
 ---
-# layout: post
+layout: post
 title: "Wie ben jij zonder jouw spullen?"
 date: 2020-09-05 10:40:31
 ---
