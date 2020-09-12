@@ -6,7 +6,6 @@ date: 2020-08-15 18:57:51
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/886497334&color=%23daa520&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/goldenconvos" title="GoldenConvos BackOffice" target="_blank" style="color: #cccccc; text-decoration: none;">GoldenConvos BackOffice</a> · <a href="https://soundcloud.com/goldenconvos/hoe-je-een-effectieve-mentor-of-mentee-wordt" title="Hoe Je Een Effectieve Mentor Of Mentee Wordt" target="_blank" style="color: #cccccc; text-decoration: none;">Hoe Je Een Effectieve Mentor Of Mentee Wordt</a></div>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **10 MIN READ**</i>
 
 **RANDY OFOSU** -- Stel jij bent hartstikke goed in hetgene wat je doet. In je proces kom je mensen tegen die willen doen wat jij al kan. Gelukkig ben jij bereidt om tijd te alloceren voor deze leerlingen.
