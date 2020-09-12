@@ -4,6 +4,8 @@ title: "Dit is de reden waarom de meest succesvolle bedrijven niet achter jouw g
 date: 2020-09-12 18:37:31
 ---
 
+<i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **20 MIN READ**</i>
+
 **RANDY OFOSU** -- Ooit op een dag heb ik mijzelf afgevraagd hoe ik kom aan al deze spullen? Wat waren de samenloop van omstandigheden die er toe hebben doen leiden dat ik deze bezittingen heb. Tegenwoordig weet ik wat de reden is. Nu als ik iets koop, doe ik dat met de meest gecalculeerde intenties. Er is een reden waarom Ferrari's, Macbooks en Penthouses worden gekocht. Die reden is nooit vanwege de prijs. 
 
 In deze blogpost gaan we dit fenomeen helemaal ontravelen.

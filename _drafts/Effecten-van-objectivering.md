@@ -4,7 +4,6 @@ title: "OPINIE: Effecten van objectivering?"
 date: 2020-08-06 18:57:51
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **15 MIN READ**</i>
 
 # Inleiding
