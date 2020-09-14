@@ -11,8 +11,8 @@ date: 2020-09-30 11:40:31
         function drawOffDayChart() {
             var data = google.visualization.arrayToDataTable([
             ['Task', 'Hours per Day'],
-            ['Work',     11],
-            ['Eat',      2],
+            ['Work',     5],
+            ['Eat',      7],
             ['Commute',  2],
             ['Watch TV', 2],
             ['Sleep',    7]
@@ -28,7 +28,7 @@ date: 2020-09-30 11:40:31
         google.charts.setOnLoadCallBack(drawMijnProjectDagChart);
         function drawMijnProjectDagChart() {
                 var queryString = encodeURIComponent('');
-                var data = google.visualization.Query('https://docs.google.com/spreadsheets/d/1wcQ7GrafaRaq0RgTPQVjGaK2jSZpXrKQBudcOZ-LdnQ/edit#gid=414107059&headers=9&tq=' + queryString);
+                var data = google.visualization.Query('https://docs.google.com/spreadsheets/d/e/2PACX-1vRR9MxTqq67vxc9N6LEvW_G7QGkqoMlNC5V8xOrU6OvUK5qKQmaIwps_otT0_d0CEvMiqSyf9vuk6Ea/pubhtml?gid=414107059&single=true' + queryString);
                 query.send(handleQueryResponse);
                 var options = {
                     title: 'Mijn productievere dag',
