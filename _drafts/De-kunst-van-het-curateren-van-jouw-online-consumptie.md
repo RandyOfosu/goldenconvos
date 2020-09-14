@@ -69,8 +69,8 @@ Want we gaan het hebben over hoe jij jouw consumptiepatroon in toom houdt.
 ## Meten = Weten
 Het voordeel van jouw bezigheden tracken is dat je kan zien waar jouw tijd naartoe gaat. Maar waar het melkkoetje nou *echt* ligt is dat het je helpt behoeden op overconsumptie.
 
-<!-- <div id="mijn_luie_dag_chart" style="width: 700px; height: 250px;"></div> -->
-<div id="mijn_project_dag_chart" style="width: 700px; height: 250px;"></div>
+<div id="mijn_luie_dag_chart" style="width: 700px; height: 250px;"></div>
+<!-- <div id="mijn_project_dag_chart" style="width: 700px; height: 250px;"></div> -->
 
 ## Weet wat je eet. (filter jouw consumptie)
 
