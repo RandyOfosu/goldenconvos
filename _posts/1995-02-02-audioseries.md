@@ -27,4 +27,4 @@ Tot zover de huishoudelijke mededelingen.
 
 Om mijn bericht af te sluiten zal ik de woorden gebruiken van Jordan Peterson:
 
->"*Life is eternal suffering, that is why you should find things that are worth suffering.*"
+>"*Life is eternal suffering, that is why you should find things that are worth the suffering.*"
