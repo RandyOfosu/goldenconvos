@@ -1,0 +1,112 @@
+Log project: Easy Drive
+Groepsleden: Randy, Daan, Tarik en Karma.
+Bijschrijving: 
+
+
+Datum: 08 september 2020
+Locatie: Online (Discord en MS Teams)
+Activiteit: Gesprek Product Owner
+Aanwezigen: Iedereen (Randy, Daan, Tarik en Karma)
+
+Daden: 
+- Daan: Heeft Github repositorie gemaakt. Actief meegedaan aan de QnA.
+- Randy: Actief meegedaan aan de QnA.
+- Tarik: Actief meegedaan aan de QnA.
+- Karma: Actief meegedaan aan de QnA.
+
+Bijzonderheden: Geen
+
+------------
+
+Datum: 10 september 2020
+Locatie: Online (Discord en MS Teams)
+Activiteit: Programma van Eisen
+Aanwezigen: Iedereen* (Randy, Daan, Tarik en Karma*)
+
+Daden:
+- Daan: Actief meegeholpen aan de PvE.
+- Randy: PvE opgesteld, notuleren en actief meegeholpen aan de PvE.
+- Tarik: Actief meegeholpen aan de PvE.
+- Karma*: Geen contributie.
+
+Bijzonderheden: Karma kwam te laat (reden: te weinig geslapen gisteren omdat hij ging helpen met het in elkaar zetten van een kast.)
+
+------------
+
+Datum: 14 september 2020
+Locatie: Maalderij 37 Amstelveen
+Activiteit: Terugkoppeling op school
+Aanwezigen: Karma
+
+Daden:
+- Karma: Hij was er gewoon en heeft informatie gekregen van de docenten.
+
+Bijzonderheden: Randy, Daan en Tarik waren er niet omdat ze geen zin hadden.
+
+------------
+
+Datum: 15 september 2020
+Locatie: Online (Discord en MS Teams)
+Activiteit: ProjectPlan
+Aanwezigen: Randy, Daan, Tarik en Karma
+
+Daden: 
+- Daan: Heeft een begin gemaakt aan de website front en back end.
+- Randy: Heeft gewerkt aan het projectplan
+- Tarik: Heeft gewerkt aan het projectplan
+- Karma: Heeft gewerkt aan het projectplan
+
+Bijzonderheden: Randy had gezegd dat hij de rest van het projectplan zou afmaken.
+
+-------------
+
+Datum: 17 september 2020
+Locatie: Online (Discord en MS Teams)
+Activiteit: Afronden ProjectPlan
+Aanwezigen: Randy
+
+Daden:
+- Randy: Heeft de rest van het projectplan afgemaakt.
+
+Bijzonderheden: 
+- Daan: Heeft koorts sinds 16 september 2020
+- Tarik: Is afwezig. (hoefde er niet te zijn)
+- Karma: Is afwezig. (hoefde er niet te zijn)
+
+-------------
+
+Datum: 21 september 2020
+Locatie: Maalderij (Discord)
+Activiteit: Usercases verdelen
+Aanwezigen: Karma, Tarik, Randy (Daan = Thuis)
+Daden: Usercases verdeeld, Daan heeft verder gewerkt aan de frontend van de website.
+-------------
+
+Datum: 24 september 2020
+Locatie: Online (discord, MS teams)
+Activiteit: Functioneel Ontwerp, Website
+Aanwezigen: Iedereen
+
+Daden: 
+- Daan: Heeft Login backend gefixt! + Meegewerkt aan FO
+- Randy: Meegewerkt aan FO
+- Tarik: Meegewerkt aan FO
+- Karma: Meegewerkt aan FO
+
+Bijzonderheden: 
+- Functioneel Ontwerp ingeleverd.
+- Geleerd (met Oudheusden) over $_SESSION we moeten dat nog gebruiken.
+
+---------------
+
+
+
+
+
+
+
+
+
+
+
+
