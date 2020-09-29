@@ -7,39 +7,17 @@ date: 2020-09-30 11:40:31
 <head>
     <script type="text/javascript">
         <!-- Off Day Pie Chart -->
-        google.charts.setOnLoadCallback(drawOffDayChart);
-        function drawOffDayChart() {
-            var data = google.visualization.arrayToDataTable([
-            ['Task', 'Hours per Day'],
-            ['Work',     5],
-            ['Eat',      7],
-            ['Commute',  2],
-            ['Watch TV', 2],
-            ['Sleep',    7]
-            ]);
-            var options = {
-            title: 'Mijn luie dag',
-            pieHole: 0.4,
-            };
-            var chart = new google.visualization.PieChart(document.getElementById('mijn_luie_dag_chart'));
-            chart.draw(data, options);
-        }
                 <!-- Mijn Project Dag Pie Chart -->
-        google.charts.setOnLoadCallBack(drawMijnProjectDagChart);
+        google.charts.setOnLoadCallback(drawMijnProjectDagChart);
         function drawMijnProjectDagChart() {
-                var queryString = encodeURIComponent('');
-                var data = google.visualization.Query('https://docs.google.com/spreadsheets/d/e/2PACX-1vRR9MxTqq67vxc9N6LEvW_G7QGkqoMlNC5V8xOrU6OvUK5qKQmaIwps_otT0_d0CEvMiqSyf9vuk6Ea/pubhtml?gid=414107059&single=true' + queryString);
+                var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/e/2PACX-1vRR9MxTqq67vxc9N6LEvW_G7QGkqoMlNC5V8xOrU6OvUK5qKQmaIwps_otT0_d0CEvMiqSyf9vuk6Ea/pubhtml?gid=414107059&single=true');
                 query.send(handleQueryResponse);
-                var options = {
-                    title: 'Mijn productievere dag',
-                    pieHole: 0.4,
-                };
-            function handleQueryReponse(response) {
+            }
+            function handleQueryResponse(response) {
                 var data = response.getDataTable();
                 var chart = new google.visualization.PieChart(document.getElementById('mijn_project_dag_chart'));
                 chart.draw(data, options);
             }
-        }
     </script>
 
 </head>
@@ -69,8 +47,7 @@ Want we gaan het hebben over hoe jij jouw consumptiepatroon in toom houdt.
 ## Meten = Weten
 Het voordeel van jouw bezigheden tracken is dat je kan zien waar jouw tijd naartoe gaat. Maar waar het melkkoetje nou *echt* ligt is dat het je helpt behoeden op overconsumptie.
 
-<div id="mijn_luie_dag_chart" style="width: 700px; height: 250px;"></div>
-<!-- <div id="mijn_project_dag_chart" style="width: 700px; height: 250px;"></div> -->
+<div id="mijn_project_dag_chart" style="width: 700px; height: 250px;"></div>
 
 ## Weet wat je eet. (filter jouw consumptie)
 
