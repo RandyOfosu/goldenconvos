@@ -13,10 +13,28 @@
   <meta http-equiv="content-language" content="en-gb" />
   <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png" href="/assets/img/favicon/favicon.png">
+
+  <!-- Google Fonts -->
   <link href="//fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700|Lora:400,700,400italic" rel="stylesheet"
     type="text/css">
   <link rel="stylesheet" type="text/css" href="{{ site.baseurl| split: '/' | join:'/' }}/css/main.css" />
   <link href="atom.xml" type="application/atom+xml" rel="alternate" title="Site ATOM Feed">
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-176723044-1"></script>
+<script data-ad-client="ca-pub-6827993821605775" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-176723044-1');
+</script>
+
+<!-- MailChimp Optin -->
   <script
     id="mcjs">!function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/ff13ddd28dd29fa8ca75ca6a7/236c1e043a95cc44529da7857.js");</script>
 </head>
@@ -36,8 +54,11 @@ avatar.jpeg" alt="Picture" title="That's me, {{ site.author }}.">
       <p>{{ site.author-bio }}</p>
     </div>
     <nav>
-      <h6>Volg me op</h6>
+      <h6>Zie mijn</h6>
       <ul>
+        {% if site.audioseries %}
+        <li><a target="_blank" href="1995/02/02/audioseries/">Audioseries</a></li>
+        {% endif %}
         {% if site.linkedin %}
         <li><a target="_blank" href="https://linkedin.com/in/randyofosu">Linked-In</a></li>
         {% endif %}
@@ -70,7 +91,7 @@ avatar.jpeg" alt="Picture" title="That's me, {{ site.author }}.">
     </main>
 
     <footer>
-      <small>Powered by R;- &copy; {{ site.author }}</small>
+      <small>Powered by Jekyll- &copy; {{ site.author }}</small>
     </footer>
 
   </div>

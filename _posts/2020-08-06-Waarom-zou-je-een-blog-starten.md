@@ -4,10 +4,9 @@ title: "Waarom zou je een blog starten?"
 date: 2020-08-06 18:57:51
 ---
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880276330&color=%23daa51f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/goldenconvos" title="GoldenConvos BackOffice" target="_blank" style="color: #cccccc; text-decoration: none;">GoldenConvos BackOffice</a> · <a href="https://soundcloud.com/goldenconvos/backoffice" title="Welkom in de BackOffice!" target="_blank" style="color: #cccccc; text-decoration: none;">Welkom in de BackOffice!</a></div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/883731430&color=%23daa520&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/goldenconvos" title="GoldenConvos BackOffice" target="_blank" style="color: #cccccc; text-decoration: none;">GoldenConvos BackOffice</a> · <a href="https://soundcloud.com/goldenconvos/waarom-je-een-blog-zou-moeten-starten" title="Waarom Je Een Blog Zou Moeten Starten" target="_blank" style="color: #cccccc; text-decoration: none;">Waarom Je Een Blog Zou Moeten Starten</a></div>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **15 MIN READ**</i>
+<i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **10 MIN READ**</i>
 
 **RANDY OFOSU** -- Ik ben begonnen met bloggen omdat het de snelste en handigste manier is voor mij om mezelf te expressioneren. Zoals je weet is het gratis en houden wij Nederlanders van gratis. Daarnaast maakt het mij gelukkig als ik mensen kan helpen met een kwestie waarmee ze vastlopen. Tot slot is het herhalen van waardevolle advies en/of technieken het beste wat jij jezelf kan wensen.
 
@@ -23,7 +22,7 @@ date: 2020-08-06 18:57:51
 
 ## Wat is het nut van een blog?
 
-Dit zijn waardevolle woorden van mijn moeder.
+auDit zijn waardevolle woorden van mijn moeder. 
 
 > Nederland is een land gebouwd op papier.
 
@@ -104,7 +103,7 @@ Tegenwoordig gooien mensen wel heel vaak de term community rond. Hierom denk ik 
 
 > A community is a group of individiduals who share a mutual concern for one another's welfare.
 
-Dit is direct geciteerd uit het boek van <a href="https://www.bol.com/nl/p/the-art-of-community/9200000065862148/" title="Het boek The Art of Community van Charles H. Vogl" alt="Het boek The Art of Community van Charles H. Vogl" target="_blank">_The Art of Community_</a> van Charles H. Vogl. Zolang niemand van een "community" om elkaar geeft, spreken we niet van een community, maar van een los kluitje mensen. Ja, zij kunnen toevallig geïnteresseerd zijn in dezelfde dingen. Ja, zij kunnen dezelfde mening delen over polarizerende onderwerpen. Maar zolang zij niet achterom kijken voor elkaar, is er geen sprake van een community.
+Dit is direct geciteerd uit het boek van <a href="https://partner.bol.com/click/click?p=2&t=url&s=1105255&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Ff%2Fthe-art-of-community%2F9200000058455938%2F&name=The%20Art%20of%20Community" title="Affiliatelink: Het boek The Art of Community van Charles H. Vogl" alt="Het boek The Art of Community van Charles H. Vogl" target="_blank">_The Art of Community_</a> van Charles H. Vogl. Zolang niemand van een "community" om elkaar geeft, spreken we niet van een community, maar van een los kluitje mensen. Ja, zij kunnen toevallig geïnteresseerd zijn in dezelfde dingen. Ja, zij kunnen dezelfde mening delen over polarizerende onderwerpen. Maar zolang zij niet achterom kijken voor elkaar, is er geen sprake van een community.
 
 In een toekomstige blogpost zal ik het hebben over hoe je een sterke community kan bouwen, met behulp van het boek dat ik eerder heb genoemd. Voor nu is mijn punt dat je doormiddel van een blog een community kan bouwen.
 

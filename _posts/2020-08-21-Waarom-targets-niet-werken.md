@@ -1,12 +1,12 @@
 ---
-# layout: post
+layout: post
 title: "Opinie: Waarom targets niet werken."
 date: 2020-08-21 11:40:31
 ---
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/880276330&color=%23daa51f&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/goldenconvos" title="GoldenConvos BackOffice" target="_blank" style="color: #cccccc; text-decoration: none;">GoldenConvos BackOffice</a> · <a href="https://soundcloud.com/goldenconvos/backoffice" title="Welkom in de BackOffice!" target="_blank" style="color: #cccccc; text-decoration: none;">Welkom in de BackOffice!</a></div>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **10 MIN READ**</i>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/886497241&color=%23daa520&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/goldenconvos" title="GoldenConvos BackOffice" target="_blank" style="color: #cccccc; text-decoration: none;">GoldenConvos BackOffice</a> · <a href="https://soundcloud.com/goldenconvos/waarom-targets-niet-werken" title="Waarom Targets Niet Werken" target="_blank" style="color: #cccccc; text-decoration: none;">Waarom Targets Niet Werken</a></div>
+
+<i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **15 MIN READ**</i>
 
 **RANDY OFOSU** -- Hoe je mijn clickbaity titel eigenlijk moet lezen is; "*Waarom targets als kpi voor jouw werknemer niet werkt op de manier hoe jij het wilt.*" 
 
@@ -18,6 +18,7 @@ In deze blogpost zal ik mijn visie hierop delen. Daarbij zal ik voorstellen doen
 
 - Goodharts Law
 - Werknemers zullen er de kantjes van aflopen als ze met targets werken.
+- Belonen werkt beter dan straffen.
 - Mensen zijn nooit goed geweest in het interpreteren van cijfers.
 - Jouw enige doel is om de klant zijn/haar behoeftes zo goed mogelijk te behartigen.
 
@@ -37,7 +38,7 @@ Jammer, want dit is naar mijn mening het moment dat salesmanager of zelfs een le
 
 Waar komen de klanten en werknemers dan in dit verhaal? **Dat is dus de kern van het probleem!**
 
-Dit is letterlijk één voorbeeld waarbij -- de beweegredenen van een bedrijf niet meer is gebaseerd op de behoeftes van de klant. Maar op een afleiding zoals bijvoorbeeld een investeerder of de financiële schulden die een bedrijf heeft bij externe instanties.
+Dit is letterlijk één voorbeeld waarbij -- de beweegredenen van een bedrijf niet meer is gebaseerd op de behoeftes van de klant. Maar op een afleiding zoals bijvoorbeeld investeerders, *higher ups* of de financiële schulden die een bedrijf heeft bij externe instanties.
 
 ## Goodharts Law
 
@@ -45,7 +46,7 @@ Dit is letterlijk één voorbeeld waarbij -- de beweegredenen van een bedrijf ni
 
 Dit zijn massief goude woorden van de überChad econoom, <a href="https://en.wikipedia.org/wiki/Charles_Goodhart" title="Wikipagina over Charles Goodhart" alt="Wikipagina over Charles Goodhart" target="_blank">Charles Goodhart</a>. Dit hoort thuis op een tegeltje bij elk aspirant manager of C-niveau leidinggevende. Het wordt ook wel de <a href="" target="_blank" title="Wikipagina over Goodharts Law (Engels)">Goodharts Law</a> genoemd. Dit is niet omdat ik een moraalridder ben. Dit is omdat je op een langer termijn meer verdient als jij je houdt aan het advies van deze wet.
 
-Als je goed om je heen kijkt, leer je al heel gauw dat veel (grootlijkende) bedrijven dit advies negeren. Dit soort bedrijven zullen daarom niet lang bestaan en zullen geassimileerd worden door hun concurrenten. Dus wees gewaarschuwd. 
+Als je goed om je heen kijkt, leer je al heel gauw dat veel (grootlijkende) bedrijven dit advies negeert. Dit soort bedrijven zullen daarom niet lang bestaan en zullen geassimileerd worden door hun concurrenten. Dus wees gewaarschuwd. 
 
 Er zijn veel situatieschetsen die je kan gebruiken hiervoor, maar ik kan mijn eigen ervaring gebruiken. 
 
@@ -69,7 +70,21 @@ Nu zijn de klanten zo erg gefrustreerd dat ze wensen over te stappen en nooit me
 
 Wat een rotzooi. 
 
-Dit alleen omdat werknemers hun baan afhangt van een sale of geen baan. Het hangt niet af van een goede ervaring voor de klant of de behoeftes van de klant. Want voor de klant van mijn werkgever deed dat er niet toe.
+Dit alleen omdat werknemers hun baan afhangt van een sale. Het hangt niet af van een goede ervaring voor de klant of de behoeftes van de klant. Want voor de klant van mijn werkgever deed dat er niet toe.
+
+## de oplossing
+
+Als jij kijkt naar jouw C-niveau leidinggevende zit het antwoord voor jouw neus. Zij doen hun best alleen omdat het van hun beloningen afhangt. 
+
+Waarschijnlijk worden zij beloond op verschillende manieren voor prestaties die zij leveren. 
+
+Aangezien dat juist zorgt voor de gewenste gedragingen van jouw C-niveau leidinggevende. Hangt er nog 1 prangende vraag. Waarom zou je dat niet doen voor jouw werkgevers? 
+
+Als beloningen iemand motiveert om te handelen naar de eisen die je stelt waarom zou je dan dreigen met rapportcijfers. 
+
+Er zijn veel verschillende manieren om jouw werkgevers te motiveren om productief zijn. Dat hoeft niet altijd financieel alleen heeft dat wel altijd gewerkt.
+
+Onthoudt gewoon dat motiveren beter werkt dan straffen. Want straffen roept naar irrationelen handelingen en irrationele handelingen leiden tot negatieve ervaringen.
 
 ## verdict
 

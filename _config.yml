@@ -7,14 +7,15 @@ description: "Een plek voor goude inzichten."
 # Your name. Will show in your footer + sidebar
 author: "Randy Ofosu"
 
-url: "https://randyofosu.github.io"
+url: "https://goldenconvos.com"
 baseurl: ""
 
 # A short presentation of yourself. Will show in the sidebar, under your name. Best usage would be between 30 to 50 words.
-author-bio: "Jij komt hier vast om meer uit jezelf te halen. Kom, zit met mij en anderen om GoldenConvos te houden."
+author-bio: "Goldenconvos leiden tot een GoldenLeven."
 
 # Social Accounts (mine, as placeholders)
 
+audioseries: Audioseries
 linkedin: randyofosu
 twitter: randysemicolon
 github: RandyOfosu
@@ -22,8 +23,8 @@ instagram: goldenconvos
 
 # Google Analytics (you may want to changes these with yours or even delete :)
 
-ga_domain:
-ga_tracking_id:
+ga_domain: 176723044
+ga_tracking_id: UA-176723044-1
 
 # Other (refer to http://jekyllrb.com/docs/home/ for further details on the below)
 
@@ -31,9 +32,13 @@ markdown: kramdown
 permalink: pretty
 plugins:
   - jekyll-paginate
+  - jekyll-seo-tag
 
 paginate: 10
 paginate_path: "/page/:num"
+
+future: true
+regeneration: true
 
 # SCSS
 
