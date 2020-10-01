@@ -6,20 +6,24 @@ date: 2020-09-30 11:40:31
 
 <head>
     <script type="text/javascript">
-        <!-- Off Day Pie Chart -->
-                <!-- Mijn Project Dag Pie Chart -->
-        google.charts.setOnLoadCallback(drawMijnProjectDagChart);
-        function drawMijnProjectDagChart() {
-                var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/e/2PACX-1vRR9MxTqq67vxc9N6LEvW_G7QGkqoMlNC5V8xOrU6OvUK5qKQmaIwps_otT0_d0CEvMiqSyf9vuk6Ea/pubhtml?gid=414107059&single=true');
-                query.send(handleQueryResponse);
-            }
-            function handleQueryResponse(response) {
-                var data = response.getDataTable();
-                var chart = new google.visualization.PieChart(document.getElementById('mijn_project_dag_chart'));
-                chart.draw(data, options);
-            }
+    // vraagt toegang tot de library
+    google.charts.setOnLoadCallback(drawChart);
+    function drawChart() {
+        // creëert data tabel
+       var query = new google.visualization.Query('https://docs.google.com/spreadsheets/d/1SPkvwHvxwh2VrJObXaExnR_ONLxvC9L7YqjaDLkh4Bo/edit?usp=sharing')
+       query.send(handleQueryResponse);     
+    } 
+    function handleQueryResponse(response) {
+        if (response.isError()) {
+            alert('Foutmelding in query: ' + response.getMessage() + ' ' + response.getDetailedMessage());
+            return;
+        }
+        var options = { title: "Mijn productieve dag"};
+        var data = response.getDataTable();
+        var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+        chart.draw(data, options);
+    }
     </script>
-
 </head>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/883731430&color=%23daa520&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/goldenconvos" title="GoldenConvos BackOffice" target="_blank" style="color: #cccccc; text-decoration: none;">GoldenConvos BackOffice</a> · <a href="https://soundcloud.com/goldenconvos/waarom-je-een-blog-zou-moeten-starten" title="Waarom Je Een Blog Zou Moeten Starten" target="_blank" style="color: #cccccc; text-decoration: none;">Waarom Je Een Blog Zou Moeten Starten</a></div>
@@ -47,7 +51,7 @@ Want we gaan het hebben over hoe jij jouw consumptiepatroon in toom houdt.
 ## Meten = Weten
 Het voordeel van jouw bezigheden tracken is dat je kan zien waar jouw tijd naartoe gaat. Maar waar het melkkoetje nou *echt* ligt is dat het je helpt behoeden op overconsumptie.
 
-<div id="mijn_project_dag_chart" style="width: 700px; height: 250px;"></div>
+<div id="piechart" style="width: 700px; height: 250px;"></div>
 
-## Weet wat je eet. (filter jouw consumptie)
+<!-- ## Weet wat je eet. (filter jouw consumptie) -->
 
