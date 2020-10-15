@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title: "Megathread: Audioseries"
 date: 1995-02-02 18:57:51
 ---
