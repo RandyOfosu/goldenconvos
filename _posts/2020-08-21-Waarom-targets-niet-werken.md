@@ -8,11 +8,13 @@ date: 2020-08-21 11:40:31
 
 <i class="fa fa-clock-o" aria-hidden="true" style="fontsize:20px"> **15 MIN READ**</i>
 
-**RANDY OFOSU** -- Hoe je mijn clickbaity titel eigenlijk moet lezen is; "*Waarom targets als kpi voor jouw werknemer niet werkt op de manier hoe jij het wilt.*" 
+**RANDY OFOSU** -- Hoe je mijn clickbaity titel eigenlijk moet lezen is; "*Waarom targets als kpi voor jouw werknemer niet werkt op de manier hoe jij denkt dat het werkt.*" Dit stuk is niet gericht naar alle bedrijven die targets hanteren op de werkvloer. Het is gericht op bedrijven met een zwakke en onvolledige doelstellingen. 
 
-Targets werken wel als jouw doel is om alleen jouw conversies (sales) te verhogen. Dan zijn targets een van de vele manieren om dit doel te behalen. Maar stel dat jouw intentie is om loyale klanten en werknemers te verkrijgen, die jouw product/dienst willen aanraden aan anderen die dezelfde behoeftes hebben. Dan is de implementatie van targets op deze manier als <a href="https://www.marketingtermen.nl/begrip/key-performance-indicator" title="Definitie: Key Performance Indicator" alt="Definitie: Key Perfomance Indicator" target="_blank">key performance indicator</a> funest voor jouw werkvloer en dienst/product.
+Targets zijn handig om je conversies te verhogen, echter is dat alleen kunstmatige een manier om dit doel te behalen. Maar stel dat het jouw intentie is om loyale klanten en werknemers te verkrijgen, die jouw product/dienst willen aanraden aan anderen die dezelfde behoeftes hebben. Dan is de implementatie van targets op deze manier als <a href="https://www.marketingtermen.nl/begrip/key-performance-indicator" title="Definitie: Key Performance Indicator" alt="Definitie: Key Perfomance Indicator" target="_blank">key performance indicator</a> funest voor jouw werkvloer, dienst en product.
 
-In deze blogpost zal ik mijn visie hierop delen. Daarbij zal ik voorstellen doen op wat bedrijven anders kunnen doen, om een gezondere werkmilieu en loyale klantenkring op te bouwen. 
+Meningvolle groei vereist tijd en tijd kan je niet haasten. Want haastige spoed is zelden, winstgevend.
+
+In deze blogpost zal ik mijn visie hierop delen. Daarbij zal ik nederig voorstellen wat bedrijven anders kunnen doen, om een gezondere werkmilieu en loyale klantenkring op te bouwen. 
 
 ###### TL;DR
 
@@ -25,16 +27,16 @@ In deze blogpost zal ik mijn visie hierop delen. Daarbij zal ik voorstellen doen
 ## Waarom targets aantrekkelijk zijn om te implementeren.
 Het lijkt mij handig om te vertellen waarom wij als mensen überhaupt targets zijn gaan gebruiken om de productiviteit van een werknemer te kunnen meten. 
 
-Bedrijven kunnen alleen een product/dienst leveren als zij genoeg geld verdienen van klanten om te kunnen opereren. In sommige gevallen worden bedrijven gefinanciëerd door investeerders. Het doel van de investeerders is om geld te verdienen met het geld dat zij uitlenen. Met het geld dat zij uitlenen willen investeerders dat het bedrijf groeit. Want later wanneer het bedrijf gegroeid is, zullen de investeerders hun geïnvesteerde bedrag ontvangen met een afgesproken winstpercentage. 
+Bedrijven kunnen alleen een product/dienst leveren als zij genoeg geld verdienen om te kunnen opereren. In sommige gevallen worden bedrijven gefinanciëerd door investeerders. Het doel van de investeerders is om geld te verdienen met het geld dat zij uitlenen. Sommige bedrijven nemen dat geld aan om een groeisprint te krijgen of om überhaupt te kunnen opereren. Met het geld dat investeerders uitlenen willen zij dat het bedrijf groeit. Want later wanneer het bedrijf gegroeid is, zullen de investeerders hun geïnvesteerde bedrag ontvangen met een afgesproken winstpercentage, aka rente. 
 <img src="/assets/img/bedrijfscyclus.png" alt="Het bedrijfscyclus in beweging" title="Bedrijfscyclus">
 
 Hoe een bedrijf deze groei moet bereiken, is de <a href="https://nl.wikipedia.org/wiki/Pakkie-an" title="Een kleine funfact" alt="Een kleine funfact" target="_blank">pakkie-an</a> van het bedrijf. De meeste bedrijven gebruiken het geld van investeerders om grote <a href="https://www.marketingtermen.nl/begrip/acquisitie" title="Definitie: acquisitie" alt="Definitie: acquisitie" target="_blank"> acquisitiecampagnes</a> te houden. Hun doel met zo'n campagne is dan zoveel mogelijk klanten/werknemers te werven en te behouden. Hoe zij kunnen meten of hun campagne werkt is doormiddel van metingen zoals de key performance indicatoren! 
 
-Één zo'n indicator is de conversie. Een conversie is het moment dat een klant is overgegaan tot de aankoop van een dienst of product. Wat het meest voorkomt is dat zo'n conversie wordt uitgedrukt in een percentage. Dus des te hoger het percentage is, des te meer sales je hebt gemaakt. Nu gaan er lampjes gaan branden bij de bestuurlijke machten van zo'n bedrijf. 
+Één zo'n indicator is de conversie. Een conversie is het moment dat een klant is overgegaan tot de aankoop van een dienst of product. Wat het meest voorkomt is dat zo'n conversie wordt uitgedrukt in een percentage. Dus des te hoger het percentage, des te meer sales je hebt gemaakt. Nu gaan er lampjes gaan branden bij de bestuurlijke machten van zo'n bedrijf. 
 
 >Hoe meer sales mijn werknemers maken, hoe meer geld. Hoe meer geld, hoe meer tevreden mijn investerdeers worden.
 
-Jammer, want dit is naar mijn mening het moment dat salesmanager of zelfs een leidinggevende op C-niveau de verkeerde belangen gaat behartigen. In principe zijn investeerders alleen geïnteresseerd in het proces dat hen dichterbij hun <a href="https://nl.wikipedia.org/wiki/Return_on_investment" title="definitie: Return on Investment" target="_blank">ROI</a> brengt. Anders loop je als bedrijf het risico dat ze nooit meer zaken met jou willen doen. 
+Jammer, want dit is naar mijn mening het moment dat salesmanager of zelfs een leidinggevende op C-niveau de verkeerde belangen gaan behartigen. In principe zijn investeerders alleen geïnteresseerd in het proces dat hen dichterbij hun <a href="https://nl.wikipedia.org/wiki/Return_on_investment" title="definitie: Return on Investment" target="_blank">ROI</a> brengt. Anders loop je als bedrijf het risico dat ze nooit meer zaken met jou willen doen. 
 
 Waar komen de klanten en werknemers dan in dit verhaal? **Dat is dus de kern van het probleem!**
 

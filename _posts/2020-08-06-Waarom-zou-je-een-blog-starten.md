@@ -87,11 +87,11 @@ Er is een blogpost van <a href="https://tomprof.stanford.edu/posting/1495#:~:tex
 2. Mensen zullen hun acties herhalen als zij ervoor worden beloond, een beloning kan ook erkenning zijn van je gelijken.
 3. Mensen leren het **meest** wanneer ze worden geconfronteerd met een dilemma of iets wat relevant is voor hen om te leren.
 
-Het is wel duidelijk dat deze punten allemaal kunnen vallen onder het bloggen.
+Het is wel duidelijk dat deze punten allemaal kunnen vallen onder het bloggen. 
 
 ## Alles wat je niet gebruikt raak je kwijt.
 
-Als je niet blijft schrijven zal je het verleren. Met een blog blijft het niet alleen vers in je repertoire maar zal je het juist versterken. Je zal jezelf betrappen op stijlfouten en wilt niet telkens dezelfde woorden gebruiken. Misschien kom je erachter dat je niet precies weet hoe je een woord spelt. Dat had ik net met _repertoire/tutoyeren_.
+Als je niet blijft schrijven zal je het verleren. Met een blog blijft het niet alleen vers in je repertoire maar zal je het versterken. Je zal jezelf betrappen op stijlfouten en wilt niet telkens dezelfde woorden gebruiken. Misschien kom je erachter dat je niet precies weet hoe je een woord spelt. Dat had ik net met _repertoire_ en _tutoyeren_.
 
 Schrijven draagt ook bij aan jouw spraak dus als jij een hakkelige spreker bent zal dit jou enorm helpen.
 
@@ -99,13 +99,17 @@ Elke vorm van communicatie met de mens moet je meesteren. Dat is alleen als je e
 
 ## Het bouwen van een community
 
-Tegenwoordig gooien mensen wel heel vaak de term community rond. Hierom denk ik dat het nodig om te definiëren wat een community is.
+Het woord gemeenschap is bestemd voor de boomers, wij "hippe" mensen verangliceren (dit woord verzin ik ter plaatsen) graag woorden om te laten zien hoe hip we zijn. Wij zeggen "community". Maar wat betekend dat eigenlijk? En waarom gooien we deze term zovaak rond? Hierom denk ik dat het nodig is om te definiëren wat een community nou eigenlijk is. Laten we kijken naar de etymologie van het woord community. Het komt uit het latijnse woord *communis* en betekent: "gedeeld door allen of velen."
 
-> A community is a group of individiduals who share a mutual concern for one another's welfare.
+Oke duidelijk maar wat is dan de definitie van community? 
 
-Dit is direct geciteerd uit het boek van <a href="https://partner.bol.com/click/click?p=2&t=url&s=1105255&f=TXL&url=https%3A%2F%2Fwww.bol.com%2Fnl%2Ff%2Fthe-art-of-community%2F9200000058455938%2F&name=The%20Art%20of%20Community" title="Affiliatelink: Het boek The Art of Community van Charles H. Vogl" alt="Het boek The Art of Community van Charles H. Vogl" target="_blank">_The Art of Community_</a> van Charles H. Vogl. Zolang niemand van een "community" om elkaar geeft, spreken we niet van een community, maar van een los kluitje mensen. Ja, zij kunnen toevallig geïnteresseerd zijn in dezelfde dingen. Ja, zij kunnen dezelfde mening delen over polarizerende onderwerpen. Maar zolang zij niet achterom kijken voor elkaar, is er geen sprake van een community.
+> "A community is a group of individiduals who share a mutual concern for one another's welfare."
 
-In een toekomstige blogpost zal ik het hebben over hoe je een sterke community kan bouwen, met behulp van het boek dat ik eerder heb genoemd. Voor nu is mijn punt dat je doormiddel van een blog een community kan bouwen.
+Dit is direct geciteerd uit het boek van <a href="https://www.google.com/search?client=firefox-b-d&q=the+art+of+community+vogl" title="Het boek: The Art of Community van Charles H. Vogl" alt="Het boek The Art of Community van Charles H. Vogl" target="_blank">_The Art of Community_</a> van Charles H. Vogl. Zolang niemand van een "community" om elkaar geeft, spreken we niet van een community, maar van een los kluitje mensen. Ja, zij kunnen toevallig geïnteresseerd zijn in dezelfde dingen. Ja, zij kunnen dezelfde mening delen over polarizerende onderwerpen. Maar zolang zij niet achterom kijken voor elkaar, is er geen sprake van een community. Want, als je niet geeft om de welzijn van anderen om je heen vallen die connecties op den duur altijd uit elkaar. Dat is heel logisch, want je gaat niet in op verzoeken van mensen waar je niet mee te maken hoeft te hebben. Als dat vaak genoeg gebeurt, krijg je geen verzoeken meer en valt de **communi**catie en connectie weg.
+
+Met een blog kan je een community bouwen. Dit onderwerp op zichzelf valt niet buiten de scope van de blogpost maar is zo'n groot onderwerp dat het haar eigen blogpost verdient.
+
+In een toekomstige blogpost zal ik het hebben over hoe je een sterke community kan bouwen, met behulp van het boek dat ik eerder heb genoemd. Voor nu wil ik alleen benoemen dat het mogelijk is.
 
 ### Waarom zouden mensen een blog willen lezen?
 

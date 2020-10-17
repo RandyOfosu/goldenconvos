@@ -17,9 +17,9 @@ Hij sprak ons toe als een vader of oom zou doen en zei:
 
 <img src="/assets/img/stairwaytoheaven.jpg" title="Een foto van een trap, ter vervulling van deze cliché." alt="Een foto van een trap, ter vervulling van deze cliché.">
 
-Ik parafraseer, hij ging in wat meer details. Wat niet kan ontbreken is dat je: "Grote doelen in kleinere doelen moet opdelen." Die kleinere doelen zijn jouw traptredes. Het leven verkoopt verlangens met doelen als een combideal. Dus iedereen gaat ooit te maken krijgen met deze trap of ze het willen of niet. 
+Het leven verkoopt verlangens met lijden (doelen) als een combideal. Dus iedereen gaat ooit te maken krijgen met deze trap of ze het willen of niet. 
 
-Dus ga ik jou laten zien hoe je jouw grote doelen kan opbreken in kleinere doelen. 
+Dus ga ik jou laten zien hoe jij jouw grote doelen kan opbreken in kleinere doelen. 
 
 ###### TL:DR
 - Download de bijgesloten PDF.
@@ -34,7 +34,7 @@ Heb jij het gevoel dat dagen, weken, maanden en jaren aan elkaar smelten?
 Zeg jij wel eens: "Oh mijn God het is al *'voer jaar-maand-dag in'*, het leek echt op gisteren (of andere relatief korte tijdsbestek) toen het nog 'voer-een-jaartal-in' was." 
 Wil je elke dag in bed blijven liggen en niet gestoord worden? 
 Is jouw spiritanimal een plastic winkelzak die wordt aangedreven door de willekeurige winden van het leven? 
-Want, dan heb ik goed nieuws voor jou! Jij leeft een doelloos bestaan.
+Dan heb ik goed nieuws voor jou! Jij leeft een doelloos bestaan.
 
 <img src="/assets/img/patricktodolistmeme.gif" title="Een .gif van jouw plannen in het leven." alt="Een .gif van jouw plannen in het leven.">
 
@@ -51,7 +51,7 @@ Hoe je begint te dwalen kan je allemaal terugvinden in het boek van Napoleon Hil
 Maar in het kort: heeft dwalen negatieve invloed op jouw fysiek, mentaliteit, financiën en omgang met anderen. Letterlijk alle dingen die je nodig hebt om te overleven in deze wereld. Sterker nog, dit zijn de dingen waar je de beste in wilt zijn. 
 
 ## Hoe zet je goede doelen.
-Ik heb een hele document voor jullie gemaakt waarmee je met gemak goede doelen kan maken voor jezelf. Als je hebt gesubbed op GoldenConvos krijg je de word-bestand dat scheelt overschrijf werk. Voor de mensen die hun mailbox ongerept willen houden, niet getreurd. Ik heb hier een <a href="/assets/pdf/goldenconvos_goalsetting_pdf_versie.pdf"  target="_blank" title="GoldenConvos Goalsetting" alt="Een PDF van de GoldenConvos Goalsetting">PDF-versie</a>.
+Ik heb een heel document voor jullie gemaakt waarmee je met gemak goede doelen kan maken voor jezelf. Als je hebt gesubbed op GoldenConvos krijg je de word-bestand dat scheelt overschrijf werk. Voor de mensen die hun mailbox ongerept willen houden, niet getreurd. Ik heb hier een <a href="/assets/pdf/goldenconvos_goalsetting_pdf_versie.pdf"  target="_blank" title="GoldenConvos Goalsetting" alt="Een PDF van de GoldenConvos Goalsetting">PDF-versie</a>.
 
 ## Hou rekening met de seizoenen.
 Er zijn periodes in het jaar, waarbij je elke dag hard moet werken om de vruchten te plukken. Maar er zijn ook periodes in het jaar waarbij je gas terug moet geven en alles even op een rijtje zet. Het leven van een boer is een mooie analogie hiervoor. Want in de lente moet hij hard gaan ploegen en zaaien voordat het zomer wordt. Net iets voor herfst moet hij al gaan oogsten om dan vervolgens te gaan verkopen in de winter. Dit waren dan wel boeren van de oude garden. Maar een groot deel van deze structuur bestaat nog steeds. 
