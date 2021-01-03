@@ -159,6 +159,7 @@
   display: inline;
 }
 
+// Read indicator progress bar
 .readindicator {
   // positie
   position: fixed;
@@ -172,4 +173,16 @@
   // styling
   background-color: transparent;
   border: transparent;
+}
+
+progress::-webkit-progress-bar {
+  background-color: transparent;
+}
+
+progress::-webkit-progress-value {
+  background-color: #daa520;
+}
+
+progress::-moz-progress-bar {
+  background-color: #daa520;
 }
