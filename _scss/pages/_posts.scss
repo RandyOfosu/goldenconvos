@@ -158,3 +158,18 @@
 #next:hover .nav-title {
   display: inline;
 }
+
+.readindicator {
+  // positie
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  // Dimensies
+  height: .25em;
+  width: 100%;
+
+  // styling
+  background-color: transparent;
+  border: transparent;
+}

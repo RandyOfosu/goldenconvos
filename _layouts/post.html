@@ -7,13 +7,30 @@ layout: default
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
   <!-- Google Charts -->
-<script src="https://www.gstatic.com/charts/loader.js"></script>
-<script>
-  google.charts.load('current', {packages: ['corechart']});
-</script>
+  <script src="https://www.gstatic.com/charts/loader.js"></script>
+  <script>
+    google.charts.load('current', {packages: ['corechart']});
+  </script>
 
+  <!-- JQuery -->
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js">
+    var winHeight = $(window).height(),   
+    docHeight = $(document).height();
+       
+    max = docHeight - winHeight; $("progress").attr('max', max);
+
+    var value = $(window).scrollTop(); $("progress").attr('value', value);
+
+    $(document).on('scroll', function() {
+    value = $(window).scrollTop();
+    progressBar.attr('value', value);
+    });
+  </script>
 
 </head>
+
+<!-- Read Indicator Bar -->
+<progress class="readindicator" value="0"></progress>
 
 <section class="single-wrap">
   <article class="single-content" itemscope itemtype="http://schema.org/BlogPosting">
@@ -44,3 +61,21 @@ layout: default
     {% endif %}
   </article>
 </section>
+
+<script>
+  $(document).on('ready', function() {  
+  var winHeight = $(window).height(), 
+      docHeight = $(document).height(),
+      progressBar = $('progress'),
+      max, value;
+
+  /* Set the max scrollable area */
+  max = docHeight - winHeight;
+  progressBar.attr('max', max);
+
+    $(document).on('scroll', function(){
+      value = $(window).scrollTop();
+      progressBar.attr('value', value);
+    });
+  });
+</script>

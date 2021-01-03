@@ -58,6 +58,6 @@ Na een tijdje zal je een uitblinker aannemen die ongeveer dezelfde inzichten zal
 
 Dit wordt dan ook het moment dat je tijd hebt gecreërd voor een tweede filiaal. Gefeliciteerd🎉, je hebt nu zojuist meer verdiend dan dat je ooit in je eentje zou kunnen doen.
 
-Dit is dan ook het geheim van alle miljonairs. 
+Dit is dan ook het ""geheim"" van alle miljonairs. 
 
 Verhoog jouw eigen waarde en geef aspecten van deze lessen zo goed mogelijk door aan jouw werkgevers zodat zij kunnen doen wat jij kan. De werknemers zullen je dankbaar zijn en hun vrienden aanraden om bij je te komen werken. 

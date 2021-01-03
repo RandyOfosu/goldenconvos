@@ -17,14 +17,14 @@ Het is net als of je alleen zou rijden op zonne-energie:
 - Soms zitten er wolken voor de zon en heb je minder zin.
 - En dan kunnen er nog gevallen zijn dat de zon helemaal niet schijnt. Nu heb je helemaal geen zin om iets te doen.
 
-Deze design-flaw kan je tackelen door naast zonne-energie, jouw voertuig andere vormen van brandstoffen te laten aannemen.
+Deze design-flaw kan je tackelen door naast zonne-energie, jouw voertuig andere vormen van brandstof aan te laten nemen.
 
 De sterkste vorm van brandstof voor de mens is een *reden*. Dat is net waterstof (het spul waarmee we raketten aandrijven). Een mens met een reden is bijna niet te stoppen.
 
-De meest duurzame vorm van brandstof is discipline. Dat moet je zien als diesel. Hiermee kan je lange afstanden verleggen en is het meest consistent.
+De meest duurzame vorm van brandstof is discipline. Dat moet je zien als diesel. Hiermee kan je lange afstanden verleggen omdat het 1 van de meest consistent vorm van brandstof is.
 
-Je kan dan wel de meest sterke en duurzame brandstof gebruiken. Heb je nog te maken met andere factoren. Een zo'n factor is dat sommige voertuigen 1 op 4 rijden en anderen 1 op 20, hoe dat kan is afhankelijk van de bouw van zo'n voertuig. 
+Je kan dan wel de meest krachtige en duurzame brandstof gebruiken. Je zal dan nog steeds te maken hebben met andere factoren. Een zo'n factor is dat sommige "voertuigen" _geöptimaliseerd_ zijn om 1 op 4 te rijden en andere 1 op 20. Hoe dat kan is afhankelijk van de bouw van zo'n voertuig. 
 
-Je zal nog een paar 100 jaren moeten wachten voordat jezelf verbouwen om minder te verbruiken. Echter is dit de beste optie, sporten! Wanneer je sport zal jouw verbruik op den duur logistische groei ervaren. Je kan dan ook wat beter tegen een stootje als je blijft rekken en strekken.
+Je zal nog een paar jaar moeten wachten voor je jezelf mechanisch mag verbouwen om wat langer mee te kunnen gaan. Maar gelukkig is er iets wat de next beste optie is en dat is sporten! Je kan dan ook wat beter tegen een stootje.
 
-Natuurlijk kan je niet constant afstanden verleggen, je houdt jouw motor toch ook 24/7 aan. Hiervoor hebben we rust en recreatie. Zie dat als een tankstation waar jij jezelf kan opladen. In jouw rustperiode kan je dan even de kaart open slaan. Zo kan je zien of je nog de juiste kant op gaat of wellicht om een pinnetje te zetten op waar je naar toe gaat. 
+Natuurlijk kan je niet constant afstanden verleggen, je houdt jouw motor toch ook niet 24/7 aan. Hiervoor hebben we dan rust en recreatie. Zie dat als een tankstation waar jij jezelf kan opladen. In jouw rustperiode kan je dan even de kaart open slaan. Zo kan je zien of je nog de juiste kant op gaat of wellicht om een pinnetje te zetten op waar je naar toe zou willen gaan. 
