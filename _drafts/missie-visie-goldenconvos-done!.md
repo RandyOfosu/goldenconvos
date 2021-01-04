@@ -11,26 +11,24 @@ date: 2020-10-02 12:30:51
 **RANDY OFOSU** -- Er zijn meerdere redenen achter het bestaan van Goldenconvos. Dus zal ik mijn introductie kort houden en er gelijk in duiken.
 
 ## Reden #1: Enlightened Self-Interest.
-Op de vrije momenten van mijn dag luister ik naar interviews van mensen, die naar mijn mening, het dichtst zitten bij hun punt van zelfactualisatie. Dit keer was het de miljardair en uitvinder van de optische muis Steven T. Kirsch. 
+Op de vrije momenten van mijn dag luister ik naar interviews van mensen, die naar mijn mening, het dichtst zitten bij hun punt van zelfactualisatie. Dit keer was het de uitvinder van de optische muis Steven T. Kirsch. 
 
-Hij heeft mij doen beseffen waarom ik dingen doe zoals Goldenconvos. Voor mij waren het geen nieuwe woorden maar in de audiosamenvatting van mijn voorgaande <a href="/_posts/2020-09-10-Hoe-word-ik-een-effectieve-mentor-of-mentee.md" target="_blank">artikel</a> gaf ik aan dat klikmomenten onverwachts toeslaan. 
-
-Meneer Kirsch benoemde in deze interview waarom hij een fonds is gestart tegen *de virus die niet genoemd zal worden*. De voornaamste reden was dat hij zelf in de risicogroep zat en zijn gezondheid wenst te preserveren. Dat de rest vervolgens mocht genieten van deze vruchten zijn de bijverdiensten van zijn organisatie. Kortom;
+Hij heeft mij opnieuw doen beseffen waarom ik dingen doe zoals Goldenconvos. Meneer Kirsch benoemde in deze interview waarom hij een fonds is gestart tegen *het virus die niet genoemd zal worden*. De voornaamste reden was dat hij zelf in de risicogroep zat en zijn gezondheid wenst te preserveren. Dat de rest vervolgens mocht genieten van deze vruchten zijn de bijverdiensten van zijn organisatie. Kortom;
 
 > Ware altruïsme bestaat niet, maar utilitarisme wel.
 
 Steven Kirsch samen met anderen hebben mij op het filosofische pad gestuurd van -- enlightened self-interest (vertaling: het belichten van eigenbelang). 
 
-Het leven dat ik zou willen leiden kan ik beschrijven als: een verantwoorde soeverein. Daarvoor heb ik kennis, connecties en middelen nodig die dit mogelijk maken. Alles begint met de kennis die je bezit want dat is in deze tijd vrij te verkrijgen voor mensen die ernaar opzoek zijn. 
+Het leven dat ik zou willen leiden kan ik beschrijven als: een verantwoorde onafhankelijke. Daarvoor heb ik kennis, connecties en middelen nodig die dit mogelijk maken. Alles begint met de kennis die je bezit want dat is in deze tijd vrij te verkrijgen voor mensen die ernaar opzoek zijn. 
 
-Uit dit principe zijn meerdere ideeën uit voortgekomen waaronder Goldenconvos. Ik structureer mijn gedachtes van de meeste dingen die ik leer en iedereen die het leest kan dat meekrijgen. Daarbij zal ik altijd anderen nodig hebben dus is het handig om anderen te betrekken bij mijn leerproces. Ik win geheid en het is alleen maar mooi als anderen inconsequent meegenieten van mijn succes.
+Uit dit principe zijn meerdere ideeën uit voortgekomen waaronder Goldenconvos. Ik structureer mijn gedachtes van de meeste dingen die ik leer en iedereen die het leest kan dat meekrijgen. Ik win geheid en het is alleen maar mooi als anderen inconsequent meegenieten van mijn leerproces.
 
 ## Reden #2: Mijn online uitstoot.
 Bij alles wat ik doe probeer ik mijn best te doen om, naast anderen niet tot last te zijn, juist anderen op weg te helpen. Dat geeft mij een fijn gevoel omdat ik geloof dat ik niet uniek ben. 
 
-De gedachte hierachter is dat als ik iets doe dat er miljoenen mensen zijn die dit ook zouden doen. Door dingen te doen zoals de busschauffeur vriendelijk te begroeten of de deur open te houden voor anderen, help ik mij eraan te herinneren dat dit waar is. Dit heeft directe invloed heeft op mijn beeld van de wereld. Mijn geluk hangt af van dit beeld, want wie wil er leven in een wereld vol met lijers. Het curateren van mijn <a href="#" target="_blank">consumptiepatroon</a> draagt hier ook aan bij.
+De gedachte hierachter is dat als ik iets doe dat er miljoenen mensen zijn die dit ook zouden doen. Door dingen te doen zoals de busschauffeur vriendelijk te begroeten of de deur open te houden voor anderen, help ik mij eraan te herinneren dat dit waar is. Dit heeft directe invloed heeft op mijn zelfbeeld van de wereld. Mijn geluk hangt af van dit beeld, want wie wil er leven in een wereld vol met lijers. Het curateren van mijn consumptiepatroon draagt hier ook aan bij.
 
-Hierom ben ik op de uitkijk voor aanpassingen die ik kan doen op mijn leven om anderen te helpen. Ik merkte dat mijn online aanwezigheid dat nog niet deed. Als ik terug zou kijken naar mijn online uitstoot, stond dat niet gelijk aan deze richtlijn. Dus tracht ik mijn online uitstoot te verbeteren. Als ik later terugkijk wil ik: 
+Hierom ben ik op de uitkijk voor aanpassingen die ik kan doen op mijn leven om anderen te helpen. Ik merkte dat mijn online aanwezigheid dat nog niet deed. Dus tracht ik mijn online uitstoot te verbeteren. Als ik later terugkijk wil ik: 
 
 Zien dat ik de deur openhoud voor een ander. 
 
@@ -44,20 +42,20 @@ Dit heeft een reden.
 
 De kwaliteit van gesprekken die wij voeren dragen bij aan een vicieuze cirkel. Uit gesprekken komen besluiten voort en uit besluiten komen daden voort. De kwaliteit van de besluiten die jij neemt, hebben daarom directe invloed op de kwaliteit van jouw leven. Dus in het kort:
 
-Hebben de kwaliteit van de conversaties die wij voeren directe invloed op de kwaliteit van jouw leven.
+Hebben de kwaliteit van de conversaties die wij voeren directe invloed op de kwaliteit van ons leven.
 
 > GoldenConvos leiden tot een GoldenLeven.
 
-Met Goldenconvos bouw ik medestanders en voorstanders van mensen met een soortgelijke doel in gedachte. (Althans, dat hoop ik.) Mijn wens is dat jullie de waarde van Goldenconvos helpen verbeteren met inzichten die jullie hebben verkregen door te lezen, luisteren en reageren. 
+Mijn wens is dat jullie de waarde van Goldenconvos helpen verbeteren met inzichten die jullie hebben verkregen door te lezen, luisteren en reageren. 
 
 De mooiste compliment aan dit project zou zijn dat ik indirect heb bijgedragen aan jouw succes.
 
-> Here we measure succes by how many people succesful next you. We say you are broke if everybody else broke except for you. -- Shawn Carter
+<!-- > Here we measure succes by how many people succesful next you. We say you are broke if everybody else broke except for you. -- Shawn Carter -->
 
 ## Reden #4: Gezonde consumentenmarkt.
-Mensen die ooit gewerkt hebben als een klantenservice medewerker. Weten dat de kwaliteit van de klanten erg belangrijk is voor de duurzaamheid van een bedrijf. Mocht ik de verantwoordelijkheid hebben over medewerkers, zou ik alles eraan doen om zo min mogelijk nare klanten te hebben in mijn klantenbestand. Zodat zij zouden kunnen genieten en groeien van het werk dat zij zouden doen.
+De kwaliteit van de klant is erg belangrijk voor de duurzaamheid van een bedrijf. Mocht ik de verantwoordelijkheid hebben over medewerkers, zou ik alles eraan doen om zo min mogelijk nare klanten te hebben in mijn klantenbestand. Zodat zij zouden kunnen genieten en groeien van het werk dat zij zouden doen.
 
-Dus mocht ik klanten hebben wil ik niet te maken hebben met vrekken. Ik zou liever slimme, amicale en geduldige klanten willen hebben. Deze mensen wil ik met alle liefde helpen. Sterker nog, ik zou ze van een betere dag willen voorzien. Ik zou nooit het geld willen aannemen van een vrek, zij zeuren en klagen het meest. Zij vereisen teveel onderhoudt waardoor ik minder tijd over hou om mijn product of dienst te kunnen verbeteren. Niet klantwaardig.
+Dus mocht ik klanten hebben wil ik niet te maken hebben met vrekken. Ik zou liever slimme, amicale en geduldige klanten willen hebben. Deze mensen wil ik met alle liefde helpen. Sterker nog, ik zou ze van een betere dag willen voorzien. Ik zou nooit het geld willen aannemen van een vrek, zij zeuren en klagen het meest. Zij vereisen teveel onderhoudt waardoor ik minder tijd over hou om mijn product of dienst te kunnen verbeteren. Met andere woorden, niet klantwaardig.
 
 Met Goldenconvos bouw ik een reputatie, ik wil die kunnen baseren op mijn oprechtheid. Goldenconvos blijft gratis en advertentievrij omdat ik dat zelf vervelend vind als ik andere websites bezoek. 
 
