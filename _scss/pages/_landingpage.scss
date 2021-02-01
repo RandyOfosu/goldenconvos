@@ -1,5 +1,5 @@
 
-.wordCarousel {
+.wordCarousel{
     font-size: 180%;
     font-weight: 100;
     color: rgb(44, 44, 44);
@@ -61,14 +61,7 @@
     100% { margin-top: -270px; }
 }
 
-// Layout //////////////////////////////////////////
-
-
-body {
-    font-family: 'Open Sans', sans-serif;
+.menu-links {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    background: #fff;
+    justify-content: space-between;
 }
-
