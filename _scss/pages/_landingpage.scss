@@ -1,6 +1,6 @@
 
 .wordCarousel{
-    font-size: 180%;
+    font-size: 171%;
     font-weight: 100;
     color: rgb(44, 44, 44);
     margin-left: 7%;
@@ -61,7 +61,210 @@
     100% { margin-top: -270px; }
 }
 
-.menu-links {
-    display: flex;
-    justify-content: space-between;
+.social-footer {
+    bottom: 0%;
+    position: fixed;
+    text-transform: lowercase;
+    color: rgb(100, 100, 100);
+    left: -40%;
+}
+
+.menu-wrapper {
+    ul{
+        top: 65%;
+        position: fixed;
+        left: 36%;
+        li {
+            display: inline;
+            margin: 25px;
+            font-size: 103%;
+        }
+    }
+} 
+
+@media only screen and (min-width: 360px) {
+    .menu-wrapper {
+        ul{
+        top: 60%;
+        position: fixed;
+        left: 6%;
+        li {
+            display: inline;
+            margin: 7px;
+            font-size: 103%;
+        }
+    }
+  }
+}
+@media only screen and (min-width: 375px) {
+    .menu-wrapper {
+        ul{
+        top: 60%;
+        position: fixed;
+        left: 4%;
+        li {
+            display: inline;
+            margin: 11px;
+            font-size: 102%;
+        }
+    }
+  }
+}
+@media only screen and (min-width: 414px) {
+    .menu-wrapper {
+        ul{
+        top: 60%;
+        position: fixed;
+        left: 6%;
+        li {
+            display: inline;
+            margin: 14px;
+            font-size: 103%;
+        }
+    }
+  }
+}
+@media only screen and (min-width: 600px) {
+    .menu-wrapper {
+        ul{
+        top: 60%;
+        position: fixed;
+        left: 2%;
+        li {
+            display: inline;
+            margin: 18px;
+            font-size: 103%;
+        }
+    }
+  }
+}
+@media only screen and (min-width: 667px) {
+    .menu-wrapper {
+        ul{
+        top: 70%;
+        position: fixed;
+        left: 7%;
+        li {
+            display: inline;
+            margin: 27px;
+            font-size: 103%;
+        }
+    }
+  }
+}
+@media only screen and (min-width: 736px) {
+    .menu-wrapper {
+        ul{
+            top: 66%;
+            position: fixed;
+            left: 10%;
+            li {
+                display: inline;
+   
+                margin: 29px;
+                font-size: 103%;
+
+            }
+        }
+    }
+}
+@media only screen and (min-width: 740px) {
+    .menu-wrapper {
+        ul{
+            top: 66%;
+            position: fixed;
+            left: 13%;
+            li {
+                display: inline;
+   
+                margin: 27px;
+                font-size: 103%;
+
+            }
+        }
+    }
+}
+@media only screen and (min-width: 768px) {
+    .menu-wrapper {
+        ul{
+        top: 62%;
+        position: fixed;
+        left: 6%;
+        li {
+            display: inline;
+            margin: 35px;
+            font-size: 122%;
+        }
+    }
+  }
+}
+@media only screen and (min-width: 800px) {
+    .menu-wrapper {
+        ul{
+        top: 65%;
+        position: fixed;
+        left: 6%;
+        li {
+            display: inline;
+            margin: 34px;
+            font-size: 127%;
+        }
+    }
+  }
+}
+@media only screen and (min-width: 812px) {
+    .menu-wrapper {
+        ul{
+        top: 70%;
+        position: fixed;
+        left: 9%;
+        li {
+            display: inline;
+            margin: 40px;
+            font-size: 103%;
+        }
+    }
+  }
+}
+@media only screen and (min-width: 1024px) {
+    .menu-wrapper {
+        ul{
+        top: 65%;
+        position: fixed;
+        left: 12%;
+        li {
+            display: inline;
+            margin: 50px;
+            font-size: 103%;
+        }
+    }
+  }
+}
+@media only screen and (min-width: 1280px) {
+    .menu-wrapper {
+        ul{
+        top: 65%;
+        position: fixed;
+        left: 25%;
+        li {
+            display: inline;
+            margin: 52px;
+            font-size: 103%;
+        }
+    }
+  }
+}
+@media only screen and (min-width: 1285px) {
+    .menu-wrapper {
+        ul{
+        top: 65%;
+        position: fixed;
+        left: 25%;
+        li {
+            display: inline;
+            margin: 55px;
+            font-size: 140%;
+        }
+    }
+  }
 }
